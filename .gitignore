@@ -1,11 +1,17 @@
-﻿data/
-out/
-plots/
+﻿/data/
+/out/
+/plots/
 /out_old/
-/out_old/**
-/shapes/
-/shapes/**
 /plots_old/
-/plots_old/**
+/shapes/
+
+# optional extra-sicher:
+data/**
+out/**
+plots/**
+out_old/**
+plots_old/**
+shapes/**
+
 *.zip
 *.csv

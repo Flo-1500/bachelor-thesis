@@ -1,8 +1,0 @@
-{
-  "date_predicates": [
-    "http://data.europa.eu/949/validityStartDate",
-    "http://data.europa.eu/949/validityEndDate"
-  ],
-  "checked": 0,
-  "recent_share_%": null
-}

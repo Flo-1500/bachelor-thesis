@@ -1,7 +1,0 @@
-id,name,lat,lon,uri,country,distance_to_border_m
-EL27190,PYTHION,41.3697,26.6218,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/0b7f482e9a7835167482d2232a22bdfdaf2e01d0,http://publications.europa.eu/resource/authority/country/GRC,163.64
-EU00187,SVILENGRAD-DIKEA,41.7477,26.1667,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/66a39ed86eeba8bfc8ed6b7f944b3144e0a01f99,http://publications.europa.eu/resource/authority/country/GRC,628.29
-EU00189,IDOMENI-GEVGELIJA,41.1283,22.5172,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/7c5a2a1e5a1c771c43a9d19812400bac7269f4f3,http://publications.europa.eu/resource/authority/country/GRC,410.37
-EU00186,PYTHION-UZUNKOPRU,41.3621,26.6315,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/a5d11fe8c5bcc34e6b1ac28baf9b5f0f49ca92e4,http://publications.europa.eu/resource/authority/country/GRC,1118.71
-EU00190,NEOS KAFKASOS-KREMENITSA,40.9073,21.4645,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/bf73f40715ad119b5440576d46fd9e5e6486cc1f,http://publications.europa.eu/resource/authority/country/GRC,220.43
-EU00188,KULATA-PROMACHON,41.3795,23.3643,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/f60b57f92579f895a9e1abbb0a197ec3f4ab5f4c,http://publications.europa.eu/resource/authority/country/GRC,171.94

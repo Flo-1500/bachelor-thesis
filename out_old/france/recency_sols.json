@@ -1,8 +1,0 @@
-{
-  "date_predicates": [
-    "http://data.europa.eu/949/validityEndDate",
-    "http://data.europa.eu/949/validityStartDate"
-  ],
-  "checked": 25796,
-  "recent_share_%": 50.79
-}
