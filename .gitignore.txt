@@ -1,9 +1,0 @@
-# Outputs / große Dateien
-*.zip
-data/
-out/
-out_old/
-plots/
-plots_old/
-shapes/
-
