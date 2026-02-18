@@ -1,0 +1,22 @@
+{
+  "R1_sols_endpoints_exist_%": 100.0,
+  "R2_min_distance_violations": 13,
+  "R2_zero_distance_pairs": 1,
+  "R3_bbox_violations": 33,
+  "R4_osm_within_threshold_%": 76.5,
+  "R5_osm_type_compatible_%": 100.0,
+  "R6_missing_reverse_edges_%": 99.21,
+  "R7_recency_ops_%": 0.38,
+  "R7_recency_sols_%": null,
+  "R8_osm_only_count": 2075,
+  "R8_osm_total": 4971,
+  "R8_osm_only_share_%": 41.74,
+  "R8_align_distance_m": 200,
+  "notes": {
+    "country": "spain",
+    "min_op_distance_m": 50,
+    "max_osm_distance_m": 100,
+    "assume_bidirectional": true,
+    "recency_days": 1095
+  }
+}

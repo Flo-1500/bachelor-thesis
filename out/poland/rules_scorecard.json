@@ -1,0 +1,25 @@
+{
+  "R1_sols_endpoints_exist_%": 100.0,
+  "R2_min_distance_violations": 0,
+  "R2_zero_distance_pairs": 0,
+  "R3_bbox_violations": 36,
+  "R4_osm_within_threshold_%": 93.5,
+  "R5_osm_type_compatible_%": 89.1,
+  "R6_missing_reverse_edges_%": 96.57,
+  "R7_recency_ops_%": 86.89,
+  "R7_recency_sols_%": 100.0,
+  "R7_ops_expired_%": 1.74,
+  "R7_ops_unknown_%": 11.37,
+  "R7_sols_expired_%": 0.0,
+  "R7_sols_unknown_%": 0.0,
+  "R8_osm_only_count": 971,
+  "R8_osm_total": 8508,
+  "R8_osm_only_share_%": 11.41,
+  "R8_align_distance_m": 200,
+  "notes": {
+    "country": "poland",
+    "min_op_distance_m": 50,
+    "max_osm_distance_m": 100,
+    "assume_bidirectional": true
+  }
+}

@@ -1,0 +1,201 @@
+id,name,lat,lon,osm_elements,min_distance_m,within_threshold,osm_type_compatible,error
+EU00111,Prevalje d.m.,46.5667,14.8399,8,4.9,True,True,
+EU00112,Jesenice d.m.,46.4815,14.0199,7,9.6,True,True,
+EU00113,Šentilj d.m.,46.692,15.6404,6,2.7,True,True,
+EU00149,Vrtojba d.m.,45.92315,13.6269,9,0.7,True,True,
+EU00150,Repentabor d.m.,45.72324,13.81084,8,0.5,True,True,
+EU00151,Sežana d.m.,45.68757,13.83348,8,1.8,True,True,
+EU00185,Hodoš d.m.,46.81974,16.34172,8,65.9,True,True,
+EU00213,Lendava d.m.,46.51546,16.44405,5,3.1,True,True,
+EU00214,Imeno d.m.,46.11559,15.60657,5,44.1,True,True,
+EU00215,Metlika d.m.,45.64556,15.34289,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+EU00216,Dobova d.m.,45.89068,15.68015,10,0.9,True,True,
+EU00217,Ilirska Bistrica d.m.,45.50518,14.24422,3,14.6,True,True,
+EU00218,Središče d.m.,46.38822,16.30414,4,3.2,True,True,
+EU00219,Rakitovec d.m.,45.45398,13.9501,1,1217.6,False,True,
+EU00220,Rogatec d.m.,46.21231,15.77691,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42001,Dobova,45.8982323,15.6561357,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42002,Brežice,45.9238199,15.5899505,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42003,Libna,45.9454053,15.5402589,7,4.9,True,True,
+SI42004,Krško,45.9561252,15.4934674,16,14.7,True,True,
+SI42005,Brestanica,45.9849454,15.4747758,11,43.8,True,False,
+SI42006,Blanca,45.9899132,15.3957231,14,2.7,True,True,
+SI42100,Sevnica,46.0093232,15.3012959,12,15.2,True,True,
+SI42101,Breg,46.0416356,15.2355284,10,7.6,True,True,
+SI42102,Loka,46.0527503,15.2057509,5,96.8,True,True,
+SI42103,Radeče,46.0719496,15.1828107,4,327.7,False,False,
+SI42200,Zidani Most,46.0855064,15.1701995,23,4.5,True,True,
+SI42201,Hrastnik,46.122614,15.093344,27,3.2,True,True,
+SI42203,Trbovlje,46.1262165,15.0366892,31,13.6,True,True,
+SI42204,Zagorje,46.1205577,14.9909258,16,10.9,True,True,
+SI42206,Sava,46.088673,14.8984704,9,10.1,True,True,
+SI42207,Litija,46.0581673,14.8251342,11,8.2,True,True,
+SI42208,Kresnice,46.102883,14.7916977,16,2.3,True,True,
+SI42209,Jevnica,46.0843682,14.7371566,13,4.5,True,True,
+SI42210,Laze,46.088243,14.6875524,23,11.1,True,True,
+SI42211,Ljubljana Zalog,46.0594448,14.6151972,49,6.3,True,True,
+SI42212,Ljubljana Polje,46.0595517,14.5833732,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42213,Ljubljana Moste,46.058851,14.5505761,73,22.4,True,True,
+SI42215,Lokomotivska postaja Ljubljana Moste,46.0589335,14.5577394,75,33.8,True,True,
+SI42300,Ljubljana,46.0585712,14.5102702,59,2.5,True,True,
+SI42301,Ljubljana Šiška,46.0659913,14.5001171,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42302,Ljubljana Vižmarje,46.1006715,14.4645052,15,10.0,True,True,
+SI42303,Medno,46.1222942,14.4390211,4,0.5,True,True,
+SI42304,Medvode,46.13792,14.4121693,14,0.9,True,True,
+SI42305,Reteče,46.1565561,14.3710949,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42306,Škofja Loka,46.1744996,14.3356703,24,1.2,True,True,
+SI42307,Kranj,46.2421477,14.3476422,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42309,Podnart,46.2938749,14.258484,12,21.1,True,True,
+SI42310,Otoče,46.3109743,14.2324775,4,6.7,True,True,
+SI42311,Globoko,46.3233075,14.2083172,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42312,Radovljica,46.3404527,14.1737321,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42313,Lesce-Bled,46.360351,14.1578402,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42314,Žirovnica,46.4019475,14.1355912,9,1.4,True,True,
+SI42315,Slovenski Javornik,46.4272069,14.0880456,12,22.6,True,True,
+SI42316,Ljubljana Litostroj,46.078471,14.4885315,6,108.6,False,False,
+SI42317,Ljubljana Stegne,46.086672,14.48008,4,43.8,True,True,
+SI42351,Ljubljana Črnuče,46.1009076,14.5263023,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42352,Domžale,46.1392542,14.5923722,11,9.9,True,True,
+SI42353,Jarše Mengeš,46.1656579,14.5938058,13,0.8,True,True,
+SI42354,Kamnik,46.2208907,14.6036448,17,5.2,True,True,
+SI42355,Kamnik mesto,46.2249434,14.6093233,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42356,Kamnik Graben,46.2292323,14.609379,9,28.4,True,True,
+SI42357,Ljubljana Brinje,46.0767091,14.5031166,19,9.3,True,True,
+SI42358,Trzin Mlake,46.1285782,14.5596598,4,1.8,True,True,
+SI42359,Trzin,46.1329431,14.5688658,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42360,Rodica,46.1496424,14.5924648,5,70.2,True,True,
+SI42361,Homec,46.1799265,14.5905667,4,1.4,True,True,
+SI42362,Šmarca,46.1930448,14.5884921,4,9.8,True,True,
+SI42363,Duplica-Bakovnik,46.1989932,14.5914811,2,50.8,True,False,
+SI42365,Ljubljana Ježica,46.0889165,14.5070452,5,10.3,True,True,
+SI42366,Trzin industrijska cona,46.1186882,14.5508087,3,26.3,True,True,
+SI42400,Jesenice,46.4360452,14.0546156,89,12.6,True,True,
+SI42501,Rosalnice,45.6488797,15.3360746,4,11.6,True,True,
+SI42502,Metlika,45.6424022,15.322994,10,8.7,True,True,
+SI42503,Dobravice,45.6322878,15.2698647,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42504,Gradac,45.6143394,15.2412713,6,2.5,True,True,
+SI42505,Črnomelj,45.5798457,15.1904022,8,34.5,True,True,
+SI42506,Otovec,45.5989492,15.1615395,9,10.1,True,True,
+SI42507,Semič,45.6430354,15.1617839,9,5.0,True,True,
+SI42508,Rožni Dol,45.6818476,15.1483248,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42509,Uršna Sela,45.714607,15.1277889,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42510,Birčna vas,45.7579663,15.1481451,7,8.5,True,True,
+SI42511,Novo mesto Kandija,45.7997942,15.1605807,8,3.8,True,True,
+SI42512,Novo mesto center,45.8062343,15.1608974,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42514,Novo mesto Šmihel,45.7959681,15.1614968,10,16.1,True,True,
+SI42600,Novo mesto,45.8108544,15.1556434,17,13.0,True,True,
+SI42601,Mirna Peč,45.8667766,15.0914615,11,2.9,True,True,
+SI42602,Ponikve,45.8977562,15.0428002,7,1.7,True,True,
+SI42603,Hudo,45.8338677,15.1362328,8,1.0,True,True,
+SI42652,Straža,45.7852674,15.0765861,5,29.4,True,False,
+SI42700,Trebnje,45.9067118,15.0086497,8,2.7,True,True,
+SI42701,Štefan,45.9127432,14.9803525,6,1.0,True,True,
+SI42702,Velika Loka,45.9320805,14.9692919,9,5.3,True,True,
+SI42703,Šentlovrenc,45.9380126,14.9409969,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42704,Gaber,45.9404908,14.9092119,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42705,Radohova vas,45.9432121,14.8731587,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42706,Šentvid pri Stični,45.9407916,14.8500968,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42707,Ivančna Gorica,45.9380163,14.8031046,8,3.0,True,True,
+SI42708,Polževo,45.9406619,14.7792218,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42709,Višnja Gora,45.9581497,14.7422573,9,12.0,True,True,
+SI42710,Žalna,45.939615,14.7074647,5,11.1,True,True,
+SI42711,Mlačevo,45.9403579,14.6851533,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42800,Grosuplje,45.9559059,14.6522726,24,16.8,True,True,
+SI42801,Šmarje-Sap,45.9751646,14.6175361,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42802,Škofljica,45.9843405,14.5727172,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42803,Lavrica,45.9990745,14.5543891,5,10.0,True,True,
+SI42804,Ljubljana Rakovnik,46.0369269,14.5187967,12,2.4,True,True,
+SI42805,Ljubljana Vodmat,46.055577,14.529324,8,21.9,True,True,
+SI42851,Dobrepolje,45.8585329,14.6813583,12,9.6,True,True,
+SI42852,Velike Lašče,45.8419554,14.6452217,3,29.3,True,True,
+SI42853,Ortnek,45.7904846,14.6802119,11,11.1,True,True,
+SI42854,Ribnica,45.743471,14.730558,16,4.9,True,True,
+SI42855,Stara Cerkev,45.6693666,14.8379414,4,17.7,True,True,
+SI42856,Kočevje,45.6463114,14.8570872,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI42857,Spodnja Slivnica,45.9345748,14.655278,6,13.6,True,True,
+SI42859,Čušperk,45.8924646,14.6953128,2,145.4,False,False,
+SI42860,Žlebič,45.7678548,14.6925326,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42901,Boštanj,46.0073622,15.2900628,4,4.2,True,True,
+SI42902,Jelovec,45.9891597,15.2398637,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42903,Tržišče,45.9664598,15.1908594,5,10.2,True,True,
+SI42904,Pijavice,45.9682006,15.1633386,8,12.8,True,True,
+SI42905,Mokronog,45.9579961,15.1214176,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42906,Šentrupert,45.9594644,15.0876586,4,7.7,True,True,
+SI42907,Mirna,45.9492232,15.0624627,8,19.2,True,True,
+SI42908,Gomila,45.9347867,15.0449067,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI42909,Trebnje Kamna Gora,45.9062968,15.0249512,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43001,Rimske Toplice,46.1237001,15.2030054,8,5.1,True,True,
+SI43002,Laško,46.1541676,15.232042,15,7.1,True,True,
+SI43100,Celje,46.2283581,15.2682305,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI43101,Štore,46.221491,15.3216639,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI43102,Šentjur,46.2129895,15.3961631,9,6.3,True,True,
+SI43103,Celje tovorna (Čret),46.2320985,15.2904811,62,8.1,True,True,
+SI43200,Grobelno,46.2131061,15.4395814,43,8.5,True,True,
+SI43201,Ponikva,46.2481995,15.4305874,20,2.5,True,True,
+SI43202,Dolga Gora,46.2776534,15.4980835,10,11.1,True,True,
+SI43203,Poljčane,46.3134273,15.5765405,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI43204,Slovenska Bistrica,46.3630969,15.597946,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI43205,Ostrožno,46.2640356,15.4730662,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43251,Šentvid pri Grobelnem,46.2274905,15.4704087,5,12.7,True,True,
+SI43252,Šmarje pri Jelšah,46.2309556,15.5157262,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI43300,Pragersko,46.3954119,15.6621676,17,10.4,True,True,
+SI43301,Rače,46.4533828,15.6638361,25,5.9,True,True,
+SI43302,Orehova vas,46.4727411,15.6634706,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI43303,Hoče,46.5010335,15.6629211,17,6.6,True,True,
+SI43304,Maribor Tezno,46.5258803,15.6570218,58,14.3,True,True,
+SI43351,Cirkovce,46.4008731,15.7312019,3,3.6,True,True,
+SI43352,Strnišče,46.4007424,15.7704878,3,2.3,True,True,
+SI43353,Kidričevo,46.4006449,15.800332,21,2.2,True,True,
+SI43354,Hajdina,46.4031776,15.8551122,3,5.3,True,True,
+SI43355,Ptuj,46.4222386,15.8788693,27,8.7,True,True,
+SI43356,Moškanjci,46.4233368,15.9836673,8,2.4,True,True,
+SI43357,Osluševci,46.4194451,16.049497,10,10.8,True,True,
+SI43358,Velika Nedelja,46.4150967,16.1053432,8,5.4,True,True,
+SI43359,Zamušani,46.4214057,16.0165031,3,18.9,True,True,
+SI43360,Šikole,46.4009737,15.6969648,5,1.4,True,True,
+SI43362,Cirkovce Polje,46.4008395,15.7404948,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI43363,Cvetkovci,46.4176227,16.0801616,3,35.9,True,False,
+SI43400,Maribor,46.5612726,15.6577721,50,19.4,True,True,
+SI43401,Maribor Studenci,46.5540939,15.6352317,87,10.5,True,True,
+SI43402,Limbuš,46.5588289,15.583003,8,13.8,True,True,
+SI43403,Bistrica ob Dravi,46.5577261,15.5542125,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43404,Ruše,46.5409461,15.5038375,10,0.6,True,True,
+SI43405,Fala,46.5480545,15.4516578,4,5.1,True,True,
+SI43406,Ruta,46.5630187,15.4316289,12,3.8,True,True,
+SI43407,Ožbalt,46.5748582,15.4063709,3,2.6,True,True,
+SI43408,Podvelka,46.5906086,15.330572,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43409,Vuhred elektrarna,46.5865097,15.2798246,4,2.6,True,True,
+SI43410,Vuhred,46.5965546,15.2359875,11,1.5,True,True,
+SI43411,Vuzenica,46.5936469,15.1584854,13,2.3,True,True,
+SI43412,Trbonje,46.6053277,15.1105119,5,3.4,True,True,
+SI43413,Maribor Tabor,46.5517251,15.6453665,13,7.8,True,True,
+SI43414,Marles,46.5588329,15.5966984,5,2.9,True,True,
+SI43415,Ruše tovarna,46.5449971,15.5147598,5,21.5,True,True,
+SI43416,Trbonjsko Jezero,46.593882,15.126228,3,5.2,True,True,
+SI43417,Sveti Danijel,46.6032285,15.0649628,3,5.5,True,True,
+SI43418,Sveti Vid,46.6082846,15.1912996,3,113.5,False,False,
+SI43420,Maribor Sokolska,46.5564983,15.624846,19,1.2,True,True,
+SI43451,Pesnica,46.6098664,15.6804924,12,47.9,True,True,
+SI43452,Cirknica,46.6419928,15.664317,4,43.5,True,False,
+SI43453,Šentilj,46.6742745,15.6580594,18,24.6,True,True,
+SI43500,Dravograd,46.5869714,15.0268857,18,6.0,True,True,
+SI43501,Ravne na Koroškem,46.5470794,14.9633671,7,14.5,True,True,
+SI43502,Prevalje,46.5500055,14.9217973,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43503,Holmec,46.5663744,14.8413153,6,4.7,True,True,
+SI43505,Podklanc,46.5735965,15.0208234,6,0.9,True,True,
+SI43506,Dobrije,46.5504553,14.9859171,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43551,Otiški vrh,46.5729832,15.0310863,14,10.7,True,False,
+SI43600,Ormož,46.4031304,16.1560799,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43601,Pušenci,46.4099113,16.1762354,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43602,Pavlovci,46.421702,16.1789759,4,48.1,True,True,
+SI43603,Ivanjkovci,46.4564051,16.157647,2,22.4,True,False,
+SI43604,Mekotnjak,46.5007906,16.155286,4,1.8,True,True,
+SI43605,Ljutomer mesto,46.5209993,16.1997343,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SI43651,Obrež,46.3910133,16.2259684,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43652,Središče,46.3890894,16.2772004,11,3.0,True,True,
+SI43653,Frankovci,46.3956433,16.1891343,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43656,Lendava,46.5564911,16.446169,13,12.9,True,True,
+SI43700,Ljutomer,46.5285894,16.1891494,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43701,Veržej,46.5739714,16.1819738,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SI43702,Grlava,46.5572326,16.1742315,3,4.7,True,True,
+SI43703,Lipovci,46.6233769,16.2113396,8,4.5,True,True,

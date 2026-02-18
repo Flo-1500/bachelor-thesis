@@ -1,0 +1,22 @@
+{
+  "R1_sols_endpoints_exist_%": 100.0,
+  "R2_min_distance_violations": 12,
+  "R2_zero_distance_pairs": 2,
+  "R3_bbox_violations": 41,
+  "R4_osm_within_threshold_%": 98.5,
+  "R5_osm_type_compatible_%": 100.0,
+  "R6_missing_reverse_edges_%": 99.74,
+  "R7_recency_ops_%": 100.0,
+  "R7_recency_sols_%": 100.0,
+  "R8_osm_only_count": 456,
+  "R8_osm_total": 1799,
+  "R8_osm_only_share_%": 25.35,
+  "R8_align_distance_m": 200,
+  "notes": {
+    "country": "portugal",
+    "min_op_distance_m": 50,
+    "max_osm_distance_m": 100,
+    "assume_bidirectional": true,
+    "recency_days": 1095
+  }
+}

@@ -1,0 +1,10 @@
+id,name,lat,lon,uri,country,distance_to_border_m
+BELZRDL,Zeebrugge-Bundel Dart-Line,51.345984,3.173135,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/a88e738b57c81c26ae53b49f548121f355837e3e,http://publications.europa.eu/resource/authority/country/BEL,240.13
+EU00089,Meer-Grens,51.485665,4.734452,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/12f5be61c8f29240468fea64f861be57c3a2e3d1,http://publications.europa.eu/resource/authority/country/BEL,305.84
+EU00084,Mouscron-Frontière,50.7220695,3.1961674,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/18bfc57a4a7a8a31cffeb7d703b61e9ea00d0f3d,http://publications.europa.eu/resource/authority/country/BEL,1291.31
+EU00090,Essen-Grens,51.46913,4.448921,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/1dae97c629ceb798e6e67bc9bb015795a679bb9a,http://publications.europa.eu/resource/authority/country/BEL,478.41
+EU00086,Quévy-Frontière,50.3288424,3.9083749,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/7bf78cc33f3bb8de679f44481ce25915466055f8,http://publications.europa.eu/resource/authority/country/BEL,602.34
+EU00083,Esplechin-Frontière,50.5720246,3.2784511,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/7ccd4dbcc5c9adf4c70b4b661c82027d8494ff60,http://publications.europa.eu/resource/authority/country/BEL,702.2
+EU00085,Blandain-Frontière,50.6174356,3.2636772,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/cecd0a51c529ce99a73f87cbf4088f74d1c290a8,http://publications.europa.eu/resource/authority/country/BEL,797.21
+EU00096,Sterpenich-Frontière,49.6437,5.9042,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/e797192706b6be18b230f260f8de1f21d439ee56,http://publications.europa.eu/resource/authority/country/BEL,794.98
+BE1217,Lijn 4-Stopmerkborden 249x(NL),51.477972,4.730666,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/619a984455963a444bef04a90dca0a4f5c8eaac8,http://publications.europa.eu/resource/authority/country/BEL,6.82

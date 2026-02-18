@@ -1,0 +1,201 @@
+id,name,lat,lon,osm_elements,error,min_distance_m,within_threshold,osm_type_compatible
+EU00201,Koprivnica DG,46.24703,16.94493,-1,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter,,,
+EU00201,Koprivnica DG,46.24703,16.94493,10,,29.8,True,True
+EU00202,Beli Manastir DG,45.79834,18.55795,4,,89.1,True,True
+EU00202,Beli Manastir DG,45.79834,18.55795,4,,89.1,True,True
+EU00203,Kotoriba DG,46.35918,16.85202,5,,36.6,True,True
+EU00203,Kotoriba DG,46.35918,16.85202,5,,36.6,True,True
+EU00213,Mursko Središće DG,46.51546,16.44405,5,,3.1,True,True
+EU00213,Mursko Središće DG,46.51546,16.44405,-1,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter,,,
+EU00214,Kumrovec DG,46.11559,15.60657,5,,44.1,True,True
+EU00214,Kumrovec DG,46.11559,15.60657,5,,44.1,True,True
+EU00215,Kamanje DG,45.64556,15.34289,7,,0.7,True,True
+EU00215,Kamanje DG,45.64556,15.34289,7,,0.7,True,True
+EU00216,Savski Marof DG,45.89068,15.68015,10,,0.9,True,True
+EU00216,Savski Marof DG,45.89068,15.68015,10,,0.9,True,True
+EU00217,Šapjane DG,45.50518,14.24422,3,,14.6,True,True
+EU00217,Šapjane DG,45.50518,14.24422,3,,14.6,True,True
+EU00218,Čakovec DG,46.38822,16.30414,4,,3.2,True,True
+EU00218,Čakovec DG,46.38822,16.30414,4,,3.2,True,True
+EU00219,Buzet DG,45.45398,13.9501,1,,1217.6,False,True
+EU00219,Buzet DG,45.45398,13.9501,1,,1217.6,False,True
+EU00220,Đurmanec DG,46.21231,15.77691,4,,12.1,True,True
+EU00220,Đurmanec DG,46.21231,15.77691,4,,12.1,True,True
+EU00221,Slavonski Šamac DG,45.061,18.49626,4,,19.5,True,True
+EU00221,Slavonski Šamac DG,45.061,18.49626,4,,19.5,True,True
+EU00222,Metković DG,43.05886,17.65746,10,,6.5,True,True
+EU00222,Metković DG,43.05886,17.65746,10,,6.5,True,True
+EU00223,Volinja Dg,45.18939,16.48235,5,,36.0,True,True
+EU00223,Volinja Dg,45.18939,16.48235,5,,36.0,True,True
+EU00225,Drenovci DG,44.86828,18.8309,4,,90.5,True,True
+EU00226,Tovarnik DG,45.14734,19.16442,6,,2.2,True,True
+EU00226,Tovarnik DG,45.14734,19.16442,6,,2.2,True,True
+EU00227,Erdut DG,45.52332,19.08632,2,,152.4,False,True
+HR12922,Zagreb Klara (stajalište),45.7557,15.9814,10,,2.6,True,True
+HR12922,Zagreb Klara (stajalište),45.7557,15.9814,10,,2.6,True,True
+HR71001,Tovarnik,45.1555,19.1486,12,,4.5,True,True
+HR71001,Tovarnik,45.1555,19.1486,12,,4.5,True,True
+HR71002,Ilača,45.1734,19.0897,10,,5.8,True,True
+HR71003,Banovci,45.1801,19.067,9,,7.7,True,True
+HR71004,Vinkovački Banovci,45.1858,19.0473,9,,0.9,True,True
+HR71004,Vinkovački Banovci,45.1858,19.0473,9,,0.9,True,True
+HR71005,Đeletovci,45.193,19.0227,6,,6.1,True,True
+HR71006,Orolik,45.2067,18.9756,10,,9.0,True,True
+HR71006,Orolik,45.2067,18.9756,10,,9.0,True,True
+HR71007,Slakovci,45.2151,18.9463,10,,3.1,True,True
+HR71007,Slakovci,45.2151,18.9463,10,,3.1,True,True
+HR71008,Srijemske Laze,45.2272,18.9278,10,,5.6,True,True
+HR71008,Srijemske Laze,45.2272,18.9278,10,,5.6,True,True
+HR71009,Jankovci,45.2447,18.9034,7,,6.5,True,True
+HR71010,Mirkovci,45.2788,18.8561,10,,4.5,True,True
+HR71010,Mirkovci,45.2788,18.8561,10,,4.5,True,True
+HR71101,Ivankovo,45.2784,18.6675,13,,4.1,True,True
+HR71102,Vođinci,45.2697,18.6138,11,,6.5,True,True
+HR71102,Vođinci,45.2697,18.6138,11,,6.5,True,True
+HR71103,Stari Mikanovci,45.2666,18.5397,9,,4.0,True,True
+HR71103,Stari Mikanovci,45.2666,18.5397,9,,4.0,True,True
+HR71104,Strizivojna-Vrpolje,45.2273,18.4137,25,,17.2,True,True
+HR71104,Strizivojna-Vrpolje,45.2273,18.4137,25,,17.2,True,True
+HR71160,Vinkovci,45.3004,18.8028,49,,14.6,True,True
+HR71160,Vinkovci,45.3004,18.8028,49,,14.6,True,True
+HR71201,Nuštar,45.3364,18.8413,3,,71.9,True,True
+HR71201,Nuštar,45.3364,18.8413,3,,71.9,True,True
+HR71203,Bršadin-Lipovača,45.3677,18.9165,5,,12.7,True,True
+HR71204,Vukovar-Borovo naselje,45.3734,18.9552,15,,53.8,True,True
+HR71204,Vukovar-Borovo naselje,45.3734,18.9552,15,,53.8,True,True
+HR71205,Borovo-Trpinja,45.4081,18.9658,2,,25.0,True,True
+HR71206,Novi Dalj,45.4797,18.9582,1,,2246.2,False,True
+HR71206,Novi Dalj,45.4797,18.9582,1,,2246.2,False,True
+HR71207,Dalj,45.5005,18.9672,9,,11.1,True,True
+HR71208,Erdut,45.5074,19.0491,7,,4.9,True,True
+HR71211,Đergaj,45.4545,17.1717,0,,,False,
+HR71301,Vrapčana,45.2609,18.8262,5,,12.4,True,True
+HR71301,Vrapčana,45.2609,18.8262,5,,12.4,True,True
+HR71302,Privlaka,45.1984,18.8485,6,,6.5,True,True
+HR71302,Privlaka,45.1984,18.8485,6,,6.5,True,True
+HR71303,Otok,45.1456,18.8719,7,,3.5,True,True
+HR71303,Otok,45.1456,18.8719,7,,3.5,True,True
+HR71304,Spačva,45.0412,18.9041,6,,6.0,True,True
+HR71304,Spačva,45.0412,18.9041,6,,6.0,True,True
+HR71305,Vrbanja,44.9825,18.8851,4,,4.2,True,True
+HR71305,Vrbanja,44.9825,18.8851,4,,4.2,True,True
+HR71306,Drenovci,44.9198,18.8589,6,,5.1,True,True
+HR71307,Gunja,44.8828,18.8443,7,,2.5,True,True
+HR71309,Vinkovci Bolnica,45.2926,18.8226,6,,9.9,True,True
+HR71309,Vinkovci Bolnica,45.2926,18.8226,6,,9.9,True,True
+HR71401,Vinkovačko Novo Selo,45.29,18.7815,5,,5.2,True,True
+HR71401,Vinkovačko Novo Selo,45.29,18.7815,5,,5.2,True,True
+HR71402,Andrijaševci,45.23,18.7305,3,,17.2,True,True
+HR71403,Cerna,45.1942,18.6991,5,,6.3,True,True
+HR71404,Gradište,45.1444,18.6999,4,,35.2,True,True
+HR71405,Županja,45.0833,18.6964,9,,15.0,True,True
+HR71405,Županja,45.0833,18.6964,9,,15.0,True,True
+HR71406,Rokovci,45.2413,18.7316,4,,5.0,True,True
+HR71406,Rokovci,45.2413,18.7316,4,,5.0,True,True
+HR71452,Vukovar,45.3624,18.9868,17,,4.7,True,True
+HR71452,Vukovar,45.3624,18.9868,17,,4.7,True,True
+HR71501,Ostrovo,45.3357,18.7775,5,,2.9,True,True
+HR71501,Ostrovo,45.3357,18.7775,5,,2.9,True,True
+HR71502,Gaboš,45.354,18.7432,3,,3.9,True,True
+HR71503,Markušica-Antin,45.3814,18.7336,4,,40.2,True,True
+HR71503,Markušica-Antin,45.3814,18.7336,4,,40.2,True,True
+HR71504,Laslovo-Korođ,45.4145,18.7073,6,,21.0,True,True
+HR71504,Laslovo-Korođ,45.4145,18.7073,6,,21.0,True,True
+HR71505,Ernestinovo,45.4451,18.6676,4,,0.2,True,True
+HR71506,Antunovac,45.4836,18.6701,3,,11.9,True,True
+HR71507,Brijest,45.517,18.6721,7,,5.4,True,True
+HR71601,Bijelo Brdo,45.5131,18.859,-1,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter,,,
+HR71602,Sarvaš,45.5208,18.8344,9,,12.1,True,True
+HR71602,Sarvaš,45.5208,18.8344,9,,12.1,True,True
+HR71603,Osijek Donji grad,45.5522,18.7213,22,,2.8,True,True
+HR71603,Osijek Donji grad,45.5522,18.7213,22,,2.8,True,True
+HR71604,Nemetin,45.5342,18.7785,5,,71.3,True,True
+HR71604,Nemetin,45.5342,18.7785,5,,71.3,True,True
+HR71605,Osijek OLT,45.5541,18.7055,6,,6.2,True,True
+HR71605,Osijek OLT,45.5541,18.7055,6,,6.2,True,True
+HR71606,Standard,45.5453,18.7421,9,,8.5,True,True
+HR71606,Standard,45.5453,18.7421,9,,8.5,True,True
+HR71607,Osijek Luka,45.5366,18.7677,6,,2.4,True,True
+HR71607,Osijek Luka,45.5366,18.7677,6,,2.4,True,True
+HR71701,Osijek Dravski Most,45.5588,18.7036,25,,10.5,True,True
+HR71701,Osijek Dravski Most,45.5588,18.7036,25,,10.5,True,True
+HR71703,Darda,45.6339,18.6993,7,,7.4,True,True
+HR71704,Čeminac,45.6859,18.6554,4,,24.9,True,True
+HR71705,Beli Manastir,45.7657,18.5961,21,,5.1,True,True
+HR71790,Belišće,45.6823,18.4211,6,,175.5,False,True
+HR71791,Ladimirevci,45.6241,18.4601,-1,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter,,,
+HR71791,Ladimirevci,45.6241,18.4601,5,,7.9,True,True
+HR71802,Čepin,45.5206,18.5779,4,,2.1,True,True
+HR71803,Vladislavci,45.4755,18.5587,9,,1.1,True,True
+HR71803,Vladislavci,45.4755,18.5587,9,,1.1,True,True
+HR71804,Dopsin,45.4631,18.5503,2,,1.4,True,True
+HR71805,Hrastovac-Vučki,45.4432,18.5399,2,,10.3,True,True
+HR71807,Viškovci,45.3464,18.4265,4,,6.7,True,True
+HR71807,Viškovci,45.3464,18.4265,4,,6.7,True,True
+HR71808,Đakovo,45.3136,18.4218,14,,7.9,True,True
+HR71809,Budrovci,45.261,18.4207,4,,9.5,True,True
+HR71810,Lipovac-Koritna,45.4215,18.5237,4,,2.8,True,True
+HR71810,Lipovac-Koritna,45.4215,18.5237,4,,2.8,True,True
+HR71901,Josipovac,45.5742,18.5901,14,,1.1,True,True
+HR71902,Samatovci,45.5908,18.5026,4,,11.3,True,True
+HR71902,Samatovci,45.5908,18.5026,4,,11.3,True,True
+HR71903,Bizovac,45.5871,18.453,11,,6.5,True,True
+HR71904,Cret,45.5735,18.4098,5,,11.3,True,True
+HR71905,Normanci,45.5573,18.3665,4,,1.7,True,True
+HR71905,Normanci,45.5573,18.3665,4,,1.7,True,True
+HR71906,Koška,45.5415,18.2954,10,,2.8,True,True
+HR71906,Koška,45.5415,18.2954,10,,2.8,True,True
+HR71907,Niza,45.5428,18.2346,4,,3.0,True,True
+HR71907,Niza,45.5428,18.2346,4,,3.0,True,True
+HR71908,Našička Breznica,45.5315,18.1907,3,,18.9,True,True
+HR71908,Našička Breznica,45.5315,18.1907,3,,18.9,True,True
+HR71909,Jelisavac,45.5234,18.1548,5,,10.6,True,True
+HR71910,Višnjevac,45.5614,18.6198,4,,4.8,True,True
+HR71910,Višnjevac,45.5614,18.6198,4,,4.8,True,True
+HR71911,Višnjevac IPK,45.5664,18.6066,5,,2.7,True,True
+HR71911,Višnjevac IPK,45.5664,18.6066,5,,2.7,True,True
+HR71912,Frigis,45.5584,18.6357,5,,9.0,True,True
+HR71913,Petrove Gore,45.5557,18.6505,3,,3.6,True,True
+HR71913,Petrove Gore,45.5557,18.6505,3,,3.6,True,True
+HR71914,Vodovod,45.5524,18.6682,6,,3.8,True,True
+HR71914,Vodovod,45.5524,18.6682,6,,3.8,True,True
+HR71922,Valpovo,45.6616,18.4252,5,,31.7,True,True
+HR71922,Valpovo,45.6616,18.4252,5,,31.7,True,True
+HR71960,Osijek,45.5527,18.6834,51,,4.6,True,True
+HR71960,Osijek,45.5527,18.6834,51,,4.6,True,True
+HR72001,Jasenovac,45.2761,16.9106,10,,2.2,True,True
+HR72002,Višnjica,45.2565,16.8803,7,,6.6,True,True
+HR72002,Višnjica,45.2565,16.8803,7,,6.6,True,True
+HR72003,Hrvatska Dubica,45.2217,16.8062,7,,4.2,True,True
+HR72004,Živaja,45.247,16.7276,6,,4.1,True,True
+HR72004,Živaja,45.247,16.7276,6,,4.1,True,True
+HR72005,Šaš,45.285,16.6684,6,,5.3,True,True
+HR72005,Šaš,45.285,16.6684,6,,5.3,True,True
+HR72006,Papići,45.3079,16.6345,3,,6.7,True,True
+HR72006,Papići,45.3079,16.6345,3,,6.7,True,True
+HR72007,Staza,45.3286,16.6037,3,,4.5,True,True
+HR72007,Staza,45.3286,16.6037,3,,4.5,True,True
+HR72008,Cerovljani,45.2226,16.773,4,,5.1,True,True
+HR72060,Sunja,45.3555,16.5505,22,,1.8,True,True
+HR72060,Sunja,45.3555,16.5505,22,,1.8,True,True
+HR72101,Brđani Krajiški,45.383,16.4946,3,,30.2,True,True
+HR72102,Blinjski Kut,45.4158,16.4577,6,,9.1,True,True
+HR72103,Sisak Caprag,45.4581,16.3905,26,,4.3,True,True
+HR72103,Sisak Caprag,45.4581,16.3905,26,,4.3,True,True
+HR72201,Hrastovac,45.3115,16.5465,7,,7.5,True,True
+HR72202,Graboštani,45.2805,16.5415,5,,6.4,True,True
+HR72203,Majur,45.2574,16.528,8,,3.6,True,True
+HR72203,Majur,45.2574,16.528,8,,3.6,True,True
+HR72204,Hrvatska Kostajnica,45.2353,16.5274,4,,8.8,True,True
+HR72205,Volinja,45.2024,16.4861,11,,6.7,True,True
+HR72205,Volinja,45.2024,16.4861,11,,6.7,True,True
+HR72209,Kumrovec,46.0763,15.6582,2,,30.0,True,True
+HR72209,Kumrovec,46.0763,15.6582,2,,30.0,True,True
+HR72301,Zagreb Resnik,45.8101,16.0679,8,,15.9,True,True
+HR72301,Zagreb Resnik,45.8101,16.0679,8,,15.9,True,True
+HR72302,Zagreb Žitnjak,45.7735,16.048,6,,10.6,True,True
+HR72302,Zagreb Žitnjak,45.7735,16.048,6,,10.6,True,True
+HR72303,Zagreb RK OS,45.7541,16.0276,23,,21.0,True,True
+HR72303,Zagreb RK OS,45.7541,16.0276,23,,21.0,True,True
+HR72304,Zagreb Rk PS (sredina),45.7574,15.9969,19,,26.6,True,True
+HR72304,Zagreb Rk PS (sredina),45.7574,15.9969,19,,26.6,True,True

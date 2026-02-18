@@ -1,0 +1,201 @@
+id,name,lat,lon,osm_elements,min_distance_m,within_threshold,osm_type_compatible,error
+EU00076,Lúky pod Makytou št. hr.,49.17981,18.12982,6,92.7,True,True,
+EU00077,Horné Srnie št. hr.,49.03166,18.05331,20,10.4,True,True,
+EU00078,Vrbovce št. hr.,48.82603,17.51682,10,104.7,False,True,
+EU00079,Skalica na Slovensku št. hr.,48.86982,17.24065,27,11.3,True,True,
+EU00080,Holíč nad Moravou št. hr.,48.83772,17.12643,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+EU00081,Kúty št. hr.,48.71112,17.00042,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+EU00082,Čadca št. hr.,49.49439,18.76439,10,7.3,True,True,
+EU00109,Bratislava-Petržalka št. hr.,48.102834,17.084221,10,0.7,True,True,
+EU00110,Devínska Nová Ves št. hr.,48.241229,16.946641,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+EU00158,Skalité št. hr.,49.50388,18.97193,22,1.1,True,True,
+EU00159,Plaveč št. hr.,49.29605,20.92397,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+EU00160,Medzilaborce št. hr.,49.25086,22.03846,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+EU00161,Maťovce ŠRT št. hr.,48.56241,22.16063,6,3.6,True,True,
+EU00162,Čierna nad Tisou št. hr.,48.43276,22.13762,11,11.7,True,True,
+EU00163,Čierna nad Tisou ŠRT št. hr.,48.43276,22.13762,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+EU00164,Slovenské Nové Mesto št. hr.,48.38981,21.66948,6,82.5,True,True,
+EU00165,Čaňa št. hr.,48.52877,21.26256,4,90.3,True,True,
+EU00166,Lenartovce št. hr.,48.3018,20.33859,8,42.7,True,True,
+EU00167,Fiľakovo št. hr.,48.16836,19.82116,5,89.2,True,True,
+EU00168,Malé Straciny št. hr.,48.16365,19.51302,5,81.0,True,True,
+EU00169,Lučenec št. hr.,48.24626,19.63834,5,87.3,True,True,
+EU00170,Štúrovo št. hr.,47.82362,18.85269,23,11.2,True,True,
+EU00171,Komárno št. hr.,47.75657,18.0879,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+EU00172,Rusovce št. hr.,48.01373,17.17945,5,0.5,True,True,
+SK126011,"km 7,000",48.546418,20.3329539,1,372.2,False,True,
+SK126029,"km 4,300",48.5364123,20.3645313,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK126128,Modrý most,48.199113,17.149853,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK127134,"Barca km 94,941",48.690035,21.272457,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK127423,"Barca km 95,941",48.698822,21.269593,24,37.9,True,True,
+SK130112,Ľubochňa,49.12694,19.17201,22,6.9,True,True,
+SK130138,Martin,49.06392,18.915,50,6.7,True,True,
+SK130161,Kúty,48.66195,17.04753,87,2.8,True,True,
+SK130203,Haniska pri Košiciach ŠRT,48.631433,21.248416,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK130211,Stankovany,49.14451,19.17312,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK130237,Košťany nad Turcom,49.0312,18.90655,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK130260,Brodské,48.69265,17.02305,5,4.7,True,True,
+SK130310,Švošov,49.120874,19.2084,7,19.2,True,False,
+SK130336,Príbovce-Rakovo,48.99389,18.87985,14,7.4,True,True,
+SK130369,Kuklov,48.64939,17.06966,5,0.5,True,True,
+SK130419,Ružomberok,49.083224,19.30877,57,33.4,True,True,
+SK130435,Kláštor pod Znievom,48.95618,18.85242,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK130468,Sekule,48.60773,17.01907,24,4.9,True,True,
+SK130518,Hrboltová,49.100254,19.24594,14,31.3,True,True,
+SK130534,Diviaky,48.87603,18.85048,19,9.5,True,True,
+SK130567,Moravský Svätý Ján,48.58737,17.00911,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK130617,Ružomberok-Rybárpole,49.08603,19.28174,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK130633,Jazernica,48.92791,18.834454,11,17.9,True,True,
+SK130666,Veľké Leváre,48.50929,17.01866,32,3.3,True,True,
+SK130716,Lisková,49.091363,19.371085,39,10.6,True,False,
+SK130732,Malý Čepčín,48.90465,18.84317,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK130765,Závod,48.53904,17.00776,10,4.2,True,True,
+SK130815,Liptovská Teplá,49.0998,19.41665,14,3.1,True,True,
+SK130831,Turčianske Teplice,48.86291,18.85371,9,5.1,True,True,
+SK130864,Malacky,48.43301,17.02326,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK130914,Lisková zastávka,49.087274,19.353425,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK130930,Horná Štubňa,48.79278,18.88165,19,0.5,True,True,
+SK130963,Zohor,48.32573,16.99142,39,1.8,True,True,
+SK131011,Liptovský Mikuláš,49.09127,19.60539,30,88.3,True,True,
+SK131037,Horná Štubňa zastávka,48.82263,18.86967,10,8.8,True,True,
+SK131060,Plavecký Štvrtok,48.37298,17.00776,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK131136,Turček,48.75946,18.91762,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK131169,Vysoká pri Morave,48.33376,16.91386,7,5.2,True,True,
+SK131235,Kremnica,48.69787,18.92416,12,30.6,True,True,
+SK131268,Lozorno,48.33723,17.04226,9,2.5,True,True,
+SK131318,Okoličné,49.07638,19.6516,12,31.3,True,True,
+SK131334,Kremnické Bane,48.74299,18.90276,11,10.5,True,True,
+SK131367,Devínska Nová Ves,48.21905,16.97637,89,1.7,True,True,
+SK131417,Liptovský Hrádok,49.03762,19.72093,15,41.2,True,True,
+SK131466,Devínske Jazero,48.251026,16.961002,12,1.9,True,True,
+SK131516,Podtureň,49.05896,19.69525,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK131615,Kráľova Lehota,49.02626,19.78562,28,19.4,True,True,
+SK131631,Jastrabá,48.64407,18.92436,5,5.1,True,True,
+SK131664,Bratislava-Lamač,48.18502,17.05054,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK131714,Východná,49.050414,19.917011,18,18.6,True,True,
+SK131730,Stará Kremnička,48.59963,18.89409,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK131763,Bratislava-Železná studienka,48.17457,17.07279,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK131813,Liptovské Vlachy,49.08782,19.47447,11,4.9,True,True,
+SK131839,Hronská Dúbrava,48.57648,18.98965,39,5.2,True,True,
+SK131938,Trnavá Hora,48.59178,18.94888,5,8.8,True,True,
+SK132001,Štrba,49.08368,20.06494,55,6.8,True,True,
+SK132068,Bratislava hlavná stanica,48.15893,17.1067,115,11.0,True,True,
+SK132100,Važec,49.0662,19.98741,7,13.2,True,True,
+SK132134,Banská Belá zastávka,48.48804,18.9493,2,476.6,False,False,
+SK132167,Bratislava-Vajnory,48.19487,17.2067,39,0.6,True,True,
+SK132209,Štrba zastávka,49.06232,20.08274,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK132233,Zvolen osobná stanica,48.56965,19.12067,73,4.2,True,True,
+SK132266,Bratislava ústredná nákladná stanica,48.14155,17.17269,43,3.0,True,True,
+SK132308,Svit,49.06087,20.19801,15,3.3,True,True,
+SK132332,Zvolen nákladná stanica,48.57276,19.14431,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK132407,Lučivná,49.05964,20.14239,4,24.1,True,False,
+SK132464,Bernolákovo,48.197358,17.305974,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK132506,Poprad-Tatry,49.05999,20.29448,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK132563,Ivanka pri Dunaji,48.19458,17.260008,11,8.4,True,True,
+SK132605,Poprad-Spišská Sobota,49.05767,20.309173,31,8.6,True,True,
+SK132662,Veľký Biel,48.206037,17.362989,11,16.8,True,True,
+SK132704,Gánovce,49.02331,20.31553,15,44.7,True,True,
+SK132761,Senec,48.213559,17.414165,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK132837,Čremošné,48.84112,18.94768,10,30.0,True,False,
+SK132860,Reca,48.219163,17.45546,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK132936,Horná Štubňa obec,48.83112,18.8775,5,10.6,True,True,
+SK132969,Sládkovičovo,48.19563,17.629654,21,1.2,True,True,
+SK133009,Veľký Slavkov,49.09115,20.27731,16,8.2,True,True,
+SK133033,Harmanec jaskyňa,48.8227,19.034224,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK133108,Vydrník,48.99454,20.40805,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK133132,Dolný Harmanec,48.8069,19.05757,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK133165,Pusté Úľany,48.207877,17.544494,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK133207,Spišský Štiavnik,49.00693,20.37784,14,13.4,True,True,
+SK133231,Harmanec,48.79749,19.07561,6,10.6,True,True,
+SK133264,Galanta,48.184997,17.72297,80,11.2,True,True,
+SK133306,Letanovce,48.973653,20.460319,14,17.8,True,True,
+SK133330,Uľanka,48.77999,19.12366,4,56.7,True,True,
+SK133363,Šaľa,48.147638,17.859721,24,10.9,True,True,
+SK133405,Spišské Tomášovce,48.964638,20.474267,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK133462,Topoľnica,48.166394,17.795107,13,10.5,True,True,
+SK133504,Smižany,48.95315,20.52245,11,9.6,True,True,
+SK133538,Kostiviarska,48.75893,19.14361,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK133561,Diakovce,48.12994,17.852021,2,36.8,True,False,
+SK133603,Spišská Nová Ves,48.95038,20.56114,55,11.6,True,True,
+SK133637,Banská Bystrica,48.73507,19.16345,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK133660,Tešedíkovo,48.10642,17.856249,7,18.7,True,True,
+SK133702,Teplička nad Hornádom,48.91862,20.58354,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK133769,Žihárec,48.078884,17.881173,8,22.6,True,True,
+SK133801,Harichovce,48.95478,20.5843,4,97.1,True,False,
+SK133868,Trnovec nad Váhom,48.152538,17.929272,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK133900,Markušovce,48.910322,20.63404,41,15.1,True,True,
+SK133934,Šalková,48.741266,19.21817,13,3.4,True,True,
+SK133967,Jatov,48.119241,18.006642,11,2.3,True,True,
+SK134007,Matejovce nad Hornádom,48.91731,20.66988,11,17.2,True,True,
+SK134064,Tvrdošovce,48.092504,18.040855,16,18.2,True,True,
+SK134106,Chrasť nad Hornádom,48.92564,20.70025,12,11.2,True,True,
+SK134163,Palárikovo,48.060081,18.0819,21,14.4,True,True,
+SK134205,Spišské Vlachy,48.93588,20.80376,35,22.7,True,True,
+SK134262,Ľudovítov,48.034941,18.113962,9,17.6,True,True,
+SK134304,Spišské Vlachy mesto,48.94195,20.7922,6,15.0,True,True,
+SK134361,Nové Zámky,47.995087,18.174275,107,3.1,True,True,
+SK134403,Vítkovce,48.92538,20.71639,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK134460,Dvory nad Žitavou,47.96871,18.249086,13,18.5,True,True,
+SK134502,Olcnava,48.92598,20.74851,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK134569,Pribeta,47.938069,18.316438,16,9.0,True,True,
+SK134601,Krompachy,48.92154,20.88574,43,4.3,True,True,
+SK134668,Strekov,47.899833,18.39981,21,3.3,True,True,
+SK134700,Richnava,48.92288,20.92448,12,33.4,True,True,
+SK134734,Vígľaš,48.55424,19.28262,16,16.3,True,True,
+SK134809,Kluknava,48.91401,20.95128,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK134866,Gbelce,47.849363,18.506914,13,10.4,True,True,
+SK134908,Margecany,48.89437,21.01345,87,18.8,True,True,
+SK134932,Zvolenská Slatina,48.55893,19.25163,2,43.3,True,False,
+SK134965,Nová Vieska,47.86844,18.461458,9,23.2,True,True,
+SK135004,Margecany zastávka,48.8895,21.04056,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK135038,Pstruša,48.55339,19.31249,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK135137,Stožok,48.53824,19.35837,34,7.4,True,True,
+SK135160,Mužla,47.813069,18.595277,11,10.0,True,True,
+SK135202,Jaklovce,48.873689,20.979176,3,69.4,True,True,
+SK135236,Kriváň,48.52859,19.44586,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK135269,Štúrovo,47.80006,18.67872,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK135301,Malá Lodina,48.87395,21.13429,13,6.3,True,True,
+SK135335,Detva,48.53372,19.40617,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK135400,Ružín,48.87478,21.10883,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK135418,Výh. Ružín,48.87347,21.1014241,11,10.3,True,True,
+SK135434,Podkriváň,48.51632,19.46688,12,9.1,True,True,
+SK135509,Veľká Lodina,48.85691,21.15497,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK135533,Lovinobaňa,48.44484,19.57488,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK135608,Kysak,48.85284,21.22437,43,8.6,True,True,
+SK135632,Píla,48.48251,19.515,12,4.9,True,True,
+SK135707,Trebejov,48.83559,21.21866,12,8.8,True,True,
+SK135731,Mýtna,48.46583,19.54742,15,8.3,True,True,
+SK135806,Kostoľany nad Hornádom,48.7955,21.24559,21,29.4,True,True,
+SK135830,Lovinobaňa zastávka,48.434705,19.58472,7,14.6,True,True,
+SK135939,Podrečany,48.4052,19.59976,11,23.0,True,True,
+SK135962,Bratislava-Vinohrady,48.186868,17.1338457,65,13.5,True,True,
+SK135988,Bratislava-Vinohrady2,48.186605,17.13371,60,7.5,True,True,
+SK136002,Košice,48.72296,21.26815,110,26.5,True,True,
+SK136010,Košice nákladná stanica,48.715232,21.274209,32,73.6,True,False,
+SK136036,Tomášovce,48.36923,19.62687,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK136069,Bratislava-Rača,48.20894,17.16088,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK136101,Ťahanovce,48.75568,21.25342,9,13.8,True,True,
+SK136135,Lučenec,48.33598,19.66792,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK136168,Svätý Jur,48.24744,17.21733,13,6.8,True,True,
+SK136200,Košice predmestie,48.70841,21.266209,15,17.2,True,True,
+SK136234,Holiša,48.30433,19.74223,-1,,,,429 Client Error: Too Many Requests for url: https://overpass-api.de/api/interpreter
+SK136267,Pezinok,48.2826,17.27076,28,3.3,True,True,
+SK136333,Veľký Krtíš,48.20135,19.3626,7,39.8,True,True,
+SK136366,Pezinok zastávka,48.26731,17.24653,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK136465,Šenkvice,48.30146,17.34644,16,18.1,True,True,
+SK136531,Opatová pri Lučenci,48.33968,19.68191,2,25.3,True,False,
+SK136564,Báhoň,48.30578,17.45058,9,14.8,True,True,
+SK136606,Krásna nad Hornádom,48.66989,21.29595,22,9.8,True,True,
+SK136630,Rapovce,48.27604,19.67715,9,3.5,True,True,
+SK136663,Cífer,48.32308,17.48636,13,10.8,True,True,
+SK136739,Kalonda,48.25847,19.65954,4,12.3,True,True,
+SK136762,Trnava,48.3698,17.58507,72,11.1,True,True,
+SK136804,Nižná Myšľa,48.62882,21.37188,31,6.4,True,True,
+SK136861,Trnava predmestie,48.388038,17.566759,5,105.1,False,True,
+SK136903,Vyšná Myšľa,48.63665,21.38227,12,48.6,True,True,
+SK136937,Fiľakovo,48.26657,19.83225,99,13.6,True,True,
+SK136960,Brestovany,48.38217,17.6915,7,12.1,True,True,
+SK137000,Bohdanovce,48.65151,21.40132,16,13.6,True,True,
+SK137034,Fiľakovo zastávka,48.27382,19.82762,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK137109,Ruskov,48.67309,21.42888,-1,,,,504 Server Error: Gateway Timeout for url: https://overpass-api.de/api/interpreter
+SK137133,Prša,48.29724,19.79086,12,31.8,True,True,

@@ -1,0 +1,5 @@
+id,name,lat,lon,uri,country,distance_to_border_m
+NO1200-12010,Leangen stasjon,63.4369,10.4644,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/19a2390effbd840ae21a5069445b8437033fe56d,http://publications.europa.eu/resource/authority/country/NOR,19.6
+NO1200-12040,Vikhammer stasjon,63.4389,10.6235,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/c17726b6fc098beb24d4824dc965fac79a548141,http://publications.europa.eu/resource/authority/country/NOR,243.71
+NO1350-13880,Bodø stasjon,67.2864,14.3919,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/e613bd9a13f0490793a02acf117a7c3ef7872860,http://publications.europa.eu/resource/authority/country/NOR,8899.96
+NO1300-13010,Skatval stasjon,63.5086,10.8233,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/5aedd820fdcb63c4ebef3ce1c67e8e31cadb5861,http://publications.europa.eu/resource/authority/country/NOR,529.47

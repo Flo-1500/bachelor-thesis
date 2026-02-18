@@ -1,0 +1,21 @@
+osm_id,name_osm,type_osm,ref_osm,lat_osm,lon_osm,nearest_op_uri,nearest_op_id,nearest_op_name,nearest_distance_m
+node/1575712958,Odra,halt,,45.7354593,16.009497,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/56fa1e26fc7ce50c68bcfde7b64aa2f1d69b8c0d,HR72921,Odra,243.5
+node/10925246651,Gradec Stajalište,stop,,45.9121101,16.4842653,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ff6b81dfcdbf6ec4cb7b95920627591e10836a1f,HR73109,Gradec,247.0
+node/2386480363,Gradec Stajalište,halt,,45.9120379,16.4840951,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ff6b81dfcdbf6ec4cb7b95920627591e10836a1f,HR73109,Gradec,257.4
+node/10019054702,Gradec Stajalište,stop,,45.9120015,16.4841182,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ff6b81dfcdbf6ec4cb7b95920627591e10836a1f,HR73109,Gradec,261.0
+node/10019054701,Gradec Stajalište,stop,,45.9120091,16.4839902,http://data.europa.eu/949/functionalInfrastructure/operationalPoints/ff6b81dfcdbf6ec4cb7b95920627591e10836a1f,HR73109,Gradec,262.3
+node/12040614789,Caldania,stop,,45.4431451,13.631006,,,,
+node/904629837,Dobrljin,station,,45.1524478,16.4777692,,,,
+node/7354652658,Dobrljin,stop,,45.1524056,16.4777766,,,,
+node/1986663762,Mazzoria,stop,,45.453417,13.6182224,,,,
+node/6163761524,Novi Grad,stop,,45.0509279,16.3866935,,,,
+node/6163761525,Novi Grad,stop,,45.0509645,16.3868308,,,,
+node/7354176301,Novi Grad,station,,45.0509596,16.3867098,,,,
+node/1802660308,Nugla,halt,,45.4122946,14.0243515,,,,
+node/903852270,Poljavnice,halt,,45.0649888,16.3885396,,,,
+node/6854746414,Ravnice,station,,45.1090923,16.4093068,,,,
+node/2587538678,Salvore,stop,,45.4716896,13.5700707,,,,
+node/1867202152,Sveti Rok ob Sotli,halt,,46.2087646,15.7600132,,,,
+node/1867202145,Vidina,halt,,46.2167099,15.7296042,,,,
+node/1827732796,Vodičevo,halt,,45.1325656,16.4483952,,,,
+node/94301795,Őrtilos,station,,46.2978082,16.8876303,,,,

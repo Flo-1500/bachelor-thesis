@@ -1,0 +1,2272 @@
+osm_id,name,type,ref,lat,lon
+node/25426361,Senec,station,Senc,48.2135908,17.4142231
+node/25497610,Bratislava-Vajnory,stop,,48.1947902,17.2067504
+node/25551787,Hurbanovo,station,Hurb,47.8766386,18.2034712
+node/25582465,Komárno,stop,,47.7691885,18.1255733
+node/25904394,Svätý Jur,stop,,48.24763,17.2177667
+node/25904396,Pezinok zastávka,stop,,48.2670662,17.2460873
+node/26152964,Dvory nad Žitavou,station,DvnZ,47.9685582,18.2495044
+node/26202728,Bratislava-Rača,station,BaRa,48.2091079,17.161029
+node/26499120,Galanta,stop,,48.184965,17.7233288
+node/26502177,Trnava predmestie,halt,Trpr,48.389352,17.5667967
+node/26502191,Báhoň,stop,,48.3054287,17.450056
+node/26512206,Pezinok,stop,,48.2825847,17.2707222
+node/26546890,Sereď,stop,,48.2901434,17.7269756
+node/26727211,Nové Mesto nad Váhom,station,NMnV,48.7509879,17.835833
+node/26727212,Melčice,stop,,48.836882,17.91948
+node/26727214,Brunovce,stop,,48.6832751,17.8456177
+node/26727218,Považany,stop,,48.7032653,17.8421394
+node/26823556,Hlohovec,station,Hloh,48.4333547,17.8070191
+node/27026143,Šaštín-Stráže,station,SaSt,48.6340257,17.1421535
+node/27069282,Tomášovce,station,Toma,48.3692267,19.6269133
+node/27069289,Holiša,halt,Holz,48.3042506,19.741778
+node/27069313,Šiatorská Bukovinka,halt,SiBu,48.1857243,19.8166561
+node/27133417,Trebišov,station,Treb,48.6326185,21.711088
+node/27135730,Gbely,stop,,48.723538,17.0910948
+node/27135752,Skalica na Slovensku,stop,,48.8500341,17.2184034
+node/27137421,Lenartovce,station,Lana,48.3026295,20.3272019
+node/27137447,Štrkovec,station,Strk,48.3549314,20.3282309
+node/27173642,Rimavská Seč,station,Rsec,48.3068039,20.2260036
+node/27173733,Hajnáčka,station,Hajn,48.2350631,19.9323043
+node/27173756,Šíd,halt,Sid,48.2671108,19.877502
+node/27175020,Čierna nad Tisou,station,CnTN,48.4195112,22.0851417
+node/27177012,Kostoľany nad Hornádom,station,KonH,48.7955652,21.2461392
+node/27177016,Obišovce,halt,Obis,48.8621917,21.2386632
+node/27181521,Kendice,stop,,48.9263611,21.2474729
+node/27269872,Gemerská Panica,halt,GePa,48.4806084,20.3598973
+node/27270617,Nové Zámky,stop,,47.994688,18.1748436
+node/27275778,Moravský Svätý Ján,stop,,48.5862476,17.0086114
+node/27275800,Zohor,stop,,48.3257393,16.9913308
+node/27279256,Veľký Kýr,station,VeKy,48.1835297,18.1507158
+node/27279264,Ivanka pri Nitre,halt,IvpN,48.2443942,18.1096382
+node/27303810,Radava,halt,Rada,48.0981297,18.3055079
+node/27303826,Pozba,halt,Pozb,48.1153537,18.3877483
+node/27303888,Kalná nad Hronom,station,KlnH,48.2041136,18.5167698
+node/27304281,Psiare,halt,Psia,48.3291548,18.55122
+node/27304288,Hronský Beňadik,halt,HrBe,48.3443685,18.5615893
+node/27317525,Liptovský Hrádok,station,LiHr,49.0380024,19.7213991
+node/27318488,Tekovská Breznica,halt,TeBr,48.3824,18.6044498
+node/27318508,Nová Baňa,station,NoBa,48.413308,18.6479838
+node/27318524,Rudno nad Hronom,halt,RunH,48.4351406,18.6818066
+node/27318545,Dolné Hámre,halt,DolH,48.4748503,18.7187914
+node/27318549,Žarnovica,station,Zarn,48.4857086,18.7280253
+node/27318668,Žiar nad Hronom zastávka,halt,ZnHz,48.5687792,18.8513552
+node/27318671,Žiar nad Hronom,station,ZinH,48.5785791,18.8705454
+node/27318684,Šášovské Podhradie,halt,SasP,48.5882409,18.9068874
+node/27319280,Pstruša,station,Pstr,48.5533039,19.3127073
+node/27319294,Detva,halt,Detv,48.5336737,19.4063866
+node/27319311,Lovinobaňa,stop,,48.4447083,19.5749553
+node/27319328,Podkriváň,station,Pdkr,48.5164712,19.4669382
+node/27320254,Radvaň,station,Radv,48.7165187,19.1407762
+node/27346876,Šaľa,station,Sala,48.1470532,17.8619436
+node/27349431,Podunajské Biskupice,stop,,48.1318349,17.2206005
+node/30073060,Bratislava-Petržalka,station,BaPz,48.1214818,17.0994662
+node/30418836,Okoličná na Ostrove,halt,OknO,47.792989,17.9007966
+node/30418842,Zemianska Olča,station,ZeOl,47.8078996,17.8524002
+node/30615059,Borský Mikuláš,halt,BorM,48.6423105,17.1915685
+node/30618579,Klčovany,halt,Klco,48.4518789,17.5119219
+node/30618602,Smolenice,station,Smol,48.5204581,17.4553255
+node/30618613,Buková,halt,Buko,48.5517316,17.4508086
+node/30618653,Jablonica,station,Jabl,48.6062807,17.4098102
+node/30727710,Príbovce-Rakovo,station,Pric,48.9937215,18.879615
+node/30932202,Starý Smokovec,stop,,49.1390929,20.2227412
+node/30932205,Nový Smokovec,stop,,49.1368773,20.2161037
+node/30933030,Starý Smokovec,stop,,49.1416605,20.2203751
+node/30933044,Hrebienok,stop,,49.1580002,20.2245711
+node/30949773,Poprad-Tatry,stop,,49.0599614,20.294874
+node/31147613,Tekovský Hrádok,halt,TeHr,48.1588355,18.5549242
+node/32321451,Lábske jazero,halt,LaJz,48.3342129,16.9471991
+node/35234003,Podhájska,station,Pohj,48.1027332,18.3442713
+node/55451234,Bratislava-Železná studienka,stop,,48.1746198,17.0727888
+node/59629172,Opatová pri Lučenci,halt,OppL,48.336978,19.6820323
+node/59629173,Opatová pri Lučenci,stop,,48.3370704,19.6820739
+node/59631541,Veľká Ves,halt,VeVe,48.3809592,19.6868143
+node/59631885,Kalinovo,halt,Kali,48.3951565,19.7055171
+node/59632354,Breznička,station,Brzc,48.4231985,19.7398339
+node/59632763,Zelené,halt,Zeln,48.4292613,19.769731
+node/59642867,Poltár,station,Polt,48.4287221,19.7953995
+node/59644630,České Brezovo,halt,CeBr,48.4769405,19.801631
+node/59644676,Zlatno,station,Zlat,48.5134839,19.8167045
+node/59645928,Kokava nad Rimavicou - Liešnica,halt,KnRL,48.5464415,19.8298162
+node/59645971,Kokava nad Rimavicou,station,KonR,48.5669216,19.8415912
+node/59646634,Utekáč,halt,Utek,48.6033699,19.805195
+node/60458105,Tisovec závody,halt,Tisz,48.6695798,19.9461267
+node/60458118,Tisovec mesto,halt,Tism,48.6802898,19.9473296
+node/60458138,Tisovec,station,Tiso,48.6907657,19.9356709
+node/60459265,Tisovec-Bánovo,halt,TiBa,48.7155825,19.8679894
+node/60460270,Pohronská Polhora,station,PoPo,48.7583518,19.7936492
+node/60460877,Michalová,station,Mchl,48.7655164,19.7770377
+node/60460906,Michalová zastávka,halt,Mchz,48.7737493,19.7569366
+node/60462487,Brezno-Rohozná,halt,BrRo,48.7948542,19.7088442
+node/62373883,Blhovce,station,Blho,48.2771623,19.9550973
+node/73307006,Prša,station,Prsa,48.2970415,19.79117
+node/73327593,Belina,halt,Beli,48.2417534,19.8411742
+node/73327614,Radzovce,halt,Radz,48.220151,19.8306484
+node/73360237,Čamovce,halt,Camv,48.2505665,19.889504
+node/73396490,Hodejov,station,Hode,48.2963447,19.9797831
+node/73414289,Gortva,halt,Gort,48.3009054,20.0268473
+node/73438863,Jesenské,station,Jese,48.2995469,20.0620061
+node/73439138,Rimavská Sobota,station,RiSo,48.3851476,20.0286016
+node/73457415,Rimavské Janovce obec,halt,RiJo,48.3371399,20.0568946
+node/73467009,Dubovec,halt,Dbvc,48.305018,20.1558239
+node/73467044,Orávka,halt,Orav,48.3053619,20.1959421
+node/73521528,Číž kúpele,halt,Cizk,48.3051009,20.278116
+node/73609712,Abovce,halt,Abov,48.3170843,20.3297359
+node/73609717,Riečka,halt,Riec,48.3369005,20.3345663
+node/73617362,Tornaľa,station,Torn,48.4226506,20.3309131
+node/73632161,Gemer,halt,Geme,48.4546072,20.3452759
+node/81252350,Čerenčany,halt,Cere,48.4120907,19.989868
+node/81252701,Nižný Skálnik,station,NiSk,48.4531154,19.9675834
+node/81252754,Hrachovo,station,Hrac,48.4647977,19.9602121
+node/81260305,Kociha,halt,Koci,48.4852246,19.9518044
+node/81260782,Rimavské Zalužany,station,RiZa,48.500021,19.940384
+node/81260929,Rimavská Baňa,station,RiBa,48.5099384,19.9445997
+node/81266612,Likier,station,Liki,48.5612971,19.9631438
+node/81266628,Hnúšťa,station,Hnus,48.5772568,19.9577818
+node/81283446,Hačava skálie,stop,,48.6173558,19.9591696
+node/81287610,Rimavská Píla,halt,RiPi,48.6505267,19.9475837
+node/83402482,Podrečany,station,Podr,48.4054068,19.5997682
+node/83402497,Lovinobaňa zastávka,halt,Lovz,48.434011,19.5854335
+node/83416785,Mýtna,station,Mytn,48.4658046,19.5477442
+node/83456594,Kriváň,station,Kriv,48.5284833,19.4456304
+node/83488878,Stožok,station,Stoz,48.5381715,19.3584848
+node/84489835,Zvolenská Slatina,halt,ZvSl,48.5589324,19.2609274
+node/84497688,Zvolen mesto,halt,Zvme,48.5771489,19.1321971
+node/84505747,Sliač kúpele,station,Slku,48.6143659,19.149548
+node/84505762,Vlkanová,station,Vlka,48.6694282,19.1494044
+node/84505804,Banská Bystrica mesto,halt,BaBm,48.7315341,19.1464521
+node/84511498,Šalková,halt,Salk,48.7413565,19.2194235
+node/85126469,Slovenská Ľupča-Príboj,halt,SLuP,48.7464799,19.237348
+node/85126542,Slovenská Ľupča,station,SlLu,48.7629445,19.2765132
+node/85138605,Lučatín,halt,Luca,48.7814752,19.3139597
+node/85138870,Medzibrod,station,Mebr,48.7912796,19.3572754
+node/85160057,Brusno kúpele,halt,Brku,48.7918272,19.3863271
+node/85160166,Nemecká,halt,Neme,48.8109046,19.4168784
+node/85160192,Dubová,station,Dubo,48.8137106,19.4395434
+node/85160255,Predajná,halt,Prdj,48.8071776,19.4654839
+node/85160316,Lopej,halt,Lope,48.8154272,19.4981729
+node/88063538,Svit,station,Svit,49.0608987,20.1979995
+node/91628827,Nyergesújfalu felső,stop,,47.7625005,18.5408531
+node/91628833,Süttő,stop,,47.7612487,18.4549891
+node/91628837,Süttő felső,stop,,47.7566489,18.4370504
+node/91686917,Komárom,stop,,47.7494475,18.1143781
+node/101171782,Bujakovo zastávka,halt,Buja,48.8205854,19.6884368
+node/101172008,Beňuš,halt,Benu,48.8285391,19.7613519
+node/101172012,Beňuš,stop,,48.8282407,19.7620471
+node/101182621,Bacúch,halt,Bacu,48.8439608,19.8182767
+node/101185883,Polomka,station,Polm,48.8464144,19.854664
+node/101194316,Polomka - Hámor,halt,PoHa,48.8484219,19.8934903
+node/101194417,Závadka nad Hronom obec,halt,ZnHo,48.8481291,19.9138258
+node/101194496,Závadka nad Hronom zastávka,halt,ZvHz,48.8520028,19.9256594
+node/101207612,Heľpa,station,Help,48.8563167,19.9593545
+node/101208170,Pohorelá,halt,Poho,48.8517209,20.0137409
+node/101208215,Pohorelská Maša,halt,PoMa,48.8486404,20.0284856
+node/101217146,Nová Maša,halt,NoMa,48.8362976,20.0520743
+node/101222195,Vaľkovňa,halt,Valk,48.8338831,20.0668831
+node/101235644,Červená Skala,station,CeSk,48.8231853,20.1315193
+node/107166028,Rožňava predmestie,halt,Rozp,48.6506156,20.5218276
+node/118733117,Dobšinská Ľadová Jaskyňa,station,DoLJ,48.8762976,20.2964076
+node/118733411,Stratená,halt,Strt,48.8695132,20.3414267
+node/118760146,Sykavka,halt,Syka,48.8460421,20.4707127
+node/118760330,Hnilec,station,Hnil,48.8303815,20.5009515
+node/190123331,Snina mesto,halt,SniM,48.9904442,22.1559302
+node/193439005,Dlhé nad Cirochou obec,stop,,48.958558,22.0663426
+node/197533061,Snina,station,Snin,48.9837806,22.1732016
+node/197554293,Belá nad Cirochou,halt,BenC,48.9777474,22.10288
+node/198156640,Palárikovo,station,Pala,48.0601968,18.0817167
+node/201545007,Hažín nad Cirochou,halt,HanC,48.931998,21.9575715
+node/202875162,Margecany,station,Marg,48.8951496,21.0117868
+node/202875225,Kluknava,halt,Kluk,48.9140539,20.9482811
+node/202876733,Olcnava,halt,Olcn,48.926449,20.7486992
+node/202877314,Vítkovce,halt,Vitk,48.9256151,20.7185974
+node/205287986,Veľké Ripňany,station,VeRi,48.5000995,17.9817376
+node/206175234,Spišská Nová Ves,stop,,48.950369,20.5614797
+node/206175238,Kysak,station,Kysa,48.8524023,21.2239371
+node/206244036,Košeca,halt,Kose,49.014787,18.2580468
+node/206244063,Trenčianska Teplá,station,TrTe,48.9373812,18.1132865
+node/206244688,Považská Teplá,halt,PoTe,49.1401505,18.4680721
+node/206318683,Plevník-Drienové,halt,PlDr,49.1712093,18.4909974
+node/206319051,Predmier,stop,,49.1973949,18.5356531
+node/206328661,Krpeľany,halt,Krpe,49.1264883,19.0837529
+node/206328672,Šútovo-Ratkovo,halt,Suto,49.1428933,19.0907947
+node/242434963,Plavecké Podhradie,stop,,48.4829086,17.250828
+node/243481283,Pernek pri Zohore,stop,,48.379727,17.1225102
+node/243516196,Oščadnica,stop,,49.4155378,18.8325439
+node/243980648,Nižný Hrabovec,station,Nhra,48.8570393,21.7518607
+node/245549197,Stakčín,station,Stak,48.9961821,22.2179798
+node/245549379,Snina predmestie,halt,Snip,48.9906551,22.1355113
+node/246660165,Hronská Dúbrava,station,HrDu,48.5762672,18.9899188
+node/254474748,Liptovský Mikuláš,stop,,49.0921041,19.6058122
+node/257763988,Liptovské Vlachy,halt,LiVl,49.0878637,19.4744767
+node/257765425,Lisková zastávka,station,Lisk,49.0873729,19.353791
+node/257790771,Ružomberok,station,Ruzk,49.0834991,19.3092299
+node/257791471,Hrboltová,halt,Hrbo,49.099979,19.2479416
+node/257792483,Švošov,halt,Svos,49.122625,19.1946683
+node/257914062,Záriečie,stop,,49.1771508,18.2524341
+node/257914222,Strelenka,halt,Strl,49.1835615,18.1436547
+node/260551946,Kraľovany,station,Krny,49.153024,19.1302315
+node/261126017,Cerová-Lieskové,halt,CeLi,48.5966208,17.4035327
+node/268555953,Veľké Uherce,stop,,48.6254504,18.4246889
+node/271137557,Zvolen mesto,stop,,48.5766745,19.1323578
+node/272305921,Čaňa,station,Cana,48.6096892,21.3096114
+node/272487239,Kláštor pod Znievom,halt,KlpZ,48.9564319,18.852721
+node/272487261,Jazernica,halt,Jaze,48.9280831,18.8344989
+node/272487293,Horná Štubňa,station,HoSt,48.7927948,18.8818093
+node/276558270,Jastrabá,halt,Jast,48.6440249,18.9243758
+node/276599292,Sološnica,stop,,48.4711312,17.2262801
+node/277670185,Kostiviarska,station,Kost,48.7574165,19.1450677
+node/278114771,Kuchyňa,stop,,48.412159,17.1370482
+node/278622623,Brezová pod Bradlom,station,BrpB,48.6517873,17.5306937
+node/279263336,Kvetoslavov,stop,,48.0552862,17.3603427
+node/279263509,Kvetoslavov zastávka,stop,,48.0603173,17.3409042
+node/280568755,Vrbovce,station,Vrbc,48.8243868,17.5162958
+node/281692870,Kúty,stop,,48.6619147,17.0474738
+node/281832196,Pečovská Nová Ves,halt,PeNV,49.1202301,21.0415537
+node/282376812,Devínska Nová Ves,stop,,48.219028,16.9764291
+node/282377194,Plavecký Štvrtok,halt,PlSt,48.3732902,17.0078078
+node/282377197,Závod,stop,,48.5390739,17.0077337
+node/282377198,Sekule,station,Seku,48.6077218,17.0189983
+node/282575960,Vlárský průsmyk,station,371856,49.0330528,18.0530313
+node/283128666,Modra nad Cirochou,halt,MonC,48.9477564,22.0345536
+node/287964570,Dobrá Niva zastávka,stop,,48.4709251,19.1039886
+node/289960748,Košice predmestie,halt,Kosp,48.7096034,21.2658177
+node/289960750,Ťahanovce,halt,Taha,48.7555062,21.2535967
+node/293895584,Skalité-Kudlov,halt,SkKu,49.4989191,18.9359313
+node/306071755,Sibír,stop,,49.1347939,20.2105551
+node/306071933,Tatranské Zruby,stop,,49.1300874,20.1993634
+node/306072167,Tatranská Polianka,stop,,49.1226513,20.1861253
+node/306072840,Danielov Dom,stop,,49.1187094,20.1681635
+node/306072898,Nová Polianka,stop,,49.1183202,20.1508214
+node/306073514,Vyšné Hágy,stop,,49.1188491,20.1232778
+node/306074043,Popradské Pleso,stop,,49.1260532,20.0749837
+node/306074298,Štrbské Pleso,station,SPle,49.1183719,20.0635813
+node/306074401,Štrbské Pleso,stop,,49.1181414,20.0636515
+node/306328651,Pekná Vyhliadka,stop,,49.1393441,20.2331498
+node/306328805,Horný Smokovec,stop,,49.1425429,20.2408417
+node/306328872,Tatranská Lesná,stop,,49.1500268,20.2566527
+node/306328972,Stará Lesná,stop,,49.1550012,20.2708974
+node/306329102,Tatranská Lomnica,stop,,49.1646536,20.2793928
+node/306456510,Dolný Smokovec,stop,,49.1318445,20.2397407
+node/306457073,Pod lesom,stop,,49.1258499,20.2452634
+node/306457655,Nová Lesná,stop,,49.1159287,20.2619554
+node/306459213,Veľký Slavkov,stop,,49.0911986,20.2774341
+node/306593337,Tatranský Lieskovec,stop,,49.0927968,20.0674246
+node/307439585,Handlová,station,Hand,48.7254916,18.754154
+node/314964836,Trnovec nad Váhom,station,TrnV,48.1525983,17.9290364
+node/321855210,Rišňovce,station,Risn,48.3731059,17.8903115
+node/321855493,Alekšince,station,Alek,48.3636485,17.9428928
+node/325586396,Leopoldov,station,Leop,48.4414225,17.7585893
+node/329044004,Istebné,halt,Iste,49.2013348,19.2281882
+node/329044010,Istebné,stop,,49.2013237,19.2280344
+node/330036456,Párnica,station,Parn,49.1929473,19.1969501
+node/330447992,Čierne nad Topľou,station,CanT,48.9897807,21.5694307
+node/330448113,Lipníky,station,Lipn,49.0490204,21.4056572
+node/330448175,Kapušany pri Prešove,station,KppP,49.0438686,21.3205402
+node/332521720,Brezno mesto,halt,Brzm,48.8042887,19.6472735
+node/339411873,Čadca,stop,,49.4452505,18.7868372
+node/346420319,Prešov,station,Pres,48.9831761,21.2489842
+node/351925371,Vrútky,stop,,49.1150065,18.9245232
+node/355131947,Dolná Seč,halt,DoSe,48.1729796,18.5690568
+node/355465762,Veľká Lúka,halt,VeLu,48.6309684,19.1543084
+node/356178089,Nováky,station,Nova,48.7182915,18.5363601
+node/356429966,Rožňava,station,Rozv,48.6352218,20.514134
+node/356610538,Kremnické Bane,station,KrBa,48.7428962,18.9027705
+node/366036951,Púchov,station,Puch,49.1137255,18.3273055
+node/370931363,Veľká Paka,halt,VePa,48.0384441,17.4038223
+node/378682266,Malá Paka,halt,MaPa,48.0442346,17.3874583
+node/379590190,Slanec,station,Slan,48.6445556,21.488091
+node/379606785,Nižná Myšľa,station,Nmys,48.6298505,21.3714851
+node/379606788,Vyšná Myšľa,halt,VyMy,48.6376288,21.3826299
+node/379606794,Bohdanovce,halt,Bohd,48.6516249,21.4012559
+node/379606797,Ruskov,station,Rusk,48.672272,21.4277648
+node/384249646,Fiľakovo,station,Filk,48.2662436,19.8325227
+node/384621924,Šarišské Lúky,station,SaLu,49.0164122,21.2671175
+node/387185143,Kuklov,halt,Kukl,48.6493661,17.0696777
+node/388032842,Kežmarok,station,Kezk,49.1392676,20.4232065
+node/388038640,Matejovce pri Poprade,station,MtpP,49.0813831,20.3340088
+node/388040982,Studený Potok,stop,,49.1092876,20.3547879
+node/388481077,Krompachy,station,Krom,48.9216397,20.8860124
+node/395698852,Horná Streda,stop,,48.6514285,17.8361762
+node/400912139,Horná Štubňa zastávka,halt,HoSZ,48.8226129,18.8697877
+node/401864263,Kalša,halt,Kals,48.6161068,21.5333127
+node/401864265,Kuzmice,station,Kuzm,48.5817504,21.579425
+node/408430421,Pravenec,halt,Prav,48.8402813,18.6450718
+node/408541630,Kremnica,station,Krem,48.6975055,18.9241007
+node/410288699,Haniska pri Prešove,halt,HapP,48.9565991,21.2409245
+node/410288701,Drienovská Nová Ves obec,halt,DNVo,48.9007608,21.2456656
+node/410288702,Ličartovce,station,Lica,48.8751455,21.240887
+node/412160885,Nová Stráž,halt,NoSt,47.7643978,18.0486548
+node/413111313,Chrenovec,station,Chre,48.7782141,18.712104
+node/413527698,Humenné,station,Humn,48.9300234,21.9008924
+node/417964729,Ráztočno,halt,Razt,48.7679444,18.7626331
+node/428910960,Spišská Belá zastávka,station,SpBz,49.1842918,20.4715975
+node/429296471,Sása-Pliešovce,station,SaPl,48.4276021,19.1369222
+node/430092097,Stará Ľubovňa,station,StLu,49.3083333,20.6801999
+node/430092119,Nižné Ružbachy,halt,NizR,49.2763712,20.5787422
+node/430092164,Podhorany pri Kežmarku,station,PopK,49.2312099,20.4911909
+node/430097959,Plaveč,station,Plac,49.2695974,20.8517033
+node/430233504,Huncovce,halt,Hunc,49.1212124,20.3748588
+node/430238973,Kežmarok zastávka,halt,KezZ,49.1502318,20.4298669
+node/430238976,Kežmarok-Pradiareň,halt,KePr,49.1629441,20.4475511
+node/430244441,Bušovce,station,Buso,49.2186675,20.4934945
+node/430268043,Forbasy,halt,Forb,49.2957267,20.6210535
+node/430268044,Chmeľnica,halt,Chme,49.2919986,20.7307791
+node/430268045,Plavnica,station,Plav,49.2878312,20.7793322
+node/430268046,Hromoš,halt,Hrms,49.2655368,20.8051121
+node/430268047,Orlov,halt,Orlo,49.2801655,20.8703789
+node/430278196,Tatranská Lomnica zastávka,halt,TaLz,49.1487886,20.3153025
+node/431622671,Madunice,halt,Madu,48.4775958,17.7642209
+node/431624808,Dubnica nad Váhom,station,DubV,48.9664461,18.1680715
+node/431626390,Ilava,station,Ilav,49.0020357,18.2361821
+node/432804211,Trnava,station,Trna,48.3697197,17.5849147
+node/434017888,Toporec,halt,Topr,49.2460129,20.5087009
+node/441721022,Jelenec,station,Jele,48.3739087,18.2374549
+node/442710420,Ladce,station,Ladc,49.0343694,18.2905
+node/442710421,Varín,station,Vari,49.2017907,18.8470325
+node/444962698,Jalovec,stop,,48.77264,18.7460369
+node/444962712,Jalovec,halt,Jalo,48.7727234,18.7456548
+node/446101163,Zemianske Kostoľany,station,ZeKo,48.6845319,18.5192922
+node/447855974,Nitrianske Pravno,station,NiPr,48.8644745,18.6344743
+node/452398297,Podbrezová,station,Pobz,48.8102638,19.5231712
+node/454328884,Nálepkovo-Peklisko,halt,NaPe,48.8164648,20.5479496
+node/454328909,Tretí Hámor,halt,TrHa,48.8168072,20.583229
+node/454328984,Nálepkovo,station,Napk,48.838363,20.6301322
+node/454329120,Švedlár,station,Sved,48.8055052,20.7232229
+node/454329278,Mníšek nad Hnilcom,station,MnnH,48.8116267,20.814975
+node/454329355,Helcmanovce,halt,Helc,48.8277037,20.8652516
+node/454329417,Prakovce,station,Prak,48.8201491,20.8858064
+node/454329439,Prakovce zastávka,halt,Prkz,48.8164979,20.8954566
+node/454329645,Gelnica,station,Geln,48.8583844,20.9474851
+node/454329703,Žakarovce,halt,Zaka,48.8693884,20.9642015
+node/454329861,Gelnica zastávka,halt,Gelz,48.8218215,20.9193395
+node/454329864,Švedlár zastávka,halt,Svdz,48.7935218,20.7591218
+node/454329884,Rakovec,halt,Rkvc,48.8420321,20.4345655
+node/454329889,Mlynky zastávka,halt,MlyZ,48.8508126,20.4265544
+node/454329897,Mlynky,station,Mlyn,48.8544812,20.4072888
+node/454329899,Dedinky,halt,Dedi,48.8556407,20.3819249
+node/454663458,Gašparovo,station,Gasp,48.8269157,19.7457045
+node/454663459,Chvatimech,halt,Chva,48.8043357,19.5601577
+node/455084798,Martin,station,Mart,49.0648796,18.9154097
+node/455084809,Košťany nad Turcom,halt,KonT,49.0286786,18.9058572
+node/455084852,Malý Čepčín,halt,MaCe,48.9046241,18.8434166
+node/455084858,Diviaky,station,Divk,48.8759278,18.8505127
+node/455085135,Čremošné,station,Crem,48.8399422,18.9510642
+node/455085414,Uľanka,station,Ulan,48.8015827,19.0995754
+node/455085604,Harmanec,halt,Harm,48.7974053,19.0759114
+node/455085658,Dolný Harmanec,halt,DoHa,48.807768,19.0571211
+node/455085868,Harmanec jaskyňa,station,Haja,48.8227434,19.0341282
+node/455858525,Čierny Balog,station,,48.7462318,19.6571059
+node/455858526,Vydrovo - Koliba,station,,48.7338184,19.644165
+node/456315189,Nový Krám,stop,,48.7618682,19.6276393
+node/456315255,Šánske,halt,,48.7687015,19.6166972
+node/457100821,Hliník nad Hronom,station,HlnH,48.5396757,18.7708496
+node/457846830,Vlachovo obec,halt,Vlao,48.7702087,20.4118413
+node/457875141,Smižany,halt,Smiz,48.9532665,20.5221659
+node/472564466,Bratislava-Lamač,stop,,48.1849733,17.0505559
+node/472955778,Remäta,halt,Rema,48.7531034,18.805091
+node/472955828,Sklené pri Handlovej,station,SkpH,48.7827596,18.8423286
+node/473481359,Myjava,station,Myja,48.7637669,17.5709011
+node/473481467,Paprad,station,Papr,48.7806135,17.6438771
+node/473481521,Stará Turá,station,StTu,48.7731654,17.7004091
+node/473481526,Poriadie,station,Pori,48.7760475,17.6156589
+node/475488768,Hronec zlievareň,station,,48.7988723,19.5790894
+node/475488833,Chvatimech ČHZ,station,,48.8044345,19.5588036
+node/478168128,Telgárt penzión,halt,Telp,48.8516855,20.1994773
+node/479821836,Čermeľ,station,,48.7498615,21.2281075
+node/479821852,Vpred,station,,48.7517927,21.2035169
+node/479821907,Alpinka,station,,48.7598432,21.1834042
+node/481258301,Dražovce,halt,Draz,48.3577114,18.0544372
+node/482941326,Kľačany,station,Klcn,48.387007,17.8679039
+node/502316252,Bytča,stop,,49.2075882,18.5533958
+node/503380110,Spišské Podhradie,station,SpPo,48.9957985,20.7560635
+node/509686811,Spišské Vlachy mesto,halt,SpVm,48.9419459,20.7927814
+node/509686839,Spišské Vlachy,station,SpVl,48.9354963,20.8038032
+node/517166240,Neded,station,Nede,48.0164929,17.9598711
+node/522445926,Višňové,halt,Visn,48.7251837,17.7523824
+node/527380938,Hontianske Nemce,station,HoNe,48.2800288,18.9930252
+node/534378451,Fiľakovo zastávka,stop,,48.2741334,19.8273447
+node/561515926,Banská Štiavnica,station,BaSt,48.4439574,18.9155187
+node/561515959,Banský Studenec,halt,BanS,48.4548002,18.9367635
+node/561516079,Banská Belá,station,BaBe,48.4732067,18.9478728
+node/563290566,Jalná,halt,Jaln,48.5873572,18.9555481
+node/563291037,Bzenica,halt,Bzen,48.529143,18.7383588
+node/563295346,Voznica,halt,Vozn,48.4596181,18.6914514
+node/563298344,Tlmače,halt,Tlma,48.2903378,18.5408207
+node/563298349,Kozárovce,station,Koza,48.310722,18.5361866
+node/563298351,Veľké Kozmálovce,station,VeKz,48.2805258,18.5492013
+node/563298589,Hronské Kľačany,halt,HrKl,48.2468245,18.5822227
+node/563299494,Šurany,stop,,48.0850358,18.1727226
+node/569185322,Šajdíkove Humence,station,SaHu,48.6599318,17.2625633
+node/571643757,Somotor,halt,Somo,48.3895859,21.8088762
+node/572502547,Michaľany,station,Miny,48.5217703,21.6262208
+node/572520362,Borša,halt,Bors,48.3938285,21.7063174
+node/572520364,Čerhov,halt,Cerh,48.460509,21.6448118
+node/575887951,Balassagyarmat,stop,,48.0710928,19.293388
+node/603658243,Teplička nad Hornádom,halt,TenH,48.9188002,20.5833444
+node/604236605,Ladice,halt,Ladi,48.3796606,18.266614
+node/610805832,Okoličné,stop,,49.0762707,19.6533222
+node/614207657,Trenčianske Jastrabie,halt,TrJa,48.8009082,18.1191154
+node/616361629,Krásna nad Hornádom,station,KrnH,48.6702996,21.2953602
+node/617993225,Veľké Bielice,station,VeBe,48.6246861,18.349706
+node/619336549,Haniska pri Košiciach,station,HpKS,48.6314707,21.2486134
+node/619336611,Valaliky,halt,Vllk,48.6465443,21.287863
+node/619336618,Geča,halt,Geca,48.627814,21.2968126
+node/628618619,Partizánske,halt,Part,48.6271996,18.3696851
+node/629158311,Richnava,halt,Rich,48.922772,20.924907
+node/637319492,Hrachovište,stop,,48.7181446,17.7267414
+node/637319523,Vaďovce,station,Vado,48.7311306,17.7247203
+node/642953300,Telgárt,station,Telg,48.8398686,20.1865352
+node/661293218,Turček,halt,Turc,48.759273,18.9176407
+node/665857482,Krivany,halt,Krvn,49.1722123,20.9223176
+node/665857970,Ľubotín,halt,Lbtn,49.2617598,20.8737507
+node/665858038,Ďurková,halt,Durk,49.2454195,20.8761393
+node/668011731,Oravský Podzámok,station,Opod,49.2611102,19.3638518
+node/668119151,Bratislava predmestie,station,Bapr,48.1852203,17.1351544
+node/676246350,Lehnice,station,Lehn,48.0317741,17.452044
+node/676608423,Michal na Ostrove,halt,MinO,48.0182524,17.5046139
+node/676637641,Dunajská Streda,station,DuSt,47.9932178,17.6083372
+node/676637642,Orechová Potôň,station,OrPo,48.0144799,17.5297299
+node/676637643,Veľké Blahovo,halt,VeBl,48.0065136,17.5756245
+node/676641067,Kútniky,halt,Kutn,47.9829563,17.6523355
+node/677212651,Fulianka,halt,Fuli,49.0669751,21.3345875
+node/677212657,Tulčík,halt,Tulc,49.088003,21.3068255
+node/677212666,Demjata,halt,Demj,49.0998846,21.3127181
+node/677212671,Demjata obec,halt,Demo,49.1074877,21.3125213
+node/677212720,Vaniškovce,halt,Vani,49.165021,21.290206
+node/677212740,Raslavice,station,Rasl,49.1492238,21.3145157
+node/677212783,Kľušov,halt,Klus,49.2611827,21.2506439
+node/677212818,Bardejov,station,Badj,49.2966729,21.2831394
+node/678178861,Pašková,halt,Pask,48.5920922,20.3881099
+node/678178920,Ochtiná,station,Ocht,48.6858343,20.3302742
+node/683508646,Drienovská Nová Ves,station,DrNV,48.9114818,21.2452436
+node/702384342,Chynorany,station,Chyn,48.6080266,18.2753122
+node/705471310,Veľká Ida,station,VeId,48.5908567,21.1712274
+node/705471322,Dvorníky-Zádiel,halt,DvZd,48.5983883,20.8355819
+node/705471333,Mokrance,halt,Mokr,48.5908328,21.0226937
+node/705471340,Turňa nad Bodvou,station,TunB,48.5976367,20.8889204
+node/705471360,Cestice,halt,Cest,48.5863826,21.0972562
+node/705471383,Moldava nad Bodvou,station,MlnB,48.6008169,21.0031455
+node/705471386,Hutníky,halt,Hutn,48.6101029,21.2078582
+node/705471405,Čečejovce,station,Cejc,48.5864196,21.0696
+node/712578527,Rimavské Brezovo,station,RiBr,48.5399954,19.9643146
+node/719650894,Malá Lodina,station,MaLo,48.8739235,21.1340207
+node/719650897,Margecany zastávka,halt,Marz,48.8892098,21.0420144
+node/719650903,Veľká Lodina,halt,VeLo,48.8562087,21.1556421
+node/719650907,Trebejov,halt,Trbj,48.8358978,21.2186554
+node/734111884,Krušovce,halt,Krus,48.5827455,18.2016883
+node/736019171,Svrčinovec,halt,Svri,49.4802812,18.7931198
+node/736519398,Brezno-Halny,station,BrHa,48.817717,19.6652076
+node/736519769,Brezno-Halny,stop,,48.817684,19.6651097
+node/749736264,Želiezovce,station,Zele,48.0442231,18.6457272
+node/815607771,Tekovské Lužany,station,TeLu,48.1003018,18.563469
+node/828148910,Trnavá Hora,halt,TrHo,48.5917012,18.9488816
+node/828149143,Bartošova Lehôtka,station,BaLe,48.6373134,18.9119232
+node/836252359,Žilina-Záriečie,halt,Ziza,49.2186426,18.7310739
+node/844375491,Zbojská,station,Zboj,48.7466267,19.8409898
+node/846567927,Prievidza nákladná stanica,station,PvNS,48.7671759,18.6086217
+node/848478071,Kráľova Lehota,station,KrLe,49.0256441,19.7865137
+node/852839822,Poluvsie,halt,Polu,49.1332052,18.7036913
+node/859387925,Bytčica,halt,Btci,49.1882314,18.7306817
+node/859388028,Žilina-Solinky,halt,ZiSo,49.1991836,18.7329181
+node/890712210,Mokrá Lúka,halt,MoLu,48.6711992,20.1476069
+node/918221720,Miloslavov,stop,,48.0855341,17.3016521
+node/919435646,Nové Košariská,stop,,48.1002589,17.2759528
+node/920763152,Rovinka,stop,,48.107905,17.2555391
+node/929178755,Mládzovo,halt,Mlad,48.4362458,19.7023897
+node/936884406,Stará Kremnička,halt,StKr,48.5999629,18.893986
+node/959351762,Prešov mesto,stop,,48.9946267,21.2337759
+node/972900338,Pusté Pole,station,PuPo,49.2136928,20.9148765
+node/981426738,Pavlovce,halt,Pavl,49.0335176,21.459545
+node/990162289,Vranov nad Topľou,station,VrnT,48.8900674,21.6740199
+node/990175345,Turčianske Teplice,halt,TuTe,48.8629035,18.8537793
+node/990178477,Nedožery,halt,Nedo,48.8154733,18.6455618
+node/990183222,Oslany,station,Osla,48.6413771,18.4643142
+node/990186563,Svinná,station,Svin,48.7809716,18.1723903
+node/991009944,Čadca mesto,halt,Came,49.436566,18.7939989
+node/991023310,Sabinov,station,Sabi,49.1033135,21.088414
+node/1002330321,Úľany nad Žitavou,stop,,48.0978676,18.2330489
+node/1002369373,Leopoldov zastávka,halt,Leoz,48.4486834,17.7760218
+node/1011773391,Bystré,halt,Bstr,49.0033111,21.5423933
+node/1014792695,Tvrdošín,stop,,49.337021,19.5629585
+node/1039017207,Topoľnica,halt,Topo,48.1664843,17.7950657
+node/1039043206,Ľudovítov,halt,Ludo,48.0350653,18.1138159
+node/1039043230,Jatov,halt,Jato,48.1189553,18.0069911
+node/1040815419,Bíňovce,halt,Bino,48.5013427,17.4726225
+node/1040818111,Boleráz,station,Bole,48.4702243,17.4984699
+node/1063783348,Bajč,station,Bajc,47.9264277,18.2115457
+node/1078549756,Štúrovo,station,Stur,47.7999029,18.6791096
+node/1107980487,Drienovec,halt,Drno,48.6065512,20.9501845
+node/1110350933,Zemianske Kostoľany,stop,,48.6844744,18.51935
+node/1151804641,Šarišské Michaľany,halt,SaMi,49.0652486,21.1391521
+node/1165717830,Bystrany na Spiši,halt,BynS,48.9500063,20.7677348
+node/1165717885,Katúň,halt,Katu,48.967332,20.75256
+node/1166624714,Drienovská Nová Ves,stop,,48.9114494,21.2451815
+node/1167025625,Tulčík,stop,,49.0882008,21.3067895
+node/1168628321,Dlhé nad Cirochou obec,halt,DnCo,48.9584995,22.0662058
+node/1168628337,Humenné mesto,halt,HumM,48.933513,21.9123002
+node/1168628807,Kamenica nad Cirochou dvor,stop,,48.9363875,22.0005486
+node/1168629458,Humenné mesto,stop,,48.9334374,21.9121192
+node/1168629570,Kamenica nad Cirochou,station,Kanc,48.9340274,21.9912538
+node/1168629737,Dlhé nad Cirochou,station,DlnC,48.9549012,22.0551829
+node/1168629824,Kamenica nad Cirochou dvor,halt,KnCd,48.9362372,22.0003635
+node/1171145870,Kozelník,station,Koze,48.5155103,19.004733
+node/1171147213,Banská Štiavnica,stop,,48.4440056,18.915436
+node/1174953327,Malé Ripňany,halt,MaRi,48.4758782,17.985453
+node/1174953463,Čakajovce,station,Caka,48.3725658,18.0361612
+node/1174953520,Kapince,station,Kapi,48.4473978,17.9813685
+node/1174953597,Malé Zálužie,halt,MaZa,48.4363847,17.9869968
+node/1174953686,Jelšovce,station,Jelc,48.3836412,18.0527091
+node/1174953881,Čab-Sila,halt,CaSi,48.3927986,17.9972753
+node/1174953923,Čab-Sila zastávka,halt,Casz,48.4053775,17.9857801
+node/1174954145,Radošina,station,Rado,48.5465395,17.9415735
+node/1174954184,Biskupová,halt,Bisk,48.4623999,17.9798296
+node/1174954208,Čakajovce,stop,,48.3723586,18.035977
+node/1174954255,Behynce,halt,Behy,48.518985,17.9756169
+node/1174954327,Lužianky,stop,,48.35177,18.0238571
+node/1174954328,Zbehy obec,halt,Zbho,48.367026,18.0133265
+node/1174954402,Nové Sady,station,NoSa,48.4144108,17.9799097
+node/1174954487,Zbehy,station,Zbeh,48.3820514,17.9999527
+node/1179318138,Zohor,stop,,48.3257509,16.991202
+node/1179318157,Vysoká pri Morave zastávka,halt,VpMz,48.3577334,16.8851327
+node/1179318203,Zohor,stop,,48.3257702,16.9911457
+node/1179318278,Vysoká pri Morave,stop,,48.3337229,16.9138162
+node/1180652257,Veľký Šariš,stop,,49.0446431,21.2029775
+node/1180652828,Lada,halt,Lada,49.0473091,21.359146
+node/1180654064,Prešov mesto,halt,Prsm,48.9942561,21.2340427
+node/1180654096,Lipany,station,Lipa,49.1518336,20.9604785
+node/1180654102,Červenica,halt,Cerv,49.1322421,21.0250883
+node/1180654379,Orkucany,halt,Ork,49.0879028,21.1092411
+node/1180654758,Kendice,halt,Kend,48.9267168,21.2474682
+node/1180654829,Veľký Šariš,station,VeSa,49.0448096,21.2029323
+node/1180654847,Lipníky,stop,,49.0490798,21.4055134
+node/1180654870,Rožkovany,halt,Rozk,49.1431997,20.9933113
+node/1180839017,Matejovce nad Hornádom,halt,ManH,48.9167619,20.6683096
+node/1180839045,Krompachy,stop,,48.9217209,20.8864638
+node/1180839304,Markušovce,station,Mark,48.9102128,20.6345428
+node/1180839568,Chrasť nad Hornádom,halt,ChnH,48.9256761,20.7005747
+node/1182896119,Počkaj,station,Pock,48.6939867,20.9387007
+node/1182896404,Medzev,station,Medz,48.6981274,20.9039199
+node/1182896570,Debraď,halt,Debr,48.6498413,21.0059188
+node/1182896602,Jasov,halt,Jasv,48.6834539,20.9687319
+node/1252066275,Gemerská Hôrka zastávka,halt,GeHz,48.5361755,20.3636631
+node/1259643269,Lastovce,halt,Last,48.5335942,21.6235661
+node/1260636603,Strekov,station,Stre,47.89991,18.3997472
+node/1293226433,Trenčín predmestie,halt,Trep,48.887536,18.0281869
+node/1297436351,Kechnec,halt,vlKc,48.5443941,21.2760588
+node/1297436835,Seňa,halt,Sena,48.5601611,21.2830387
+node/1297441499,Gyňov,halt,Gyno,48.5887471,21.3076747
+node/1314169395,Kunova Teplica,station,KuTe,48.6083763,20.3847198
+node/1314170251,Slavošovce obec,halt,Slvo,48.71158,20.2797227
+node/1314174590,Rochovce,halt,Roch,48.7012612,20.2949556
+node/1314175060,Slavošovce,station,Slav,48.7192938,20.2698752
+node/1314175093,Plešivec,station,Ples,48.5534642,20.412723
+node/1332187407,Jablonov nad Turňou,station,JanT,48.5994871,20.6903408
+node/1339048141,Hanušovce nad Topľou mesto,halt,HnTm,49.023963,21.5044619
+node/1345796611,Gánovce,halt,Gano,49.0232821,20.3165088
+node/1351232125,Čachtice,station,Cach,48.7214705,17.7986887
+node/1375035164,Bratislava hl.st.,stop,14,48.1591519,17.1065857
+node/1375035179,Bratislava hl.st.,stop,16,48.1591903,17.1066296
+node/1375035208,Bratislava hl.st.,stop,18,48.1592803,17.106646
+node/1375035221,Bratislava hl.st.,stop,20,48.159301,17.1067215
+node/1382047578,Veľký Meder,station,VeMd,47.8615651,17.7816913
+node/1384119715,Gáň,stop,,48.2337046,17.7232895
+node/1384263718,Križovany nad Dudváhom,stop,,48.3304146,17.6608228
+node/1384312177,Diakovce,halt,Diak,48.1273884,17.8518864
+node/1385112152,Streda nad Bodrogom,station,StnB,48.3903427,21.7576164
+node/1389422721,Rajecké Teplice,halt,RaTe,49.129354,18.6785844
+node/1399075734,Pribeník,station,Prik,48.3993596,21.9988883
+node/1400713591,Ondrochov,halt,Ondr,48.121594,18.1650604
+node/1400715645,Komjatice,halt,Komj,48.1520952,18.1637515
+node/1400719393,Branč,halt,Bran,48.2072617,18.1372194
+node/1400720242,Dolné Krškany,halt,DoKr,48.2710593,18.0932769
+node/1400723490,Kamanová,halt,Kama,48.466441,18.0953034
+node/1400723491,Koniarovce,halt,Konc,48.4299119,18.0904087
+node/1400723493,Mýtna Nová Ves,halt,MyNV,48.484199,18.1034229
+node/1400723494,Preseľany nad Nitrou zastávka,halt,PnNz,48.4484544,18.0934163
+node/1401589450,Hačava skálie,halt,Hask,48.6173918,19.9591387
+node/1403114788,Rusovce,stop,,48.0465903,17.1510577
+node/1403132243,Dobrá Niva,station,DoNi,48.4807411,19.1019929
+node/1417840051,Poprad-Tatry TEŽ,stop,,49.0608846,20.295451
+node/1417840495,Priekopa,halt,Prie,49.0971682,18.9340994
+node/1434766699,Nezbudská Lúčka-Strečno,halt,Strn,49.1821684,18.8696013
+node/1437607660,Trnava,stop,,48.3697456,17.5845452
+node/1451300319,Svätý Ján,halt,,48.7803494,19.593
+node/1458536328,Nižná,stop,,49.310274,19.528734
+node/1460193248,Krásna Hôrka,halt,KrHr,49.3213822,19.5451682
+node/1460939034,Nižná,stop,,49.3103183,19.5286869
+node/1462190562,Hrabovec nad Laborcom,halt,HrnL,49.0958975,21.9419509
+node/1462191834,Volica,halt,Voli,49.154337,21.9132366
+node/1484681015,Kľače,halt,Klac,49.1066863,18.6444802
+node/1496652212,Tvrdošín,stop,,49.33705,19.5629151
+node/1542214651,Dunajov,stop,,49.3595054,18.8174165
+node/1560167806,Soblahov,halt,Sobl,48.8529113,18.0620417
+node/1560167807,Trenčianska Turná,station,TrTu,48.858858,18.0194557
+node/1560203739,Bánovce nad Bebravou,station,BanB,48.7202946,18.251297
+node/1560203755,Horné Ozorovce,station,HoOz,48.7369203,18.2330695
+node/1560203761,Mníchova Lehota,station,MnLe,48.8130026,18.0875494
+node/1560203766,Ruskovce,station,Rusn,48.7480924,18.1975197
+node/1560203911,Ruskovce,stop,,48.7479619,18.1981251
+node/1560217179,Dolné Naštice,station,DoNa,48.6903697,18.2487862
+node/1560227179,Chynorany,stop,,48.608077,18.2753143
+node/1560394861,Nemšová,station,Nems,48.9676348,18.1219508
+node/1601010057,Kochanovce,halt,Koch,48.9535217,21.9453735
+node/1601010060,Udavské,station,Udav,48.9655174,21.9470944
+node/1678847922,Nitra zastávka,station,Nitz,48.3117097,18.0568359
+node/1731238816,Krivá,halt,Krva,49.2880176,19.4752103
+node/1731250652,Podbiel,station,Podl,49.3039521,19.4784666
+node/1766110819,Horná Lehota,halt,Hole,49.251695,19.399467
+node/1766110833,Sedliacka Dubová,halt,SeDu,49.2584026,19.4318523
+node/1766156327,Dolný Kubín,stop,,49.2168565,19.2969201
+node/1766156334,Dolný Kubín,station,DoKu,49.216951,19.2969236
+node/1767486313,Nižná,station,Nizn,49.3102241,19.5285608
+node/1768614983,Topoľčianky,station,Topk,48.4119545,18.406867
+node/1775900679,Henckovce,halt,Henk,48.7146573,20.4310167
+node/1776265923,Dlhá nad Oravou,halt,DlnO,49.2646111,19.446784
+node/1780131104,Strážske,station,Strz,48.8675378,21.8248364
+node/1785985480,Humenné,stop,,48.9300571,21.9012599
+node/1785985481,Humenné,stop,,48.9300999,21.9012334
+node/1785985482,Humenné,stop,,48.9301751,21.9011798
+node/1786317295,Barca,station,Barc,48.6792613,21.2763381
+node/1794442449,Košice predmestie,stop,,48.7089195,21.2659477
+node/1794442450,Košice predmestie,stop,,48.7089278,21.2660122
+node/1795507587,Košeca,stop,,49.0148021,18.2580308
+node/1796163868,Horné Srnie,halt,HoSr,48.9974873,18.0993077
+node/1812529616,Veľká Lomnica-Golf,halt,VeLG,49.1363027,20.3373787
+node/1814703888,Mlynárce,stop,,48.325394,18.0396004
+node/1828665117,Volkovce,halt,Volk,48.3467131,18.4629988
+node/1828665118,Zlaté Moravce-Prílepy,station,ZMPr,48.3625181,18.4239543
+node/1828665119,Zlaté Moravce závody,station,Zmza,48.3969942,18.4026394
+node/1828665125,Zlaté Moravce,station,ZlMo,48.385886,18.3764345
+node/1828665491,Kozárovce zastávka,halt,KozZ,48.3125153,18.5181491
+node/1828757422,Slažany,halt,Slaz,48.3795417,18.311876
+node/1828757731,Žirany,station,Zira,48.38273,18.1696208
+node/1829739747,Vyšná Myšľa,stop,,48.6371075,21.3822526
+node/1829739861,Slanec,stop,,48.6445377,21.4879918
+node/1829740524,Slančík ŠRT,station,VSSR,48.6666773,21.4755011
+node/1829740653,Ruskov,stop,,48.6720852,21.4274874
+node/1829758384,Kuzmice,stop,,48.5816901,21.5793285
+node/1829758510,Kalša,stop,,48.6161296,21.5333259
+node/1829772164,Somotor,stop,,48.3895603,21.8087968
+node/1829806705,Veľký Horeš,station,VeHo,48.390324,21.9138562
+node/1829806850,Veľký Horeš,stop,,48.3902711,21.9137807
+node/1829822678,Dobrá,station,Dobr,48.4069909,22.0243612
+node/1829892167,Budkovce ŠRT,station,VBSR,48.6282904,21.9286235
+node/1829892169,Budkovce,station,Budk,48.6320158,21.9238577
+node/1829892172,Drahňov,station,Drhn,48.5972861,21.9717469
+node/1829892175,Dúbravka,halt,Dbrv,48.6400601,21.8905979
+node/1829892179,Hatalov,station,Hata,48.6517848,21.8700453
+node/1829892182,Krišovská Liesková,halt,KrLi,48.5669503,22.0341744
+node/1829892186,Vojany ŠRT,station,VVSR,48.560255,22.0250569
+node/1829892199,Vojany,station,Voja,48.5715297,21.9979527
+node/1829912872,Trebišov ŠRT,station,VTSR,48.643538,21.7411311
+node/1829927002,Bánovce nad Ondavou,station,BaNN,48.6792981,21.8347849
+node/1829927005,Veľké Kapušany zastávka,halt,VlKz,48.5609485,22.0670527
+node/1829943149,Bánovce nad Ondavou,stop,,48.6790838,21.8347239
+node/1829943150,Bánovce nad Ondavou,stop,,48.6791035,21.8346646
+node/1829943151,Bánovce nad Ondavou,stop,,48.679145,21.8345519
+node/1829970151,Biel,halt,Biel,48.4133873,22.0553401
+node/1830647721,Nižný Kelčov,stop,,49.377188,18.5079351
+node/1830876561,Maťovce,station,Mato,48.5566717,22.1223241
+node/1830876562,Veľké Kapušany,station,VeKa,48.5547492,22.085644
+node/1831154539,Brekov,halt,Brek,48.9032004,21.8414799
+node/1831154546,Hankovce,halt,Hank,49.0261346,21.9478901
+node/1831154548,Hrinište,station,Hrin,48.6522876,21.7758249
+node/1831154552,Koškovce,station,Kosk,49.0514393,21.9546649
+node/1831154587,Laškovce,halt,Lask,48.6972475,21.8528
+node/1831154612,Medzilaborce mesto,halt,Meme,49.2737559,21.9005902
+node/1831154613,Medzilaborce,station,Melb,49.2613518,21.9054209
+node/1831154614,Michalovce zastávka,halt,Micz,48.7298264,21.8870663
+node/1831154617,Michalovce,stop,,48.7507462,21.8985856
+node/1831154624,Monastyr,halt,Mona,49.2284969,21.8948598
+node/1831154629,Nacina Ves,halt,NaVe,48.8172866,21.8441851
+node/1831154638,Nižné Čabiny,halt,NiCa,49.1728314,21.9008568
+node/1831154647,Petrovce nad Laborcom,station,PenL,48.7978546,21.86012
+node/1831154673,Pusté Čemerné,halt,PuCe,48.843197,21.8274379
+node/1831154676,Radvaň nad Laborcom,station,RanL,49.1348333,21.9219539
+node/1831154678,Stanča,halt,Stnc,48.5655897,21.6584301
+node/1831154686,Veľaty,halt,Vela,48.5284686,21.6545305
+node/1831154690,Vyšné Čabiny,halt,VyCa,49.1875152,21.8971281
+node/1831154695,Zbudské Dlhé,halt,ZbDl,49.0727437,21.9551882
+node/1831154937,Lastovce,stop,,48.5335807,21.6234426
+node/1831160386,Sukov,halt,Suko,49.2045413,21.8874049
+node/1831160388,Sukov,stop,,49.2048142,21.8873204
+node/1831160598,Krásny Brod,halt,KrBr,49.2422694,21.9048723
+node/1831162904,Úpor,station,Upor,48.5772038,21.6717223
+node/1831162906,Ľubiša,halt,Lubi,49.0023743,21.9438383
+node/1832457351,Čeľovce,station,Celo,48.6133181,21.6285948
+node/1833094066,Hrhov,station,Hrho,48.6067937,20.7692012
+node/1833129806,Jovice,halt,Jovi,48.6351676,20.5459171
+node/1833129811,Lipovník,station,Lipo,48.6322751,20.6028865
+node/1833175132,Betliar,station,Betl,48.6999784,20.4996412
+node/1833175134,Nadabula,halt,Nada,48.6806461,20.5205362
+node/1833175137,Rožňava mesto,halt,Rozm,48.6600845,20.5196347
+node/1833208797,Dobšiná,station,Dobs,48.8133564,20.3842114
+node/1833208804,Gemerská Poloma,halt,GePo,48.7091087,20.4769164
+node/1833208807,Gočovo,halt,Goco,48.755698,20.416606
+node/1833208814,Nižná Slaná obec,halt,NiSo,48.7247917,20.4175507
+node/1833208817,Nižná Slaná,station,Nsla,48.7363551,20.4185624
+node/1833208820,Vlachovo,station,Vlac,48.7948069,20.3912533
+node/1837559105,Bziny,halt,Bzin,49.2294126,19.3202629
+node/1837559219,Mokraď,stop,,49.2354748,19.3090575
+node/1837768661,Roštár,halt,Rost,48.6788095,20.3530653
+node/1837768662,Slavec jaskyňa,station,Slja,48.5820683,20.4677419
+node/1837768663,Vidová,halt,Vido,48.5616789,20.4412905
+node/1837769164,Štítnik mesto,halt,Stim,48.6612674,20.3690583
+node/1837769168,Štítnik,station,Stit,48.668722,20.3628051
+node/1837793579,Bohúňovo,halt,Bohu,48.5118624,20.3803814
+node/1837793580,Gemerská Hôrka,station,GeHo,48.5364383,20.3854865
+node/1837795165,Čoltovo,halt,Colt,48.494214,20.370343
+node/1837810325,Včelince,halt,Vcel,48.3903996,20.3267063
+node/1838287858,Medzibrodie nad Oravou,station,MznO,49.2340025,19.3457769
+node/1839989856,Bartošovce,halt,Bart,49.1969346,21.2781892
+node/1839989857,Dvorianky,halt,Dvor,48.729333,21.6778048
+node/1839989858,Hanušovce nad Topľou,station,HanT,49.0188917,21.5198384
+node/1839989859,Hencovce,halt,Henc,48.8570571,21.7247482
+node/1839989860,Hertník,halt,Hert,49.2159242,21.2666328
+node/1839989861,Hlinné,halt,Hlin,48.9529118,21.5841743
+node/1839989862,Komárany,halt,Kmrn,48.9131271,21.6385608
+node/1839989863,Milhostov,halt,Milh,48.66543,21.7049485
+node/1839989864,Parchovany,halt,Parc,48.749364,21.6973227
+node/1839989865,Sačurov,halt,Sacu,48.8211203,21.7036009
+node/1839989866,Sečovce,station,Seco,48.7041238,21.666049
+node/1839989867,Sečovská Polianka,halt,SePo,48.7763761,21.6944135
+node/1839989868,Soľ,station,Soln,48.9319739,21.6005105
+node/1839989869,Trebišov zastávka,halt,Trbz,48.6444907,21.7150577
+node/1839989870,Vojčice,halt,Vojc,48.6803051,21.6989875
+node/1839989871,Vranov - Ortáše,halt,VrOr,48.8525286,21.6815916
+node/1839989872,Vranov nad Topľou predmestie,halt,VnTp,48.8799474,21.6735194
+node/1839989873,Vranovské Dlhé,halt,VrDl,48.8694329,21.705228
+node/1839990202,Kostoľany nad Hornádom,stop,,48.7957751,21.2458407
+node/1839990208,Kostoľany nad Hornádom,stop,,48.7958041,21.2459773
+node/1839990657,Trebejov,stop,,48.8353777,21.2184432
+node/1839990664,Trebejov,stop,,48.8360735,21.2187102
+node/1839990937,Kysak,stop,,48.8528983,21.2240885
+node/1839991314,Obišovce,stop,,48.8622707,21.2386275
+node/1839992444,Šiba,halt,Siba,49.233167,21.2425061
+node/1844344791,Vrbovce zastávka,halt,Vrbz,48.80485,17.528687
+node/1844345807,Paprad,stop,,48.780802,17.6434849
+node/1845182061,Diviaky,stop,,48.8761093,18.85043
+node/1845182071,Malý Čepčín,stop,,48.9046656,18.8433418
+node/1845446439,Košťany nad Turcom,stop,,49.0286347,18.9058157
+node/1846554199,Trstená,station,Trst,49.3608447,19.6192804
+node/1864119763,Zubrzyk,halt,,49.3874729,20.7538461
+node/1864119766,Żegiestów,station,Żw,49.3675633,20.7852637
+node/1864491320,Andrzejówka,halt,An,49.3406059,20.8209928
+node/1881157374,Bratislava predmestie,stop,,48.1841869,17.1342527
+node/1888446448,Oravský Podzámok zastávka,halt,OPoz,49.2627174,19.3776674
+node/1888446452,Tvrdošín,station,Tvrn,49.3371111,19.5631152
+node/1910252501,Gemerský Milhosť,halt,GeMi,48.5918619,20.2856575
+node/1910252502,Hucín,station,Huci,48.5643154,20.2953683
+node/1910252519,Jelšava,station,Jelv,48.6232102,20.2424407
+node/1910252522,Jelšavská Teplica,halt,JeTe,48.5997263,20.2738949
+node/1910383966,Muránska Dlhá Lúka,halt,MuDL,48.7185627,20.0829806
+node/1910383970,Muráň,station,Mura,48.7404342,20.0519273
+node/1910383977,Revúcka Lehota,halt,ReLe,48.6656166,20.1727225
+node/1910399754,Lubeník,station,Lube,48.6527643,20.1950323
+node/1910789060,Hontianske Tesáre,station,HoTe,48.2083046,18.9330088
+node/1910817004,Dudince,halt,Dudi,48.166932,18.888962
+node/1910817006,Hrkovce,halt,Hrko,48.0872114,18.9090869
+node/1910817007,Terany,halt,Tera,48.1783464,18.9013119
+node/1910832922,Ipeľský Sokolec,station,IpSo,48.0237633,18.8025228
+node/1910876308,Bielovce,halt,Blvc,47.9962565,18.774564
+node/1910876309,Pastovce,halt,Past,47.9719331,18.7494056
+node/1910876310,Zalaba,halt,Zala,47.9674547,18.7003209
+node/1910876352,Čata,station,Cata,47.9562425,18.6486726
+node/1910931307,Makov,stop,,49.3721432,18.4844775
+node/1911997558,Trenčín,station,Tren,48.8966328,18.0521884
+node/1912829395,Rajec,station,Rajc,49.0902677,18.6438848
+node/1913185902,Bušince,halt,Busi,48.1682207,19.4976309
+node/1913185904,Malé Straciny,station,MaSt,48.2065853,19.3985863
+node/1913228848,Harichovce,halt,Hari,48.9593072,20.5810605
+node/1913228854,Levoča,station,Levo,49.0174568,20.5889177
+node/1913413232,Nižná Myšľa,stop,,48.6292796,21.3718745
+node/1913774966,Starý Smokovec,stop,,49.1391837,20.2226932
+node/1914194443,Cinobaňa,halt,Cino,48.4463441,19.6582354
+node/1914194445,Katarínska Huta,halt,KaHu,48.4636548,19.6357608
+node/1914465005,Holíč nad Moravou,stop,,48.8146907,17.1499413
+node/1914581014,Skalité,station,Skal,49.4981772,18.8896411
+node/1914720420,Lednické Rovne,station,LeRo,49.0704293,18.2840756
+node/1916077053,Kubátkovia,halt,,49.3750986,19.0734049
+node/1918892380,Lozorno,stop,,48.3372736,17.0423949
+node/1918892381,Plavecký Mikuláš,station,PlMi,48.5191062,17.2830378
+node/1918925370,Štrba,stop,,49.0837132,20.0654136
+node/1933038924,Čadca (makovské nástupište),stop,,49.4431362,18.7884297
+node/1933834870,Čadca zastávka,stop,,49.4390609,18.7791763
+node/1941657723,Dobroč,halt,,48.733536,19.6960523
+node/1943049305,Chmúra,station,,49.3858419,19.10719
+node/1943049307,Sedlo Beskyd,station,,49.3901606,19.1278861
+node/1943049310,Skanzen,halt,,49.3827062,19.0960191
+node/1943049312,Tanečník,station,,49.385463,19.1614713
+node/1986280996,Raková,station,Rako,49.4469244,18.7369233
+node/2001930740,Bratislava-Vinohrady,halt,BaVi,48.186806,17.133578
+node/2005730806,Skalité pod Poľanou,halt,SkpP,49.4959927,18.9162066
+node/2009623555,Trnava,stop,,48.3697054,17.5851162
+node/2022384149,Skalité,stop,,49.4980617,18.8904342
+node/2022384154,Skalité,stop,,49.4981166,18.8904376
+node/2022384158,Skalité,stop,,49.4981711,18.8904396
+node/2025758146,Skalité zastávka,halt,Skaz,49.5053236,18.8722052
+node/2029218855,Čierne pri Čadci zastávka,halt,CpCz,49.5097129,18.8456796
+node/2029218880,Čierne-Polesie,stop,,49.5117613,18.8599934
+node/2029218881,Čierne-Polesie,halt,CiPo,49.5117676,18.8604667
+node/2037637051,Čierne pri Čadci,halt,CipC,49.4953253,18.8196096
+node/2046826443,Veľké Bielice,stop,,48.6247229,18.349558
+node/2048535484,Ráróspuszta,stop,,48.2071809,19.5415704
+node/2092887112,Sučany,halt,Suca,49.1038009,18.9880603
+node/2094813181,Beša,station,Besa,48.1384004,18.4021605
+node/2094813192,Horný Pial,halt,HoPi,48.1596209,18.4496373
+node/2169181937,Záriečie,stop,,49.1771151,18.2524164
+node/2169182017,Lúky pod Makytou,stop,,49.1914865,18.226772
+node/2222263884,Hul,station,Hul,48.0979334,18.2656086
+node/2243148908,Nyergesújfalu,stop,,47.7611658,18.5615953
+node/2277435526,Dohňany,stop,,49.1456599,18.2871907
+node/2281250492,Lysá pod Makytou,halt,LypM,49.1954562,18.1966716
+node/2281250494,Lúky pod Makytou,station,LupM,49.1911142,18.2280218
+node/2281250495,Púchov zastávka,stop,,49.1162633,18.3060567
+node/2281250497,Púchov závody,stop,,49.1074352,18.3169691
+node/2285899922,Bratislava - Ústredná nákladná stanica,station,BUNS,48.1415722,17.1726678
+node/2293679094,Žabokreky nad Nitrou,station,ZanN,48.6174535,18.2994482
+node/2333181962,Kopčany,halt,Kopc,48.7716434,17.121278
+node/2333182261,Kátov,halt,Brez,48.8283288,17.1776442
+node/2383547615,Staškov,station,Stas,49.4235831,18.6901378
+node/2384273572,Bratislava-Vinohrady,stop,,48.1865108,17.1327208
+node/2384273580,Bratislava-Vinohrady,stop,,48.1868697,17.1331547
+node/2384290011,Bratislava-Vinohrady,stop,,48.1866429,17.1336263
+node/2384672419,Zlatná na Ostrove,stop,,47.7750732,17.9769664
+node/2384791118,Koš,station,Kos,48.7487204,18.5741463
+node/2389918229,Zbyňov,halt,Zbyn,49.1173888,18.6558904
+node/2394343607,Veľké Uherce,stop,,48.6254142,18.4247151
+node/2470526487,Bratislava hl.st.,stop,1,48.158865,17.1062985
+node/2491929922,Gbely zastávka,stop,,48.71035,17.0822144
+node/2506859179,Vígľaš,station,Vigs,48.5541344,19.2827727
+node/2540239254,Chrabrany,stop,,48.5312895,18.1476583
+node/2609961450,Lietavská Lúčka,station,LeLu,49.1756393,18.7185758
+node/2623541643,Veľká Lodina,stop,,48.8561998,21.1556113
+node/2641236407,Dolné Kočkovce,halt,DoKo,49.0913121,18.3221878
+node/2714715484,Porúbka,halt,Porb,49.1498639,18.7283254
+node/2794370379,Kúty,stop,,48.6619326,17.0474142
+node/2865289027,Bratislava-Lamač,stop,,48.1850034,17.0506016
+node/2865289032,Bratislava-Železná studienka,stop,,48.1745846,17.0727581
+node/2865289058,Bratislava-Lamač,stop,,48.1849485,17.0505019
+node/2893302325,Moravský Svätý Ján,stop,,48.5873812,17.0090327
+node/2945412290,Dolný Hričov,station,DoHr,49.2409687,18.6435291
+node/2951362261,Kamenný Most nad Hronom,halt,KMnH,47.8485475,18.6550838
+node/2952631145,Plavecký Štvrtok,stop,,48.3729312,17.0077141
+node/2952631154,Zohor,stop,,48.3257314,16.9913952
+node/2954298193,Reca,stop,,48.2193056,17.455322
+node/2972494939,Bernolákovo,stop,,48.1978955,17.3060132
+node/3015138118,Šelpice,stop,,48.4280286,17.5373939
+node/3015141129,Šelpice,station,Selp,48.4278897,17.5374023
+node/3015310010,Smolenice,stop,,48.5201937,17.4554929
+node/3015310011,Smolenice,stop,,48.520208,17.4555529
+node/3057990394,Beluša,station,Belu,49.0626626,18.3193491
+node/3156021000,Domaníky,halt,Doma,48.2636126,18.9923867
+node/3174663576,Kostolná-Záriečie,stop,,48.8782488,17.9759935
+node/3205895294,Komárom,stop,,47.7496062,18.1116142
+node/3260594343,Čierna nad Tisou,stop,,48.4188686,22.0833901
+node/3260594346,Čierna nad Tisou,stop,,48.4189194,22.0833658
+node/3266126482,Poprad-Spišská Sobota,halt,PpSS,49.0575594,20.3096604
+node/3307636494,Gelnica mesto,halt,Gelm,48.8506337,20.9351248
+node/3324860220,Podhorany,halt,PpLu,48.3718098,18.1160442
+node/3324904220,Nová Ves nad Žitavou,halt,NVnZ,48.2922559,18.3208899
+node/3324904221,Slepčany,halt,Slep,48.3161871,18.3414596
+node/3324944467,Tesárske Mlyňany,station,TeMl,48.3431271,18.3594575
+node/3324944468,Vráble,station,Vrab,48.2546477,18.3007072
+node/3324968992,Kmeťovo,halt,Kmet,48.1681063,18.276596
+node/3324968993,Lúčnica nad Žitavou,halt,LunZ,48.2174013,18.2833375
+node/3324968995,Maňa,station,Mana,48.1557797,18.2706067
+node/3324968996,Michal nad Žitavou,halt,MinZ,48.1846606,18.2818936
+node/3325010668,Maňa zastávka,stop,,48.146438,18.2641167
+node/3325030475,Malá Maňa,halt,MaMa,48.1364508,18.2581765
+node/3325103352,Šurany zastávka,halt,2.629,48.0909977,18.1962191
+node/3325142554,Bánov,station,Bano,48.0455476,18.167445
+node/3328567992,Devínske Jazero,stop,,48.2510392,16.9609595
+node/3328568393,Devínske Jazero,stop,,48.2510405,16.9610152
+node/3328568418,Veľké Leváre,stop,,48.5092302,17.0186132
+node/3328568419,Veľké Leváre,stop,,48.5092359,17.0186768
+node/3328568420,Závod,stop,,48.5390687,17.0076772
+node/3329784544,Malacky,stop,,48.4329527,17.0232123
+node/3329784545,Malacky,stop,,48.4329602,17.0231475
+node/3329784546,Malacky,station,Malc,48.4324861,17.0230977
+node/3334032452,Plavecký Štvrtok,stop,,48.3729431,17.007661
+node/3334032453,Veľké Leváre,station,VeLe,48.5090165,17.0187238
+node/3334032454,Závod,halt,Zavo,48.5392141,17.0076485
+node/3350963358,Bratislava hl.st.,stop,2,48.1589009,17.1063591
+node/3350963359,Bratislava hlavná stanica,station,Bahl,48.1590296,17.1064675
+node/3350963360,Bratislava hl.st.,stop,4,48.1589702,17.1064087
+node/3350963361,Bratislava hl.st.,stop,10,48.1590802,17.1065192
+node/3350963362,Bratislava hl.st.,stop,22,48.1593756,17.1067968
+node/3350963364,Bratislava-Železná studienka,halt,BaZs,48.1745974,17.0727834
+node/3350963365,Brodské,halt,Brod,48.6926897,17.0230267
+node/3350963366,Devínska Nová Ves,stop,,48.219096,16.9763121
+node/3350963367,Devínska Nová Ves,station,DeNV,48.2190777,16.9763619
+node/3350963368,Gbely zastávka,halt,GbeZ,48.7103396,17.0822351
+node/3350963369,Gbely,station,Gbly,48.7234926,17.0910867
+node/3350963370,Holíč nad Moravou,stop,,48.8147156,17.1501228
+node/3350963371,Kopčany,stop,,48.7717354,17.1213737
+node/3350963372,Kátov,stop,,48.828383,17.1776919
+node/3350963373,Kúty,station,Kuty,48.6619514,17.047464
+node/3350963374,Moravský Svätý Ján,halt,MoSJ,48.5873833,17.0090651
+node/3350963375,Sekule,stop,,48.6076997,17.0190212
+node/3350963376,Sekule,stop,,48.6077108,17.0189631
+node/3350963377,Skalica na Slovensku,station,SknS,48.8499681,17.2183691
+node/3355889020,Bratislava-Nové Mesto,stop,,48.1717531,17.1465673
+node/3355889021,Bratislava-Nové Mesto,stop,,48.17183,17.1466286
+node/3355889022,Bratislava-Nové Mesto,stop,,48.1719036,17.1466904
+node/3355889023,Bratislava-Nové Mesto,station,BaNM,48.1719218,17.1466999
+node/3355889024,Bratislava-Nové Mesto,stop,,48.1719727,17.146779
+node/3355889025,Bratislava-Nové Mesto,stop,,48.1720367,17.1468499
+node/3355889026,Bratislava-Rača,stop,,48.2089149,17.1609356
+node/3355889027,Bratislava-Rača,stop,,48.2089848,17.1607716
+node/3355889028,Bratislava-Vajnory,stop,,48.1947006,17.2067588
+node/3355889029,Bratislava-Vajnory,station,BaVa,48.1947649,17.2069127
+node/3355889030,Bratislava-Vinohrady,stop,,48.1868375,17.133183
+node/3360962315,Bratislava-Petržalka,stop,10,48.1212055,17.0987566
+node/3362122977,Brodno,stop,,49.266708,18.7523382
+node/3362122983,Rudina,stop,,49.2800718,18.7573263
+node/3362134136,Krásno nad Kysucou,stop,1,49.3789088,18.8358514
+node/3370434913,Senec,stop,,48.213597,17.4141147
+node/3370940052,Veľký Biel,stop,,48.2060461,17.3619482
+node/3409080295,Hronec námestie,halt,,48.7954508,19.5825196
+node/3472114943,Veľký Krtíš,halt,VeKr,48.2016912,19.3630635
+node/3480082385,Vydrník,station,Vydr,48.9947418,20.4076383
+node/3480085043,Spišské Tomášovce,halt,SpTo,48.9644765,20.4748295
+node/3589305697,Leluchów,halt,,49.2990049,20.9253373
+node/3640013935,Boleráz,stop,,48.4702352,17.4983909
+node/3641581641,Kúty,stop,,48.6619493,17.0473541
+node/3641662053,Šajdíkove Humence,stop,,48.6598794,17.262472
+node/3641774003,Kúty,stop,,48.6618979,17.0475345
+node/3641774043,Trnava,stop,,48.3696181,17.5851767
+node/3641774044,Trnava,stop,,48.3696913,17.5846023
+node/3641774047,Trnava,stop,,48.3698152,17.5841349
+node/3641795939,Kúty,stop,,48.6618848,17.0475962
+node/3648631593,Lok,station,Lok,48.1853749,18.4728559
+node/3648648344,Jesenské údolie,halt,Jesu,48.160816,18.4180576
+node/3654996179,Sládkovičovo,stop,,48.195542,17.6296109
+node/3654996181,Sládkovičovo,stop,,48.1956251,17.6296389
+node/3658062010,Nové Zámky,station,NoZa,47.9955497,18.1734243
+node/3667792819,Lužianky,station,Luzk,48.3519708,18.0237735
+node/3689941998,Ružín,stop,,48.874629,21.1084756
+node/3690071748,Martin,stop,,49.0650041,18.9153776
+node/3723274422,Čierna nad Tisou zastávka,stop,,48.416523,22.0706451
+node/3723321794,Dobrá,stop,,48.4069991,22.0242985
+node/3723782148,Čierna nad Tisou št. hr.,halt,CiSH,48.4320924,22.1359655
+node/3768748933,Bodza,halt,Bodz,47.8349119,17.8204493
+node/3768748934,Dolný Bar,halt,DoBa,47.967365,17.6934623
+node/3768748936,Okoč,halt,Okoc,47.8961525,17.7947512
+node/3776215193,Senica,station,Seni,48.6659698,17.3342047
+node/3785150157,Horná Zlatná,halt,HoZl,47.7804136,17.9469377
+node/3785150158,Komárno závody,halt,Komz,47.7723639,18.092471
+node/3844565680,Bernolákovo,stop,,48.1978544,17.3060293
+node/3846992434,Bernolákovo,station,Bern,48.1978597,17.3059412
+node/3846992435,Báhoň,halt,Baho,48.3056574,17.4505004
+node/3846992436,Cífer,stop,,48.3228939,17.4865681
+node/3846992437,Cífer,station,Cife,48.3230455,17.486712
+node/3846992438,Cífer,stop,,48.3229962,17.4864326
+node/3846992439,Galanta,station,Gala,48.1850826,17.7218452
+node/3846992440,Ivanka pri Dunaji,halt,IvpD,48.1947706,17.2596059
+node/3846992441,Reca,halt,Reca,48.219289,17.4554267
+node/3846992448,Pezinok,station,Pezi,48.2824621,17.2703826
+node/3846992449,Pezinok zastávka,stop,,48.2670408,17.2461261
+node/3846992450,Pezinok zastávka,halt,Pezz,48.2673284,17.2465116
+node/3846992451,Pusté Úľany,halt,PuUl,48.2081565,17.5430754
+node/3846992452,Senec,stop,,48.213556,17.4141285
+node/3846992454,Sládkovičovo,stop,,48.1955816,17.6296273
+node/3846992455,Sládkovičovo,station,Slad,48.1955523,17.6296937
+node/3846992456,Svätý Jur,stop,,48.2476,17.2178123
+node/3846993457,Svätý Jur,halt,SvJr,48.2474166,17.2174898
+node/3846993458,Veľký Biel,halt,VlBi,48.2060307,17.3619931
+node/3852205979,Pezinok,stop,,48.2825464,17.2707566
+node/4002226419,Horná Štubňa obec,halt,HoSO,48.8310604,18.8776127
+node/4077331701,Predmier,halt,Pred,49.1975365,18.5358674
+node/4175301900,Žiar nad Hronom zastávka,stop,,48.5685027,18.8507663
+node/4175338314,Bzenica,stop,,48.529492,18.7383597
+node/4177603405,Báhoň,stop,,48.305244,17.4495473
+node/4246023830,Veľký Biel,stop,,48.2061009,17.3626282
+node/4246055206,Reca,stop,,48.2192601,17.4553354
+node/4246062244,Galanta,stop,,48.1849237,17.7233188
+node/4290506296,Zvolen osobná stanica,stop,,48.570848,19.1227333
+node/4290646696,Zvolen osobná stanica,stop,,48.5697206,19.1205405
+node/4291282862,Zvolen osobná stanica,stop,,48.5695283,19.1207622
+node/4291282863,Zvolen osobná stanica,stop,,48.5696144,19.1206525
+node/4291282864,Zvolen osobná stanica,stop,,48.5694967,19.1207944
+node/4291282865,Zvolen osobná stanica,stop,,48.5694126,19.120889
+node/4291282866,Zvolen osobná stanica,stop,,48.5693076,19.1210044
+node/4291282867,Zvolen osobná stanica,stop,,48.5692185,19.1210869
+node/4341050294,Galanta,stop,,48.18505,17.7233435
+node/4341350596,Gáň,stop,,48.2336995,17.7233518
+node/4427766990,Danielov Dom,halt,Dani,49.1187459,20.1681723
+node/4443345254,Bratislava-Vrakuňa,stop,,48.1447718,17.2130269
+node/4460093995,Turzovka,stop,,49.4036283,18.6281488
+node/4460106421,Turzovka zastávka,halt,TrzZ,49.3824632,18.5934732
+node/4460106422,Vysoká nad Kysucou,station,VynK,49.3795432,18.5488471
+node/4460106424,Nižný Kelčov,halt,NiKe,49.3769319,18.5071199
+node/4460114530,Podvysoká,halt,Podv,49.413647,18.6712907
+node/4468209259,Trenčín-Opatová,halt,OpnV,48.9101558,18.0881426
+node/4529268820,Stanča,stop,,48.5654938,21.6582256
+node/4598669126,Horná Štubňa,stop,,48.7927907,18.8817796
+node/4598669141,Horná Štubňa,stop,,48.7927838,18.881715
+node/4752645712,Tvrdošovce,station,Tvdc,48.0925839,18.0406406
+node/4757867666,Brodno,stop,,49.2666882,18.7522411
+node/4757867677,Rudina,stop,,49.2800903,18.7572773
+node/4757867702,Ochodnica,stop,,49.3475946,18.8066536
+node/4757867716,Dunajov,stop,,49.3595404,18.8173898
+node/4757870134,Krásno nad Kysucou,stop,2,49.3788933,18.8356461
+node/4759561072,Považany,stop,,48.7026301,17.842342
+node/4759561076,Brunovce,stop,,48.6832754,17.8456747
+node/4759561085,Horná Streda,stop,,48.6514191,17.8362305
+node/4759561100,Piešťany,station,Pies,48.5954601,17.8142085
+node/4759561119,Drahovce zastávka,halt,Drah,48.5254996,17.7897937
+node/4759562628,Veľké Kostoľany,station,VeKl,48.5072209,17.7742181
+node/4761786737,Kostolná-Záriečie,stop,,48.8782706,17.9759487
+node/4761786766,Melčice,stop,,48.8369084,17.9194395
+node/4761786774,Trenčianske Bohuslavice,station,TrBo,48.8017292,17.8739539
+node/4764382668,Mužla,stop,,47.8127853,18.596244
+node/4937046458,Šenkvice,stop,,48.3019368,17.3459155
+node/4937046459,Šenkvice,stop,,48.3018213,17.3458085
+node/5193253131,Rimavská Sobota,stop,,48.3851834,20.0284635
+node/5222951719,Nové Zámky,stop,,47.9955546,18.1734631
+node/5224951601,Mužla,stop,,47.81315,18.5947353
+node/5224951613,Gbelce,station,Gbce,47.8494526,18.5069532
+node/5224953323,Nová Vieska,halt,NoVi,47.8687892,18.4608823
+node/5233213886,Krpeľany,stop,,49.1263086,19.0834578
+node/5233214122,Kraľovany,stop,,49.1530419,19.1301754
+node/5234632578,Ružín,stop,,48.8745725,21.1085292
+node/5235211227,Matejovce nad Hornádom,stop,,48.9170202,20.6689404
+node/5235211300,Spišská Nová Ves,station,SpNV,48.9504283,20.560538
+node/5235211447,Kluknava,stop,,48.9138247,20.947199
+node/5235953009,Letanovce,stop,,48.972862,20.4615022
+node/5236463528,Lučivná,stop,,49.058054,20.1439714
+node/5236504031,Východná,station,Vych,49.0504081,19.9167558
+node/5236504102,Liptovský Hrádok,stop,,49.0380414,19.7213132
+node/5236504160,Liptovský Mikuláš,stop,,49.0920643,19.6057879
+node/5236529113,Liptovské Vlachy,stop,,49.0877268,19.4735011
+node/5236529182,Ružomberok,stop,,49.0836049,19.3091073
+node/5236529666,Ľubochňa,station,Lubo,49.1269574,19.1721319
+node/5236529684,Stankovany,halt,Stan,49.1436526,19.1729479
+node/5279185356,Rusovce,station,Ruso,48.0467664,17.1507828
+node/5279185357,Bratislava-Petržalka,stop,5,48.1213504,17.099464
+node/5366254620,Topoľčany,station,Topl,48.5623976,18.1694226
+node/5370900311,Štrba OŽ,stop,,49.0840963,20.0656994
+node/5381712732,Žilina predmestie,halt,,49.2320594,18.7144355
+node/5470799114,Richnava,stop,,48.9226373,20.9268151
+node/5535569567,Komárom,station,KM,47.7495823,18.1138895
+node/5535642134,Čadca,stop,,49.4453112,18.7869346
+node/5671523518,Bánovce nad Bebravou,stop,,48.7202146,18.2513969
+node/5689728490,Ružomberok,stop,,49.0835147,19.3089688
+node/5689728516,Ružomberok,stop,,49.0836353,19.3091554
+node/5689729128,Ružomberok,stop,,49.0836673,19.3092058
+node/5707475372,Okoličné,station,Okol,49.0766303,19.6517969
+node/5707483917,Podtureň,halt,Podt,49.0591821,19.6953008
+node/5707497565,Liptovský Hrádok,stop,,49.0379195,19.7212634
+node/5707933771,Kraľovany,stop,,49.1533091,19.130147
+node/5715256323,Vrútky nákladná stanica,station,Vrns,49.1089605,18.9468102
+node/5726026252,Bratislava predmestie,stop,,48.1841574,17.1344059
+node/5743856155,Rybany,station,Ryba,48.669063,18.2617477
+node/5843728364,Trenčianska Turná,stop,,48.8588534,18.019546
+node/5865123118,Dolný Kubín zastávka,stop,,49.2118678,19.2795598
+node/5872944798,Kysucké Nové Mesto,stop,,49.3062213,18.7840184
+node/5872944805,Kysucké Nové Mesto,stop,,49.3061569,18.7841899
+node/5878712864,Prievidza,station,Priv,48.7747445,18.6166732
+node/5911193427,Krupina predmestie,halt,Krpm,48.3604851,19.0670489
+node/5911193429,Podzámčok,halt,Podz,48.4998186,19.097355
+node/5911193430,Dobrá Niva zastávka,halt,DbNz,48.471038,19.1040185
+node/5911193431,Bzovská Lehôtka,halt,BzLe,48.4206307,19.1289603
+node/5911365538,Bzovík,halt,Bzov,48.3255693,19.0593061
+node/5911365540,Dvorníky,halt,Dvrn,48.1990545,18.9238839
+node/5911365541,Slatina,halt,,48.1466192,18.8902308
+node/5911365542,Tupá,station,Tupa,48.1091133,18.8948216
+node/6017744526,Poprad-Tatry,stop,,49.0601727,20.2949293
+node/6017744527,Poprad-Tatry,stop,,49.0602574,20.2949381
+node/6017744528,Poprad-Tatry,stop,,49.0602695,20.2958789
+node/6122404975,Stará Lesná,halt,StLe,49.1549625,20.2710628
+node/6122404976,Tatranská Lesná,halt,TtLe,49.1500768,20.2566969
+node/6122404977,Horný Smokovec,halt,HorS,49.1425856,20.2408724
+node/6122404978,Pekná Vyhliadka,halt,PekV,49.139274,20.2329526
+node/6253850462,Partizánske zastávka,halt,Parz,48.6271065,18.3935382
+node/6276760385,Spišská Belá,station,SpBe,49.1867174,20.4514575
+node/6340274446,Radvaň,stop,,48.7167792,19.1406143
+node/6348160255,Pezinok,stop,,48.2826244,17.2706917
+node/6374472362,Balassagyarmat,stop,,48.0712779,19.2937852
+node/6382044532,Chľaba zástavka,stop,,47.8248299,18.8283614
+node/6382044533,Chľaba zástavka,stop,,47.824787,18.8283622
+node/6384121352,Kvetoslavov zastávka,halt,KvtZ,48.0602736,17.3410162
+node/6384121353,Kvetoslavov,station,Kvet,48.0556465,17.359446
+node/6384121354,Nové Košariská,halt,NoKo,48.0999234,17.2767923
+node/6384121355,Bratislava-Vrakuňa,halt,BaVr,48.1442072,17.2134602
+node/6384121356,Rovinka,halt,Rovi,48.1077814,17.2558658
+node/6384121357,Miloslavov,halt,Milo,48.0854436,17.3017813
+node/6386034370,Ružín,halt,Ruzi,48.8745409,21.1083478
+node/6388664864,Holíč nad Moravou,station,HonM,48.8146554,17.1500344
+node/6394541966,Balassagyarmat,stop,,48.0712039,19.2938426
+node/6412117956,Svrčinovec,stop,,49.4803289,18.7932229
+node/6446509215,Žilina,station,Zili,49.2270928,18.7468252
+node/6509897963,Balassagyarmat,station,BG,48.0713533,19.2936817
+node/6532272425,Staškov zastávka,halt,Staz,49.4326294,18.7069009
+node/6588759042,Krupina,station,Krpa,48.3464284,19.0686512
+node/6627186902,Zohor,stop,,48.3257434,16.9912677
+node/6627292829,Malacky,stop,,48.4329658,17.0230901
+node/6627429382,Veľké Leváre,stop,,48.50922,17.0185496
+node/6627437401,Veľké Leváre,stop,,48.5092074,17.018486
+node/6630756294,Sekule,stop,,48.6077227,17.0188976
+node/6635016746,Moldava nad Bodvou mesto,station,MnBm,48.608116,21.0031676
+node/6646508753,Zohor,station,Zoho,48.3257528,16.9913734
+node/6649247706,Lozorno,halt,Lozo,48.3372128,17.0422378
+node/6710866914,Turzovka zastávka,stop,,49.3825138,18.5940148
+node/6718435977,Dedina,halt,,49.1091653,19.8020933
+node/6752957278,Hlboké,halt,Hlbo,48.6364865,17.3726764
+node/6753627542,Kremnica,stop,,48.6974237,18.9241659
+node/6771996817,Dolný Štál,station,Stal,47.951273,17.7435761
+node/6792201611,Hradište pod Vrátnom,halt,HrpV,48.6298118,17.4830594
+node/6792201612,Brezová pod Bradlom zastávka,halt,BrBr,48.6545164,17.5121019
+node/6792201613,Osuské,halt,,48.619467,17.4490964
+node/6792201614,Jablonica obec,halt,JabO,48.6093416,17.4230665
+node/6793945399,Križovany nad Dudváhom,station,KrnD,48.3302253,17.6611865
+node/6793945400,Sereď,station,Serd,48.290368,17.7269644
+node/6793945401,Gáň,station,Gan,48.233671,17.723317
+node/6793945402,Galanta,stop,,48.1850058,17.7233363
+node/6795614368,Komárno,station,Koma,47.769268,18.1258959
+node/6797512182,Popradské Pleso,halt,PoPl,49.126043,20.0749585
+node/6797512183,Vyšné Hágy,station,VyHg,49.1188223,20.1232131
+node/6797536686,Nová Polianka,halt,NoPo,49.1183481,20.1507493
+node/6797536691,Tatranská Polianka,halt,TPol,49.122707,20.1861937
+node/6797536694,Tatranské Zruby,halt,TatZ,49.1300667,20.1993003
+node/6797536703,Sibír,halt,Sibi,49.1347727,20.2105965
+node/6797536712,Nový Smokovec,halt,NovS,49.1368961,20.2160735
+node/6797536720,Dolný Smokovec,halt,DolS,49.1320016,20.2396837
+node/6797536721,Pod lesom,halt,Pdle,49.1259605,20.2452036
+node/6797536722,Nová Lesná,halt,NoLe,49.1159573,20.26195
+node/6797536727,Veľký Slavkov,halt,VeSl,49.0912104,20.277472
+node/6797536728,Poprad-Tatry TEŽ,stop,,49.0608925,20.2953147
+node/6797536729,Štrbské Pleso,stop,3,49.1184768,20.0639083
+node/6797536730,Tatranský Lieskovec,halt,TaLi,49.0926345,20.0672055
+node/6908654322,Роз'їзд 271 км,halt,,48.4345407,22.143513
+node/7066101885,Nitra,station,Nitr,48.3015215,18.0792202
+node/7084407482,Revúca,station,Revu,48.677424,20.1147262
+node/7098468026,Chotín,station,Choti,47.8088558,18.1899047
+node/7127945746,Krásno nad Kysucou,station,KrnK,49.3786108,18.8358007
+node/7128814274,Oščadnica,stop,,49.4155208,18.8324825
+node/7128814275,Oščadnica,halt,Osca,49.415672,18.8324374
+node/7182818018,Pstruša,stop,,48.5533613,19.3124577
+node/7201220627,Chotín,stop,,47.8092088,18.189949
+node/7281105662,Ráróspuszta,halt,,48.2072064,19.5412597
+node/7316507989,Košice,station,Keos,48.7220196,21.2692121
+node/7317100636,Strážky zastávka,halt,StZa,49.171642,20.4600587
+node/7320546671,Horný Hričov,halt,HoHr,49.2548978,18.6597457
+node/7371960355,Veľké Uherce,station,VeUh,48.625473,18.4247633
+node/7400854416,Jablonové,station,Jabe,48.3534771,17.0891982
+node/7415196493,Dolný Kubín zastávka,halt,DoKz,49.2117885,19.2792905
+node/7419981499,Michalovce,station,Mich,48.7507346,21.8985414
+node/7423865752,Zlatná na Ostrove,station,ZlnO,47.7750716,17.9767814
+node/7446724508,Štrba zastávka,halt,Strx,49.0626739,20.082365
+node/7446724509,Štrba zastávka,stop,,49.0626878,20.0823787
+node/7548850661,Šúrovce,halt,,48.3276118,17.7220303
+node/7555183810,Bytča,station,Bytc,49.207086,18.552564
+node/7578958500,Dolný Hričov,stop,,49.2394036,18.6424349
+node/7578958518,Dolný Hričov,stop,,49.2394886,18.642222
+node/7745619336,Studený Potok,station,StPo,49.1089553,20.3546236
+node/7745619337,Studený Potok,stop,,49.1090215,20.3549993
+node/7767784188,Ludanice,station,Luda,48.504312,18.1188287
+node/7768091214,Výčapy-Opatovce,halt,VyOp,48.4130067,18.0801429
+node/7782082373,Vítkovce,stop,,48.9256244,20.7183836
+node/7782082374,Vítkovce,stop,,48.9255852,20.7183869
+node/7782082481,Poprad-Tatry,stop,,49.0600478,20.2948866
+node/7783219907,Teplička nad Hornádom,stop,,48.9187189,20.5835327
+node/7783219927,Teplička nad Hornádom,stop,,48.9186879,20.5834911
+node/7822666269,Čierna nad Tisou zastávka,halt,CnTZ,48.4164612,22.0704403
+node/7851643633,Vydrovo - Korytárske,stop,,48.7289394,19.6338032
+node/7857428208,Štrbské Pleso,stop,2,49.118504,20.0638663
+node/7857428209,Štrbské Pleso,stop,4,49.1184111,20.0639793
+node/7857497109,Štrba OŽ,stop,,49.0840912,20.0659208
+node/7857497110,Štrba OŽ,stop,,49.0841516,20.0657199
+node/7857507390,Štrba,stop,,49.0836436,20.0653473
+node/7857507418,Štrba,stop,,49.0837509,20.0654483
+node/7905578376,Gánovce,stop,,49.0233284,20.3163526
+node/7905578377,Gánovce,stop,,49.0232887,20.3163379
+node/7906896635,Spišský Štiavnik,stop,,49.0075943,20.3770505
+node/7906896666,Spišský Štiavnik,halt,SpSt,49.0074062,20.3772857
+node/7912041597,Letanovce,stop,,48.9738074,20.4603817
+node/7912041640,Letanovce,halt,Leta,48.9732617,20.4610886
+node/7913371561,Nosice,stop,2,49.1332727,18.3541996
+node/7913371562,Nosice,halt,Nosi,49.133253,18.354182
+node/7914190002,Margecany zastávka,stop,,48.8892588,21.0417976
+node/7914190003,Margecany zastávka,stop,,48.8892943,21.0418231
+node/7918122821,Nosice,stop,1,49.1332346,18.3542061
+node/7999286776,Rajec,stop,,49.0903928,18.6439918
+node/7999388391,Konská pri Rajci,halt,KopR,49.1240988,18.6698765
+node/8001466679,Kysucké Nové Mesto,station,KyNM,49.305892,18.783797
+node/8007950886,Važec,halt,Vaze,49.0671366,19.9881397
+node/8012637130,Banská Bystrica,station,BaBy,48.734955,19.1638759
+node/8012721730,Zvolen osobná stanica,station,Zvos,48.5694989,19.1207493
+node/8014787090,Vyškovce nad Ipľom,halt,VynI,48.0547155,18.8572924
+node/8071577078,Lok,stop,,48.185339,18.4727786
+node/8150247696,Podunajské Biskupice,station,PoBi,48.1312823,17.2208637
+node/8167242518,Nálepkovo-Peklisko,stop,,48.8164741,20.5477133
+node/8170930709,Kalonda,halt,Kalo,48.2586135,19.6597922
+node/8170932991,Rapovce,halt,Rapo,48.2760306,19.6771949
+node/8171377866,Maša,halt,Masa,48.4585569,19.6379519
+node/8173415677,Slaná Lehota,halt,SlLe,48.4549136,19.7936321
+node/8173552507,Podrečany,stop,,48.4047019,19.6000754
+node/8173618299,Lovinobaňa,stop,,48.4446981,19.5748861
+node/8173618305,Lovinobaňa,station,Lovi,48.4447447,19.574925
+node/8173673192,Píla,halt,Pila,48.4823677,19.5149742
+node/8175950186,Rimavské Janovce,halt,RiJa,48.3524917,20.0560107
+node/8175990069,Rimavská Sobota,stop,,48.3846216,20.029146
+node/8175990614,Jesenské zastávka,halt,JesZ,48.3051805,20.0770023
+node/8176026861,Veľké Teriakovce,halt,VeTe,48.4373726,19.9733055
+node/8176082680,Hnúšťa zastávka,halt,Hnsz,48.6041709,19.9588648
+node/8176137568,Hačava,halt,Haca,48.6261048,19.9533993
+node/8176301865,Zbojská,stop,,48.7466648,19.8409371
+node/8190247673,Zbudské Dlhé,stop,,49.0726852,21.9552984
+node/8190562673,Hrinište,stop,,48.6522526,21.7754918
+node/8190764826,Trebišov,stop,,48.632582,21.7110145
+node/8190829534,Veľaty,stop,,48.5287924,21.6544094
+node/8210823744,Valaská,halt,Vala,48.8117281,19.5732215
+node/8211003407,Lopej,stop,,48.815347,19.4979275
+node/8219641215,Pečovská Nová Ves,stop,,49.1203877,21.0410409
+node/8219836178,Čirč,halt,Circ,49.2900928,20.9102745
+node/8222396950,Malá Lodina,stop,,48.8738934,21.1342895
+node/8223326625,Bratislava-Lamač,station,BaLa,48.1846371,17.0510613
+node/8228532363,Kraľovany,stop,,49.1529565,19.1301963
+node/8228571629,Šútovo-Ratkovo,stop,,49.1431075,19.0908688
+node/8231314451,Nezbudská Lúčka-Strečno,stop,,49.1827505,18.8699133
+node/8231314452,Nezbudská Lúčka-Strečno,stop,,49.1827402,18.8699683
+node/8231496203,Kraľovany zastávka,stop,,49.1798116,19.1477175
+node/8231496204,Kraľovany zastávka,halt,Kraz,49.1791841,19.1469256
+node/8231697947,Veličná,halt,Veli,49.2019077,19.2505428
+node/8241078073,Mokraď,halt,Mkrd,49.2354182,19.3088177
+node/8245580361,Hronsek,halt,Hrns,48.6486045,19.159298
+node/8264063505,Jastrabá,stop,,48.6441841,18.9241159
+node/8264457607,Hronská Dúbrava,stop,,48.5763592,18.9899634
+node/8264493520,Hronská Dúbrava,stop,,48.5763024,18.9897869
+node/8264493534,Hronská Dúbrava,stop,,48.5763393,18.9899046
+node/8264864729,Turany,station,Tura,49.1098305,19.0383303
+node/8270211416,Podzámčok,stop,,48.4999448,19.0973081
+node/8281513157,Dvorníky,stop,,48.198977,18.9237605
+node/8285988298,Kamenín,halt,Kmnn,47.8885918,18.6422991
+node/8285988368,Bíňa,halt,Bina,47.9201051,18.6350695
+node/8285988425,Bíňa zastávka,halt,Binz,47.9352899,18.6437737
+node/8286654450,Hronovce,halt,Hrnv,48.0061686,18.6500793
+node/8286654536,Pohronský Ruskov,station,PoRu,47.97536,18.6485018
+node/8294228024,Lučenec,station,Luce,48.3359892,19.6676334
+node/8294228057,Mikušovce,halt,Miku,48.3002392,19.6790588
+node/8297360445,Utekáč,stop,,48.6034776,19.8051598
+node/8303302213,Čamovce,stop,,48.2506343,19.8893064
+node/8369190251,Ráróspuszta,stop,,48.2069137,19.5403072
+node/8396175489,Ťahanovce,stop,,48.7558751,21.2532437
+node/8396916338,Kostoľany nad Hornádom,stop,,48.7957909,21.2459175
+node/8398119353,Vrútky,station,Vrut,49.114721,18.9253241
+node/8429075778,Trenčín,stop,,48.8966106,18.0517708
+node/8437402360,Nyergesújfalu,station,NF,47.76109,18.561481
+node/8437402361,Nyergesújfalu felső,halt,,47.7624608,18.5407727
+node/8437402366,Süttő,station,UT,47.7612852,18.4548961
+node/8437402367,Süttő felső,halt,,47.7566112,18.4368708
+node/8441919177,Liptovský Mikuláš,station,LiMi,49.0922319,19.605126
+node/8495268559,Čadca,station,Cadc,49.4452459,18.7869396
+node/8540657242,Vyšné Hágy,stop,,49.1188179,20.1232456
+node/8731602439,Vydrovo,stop,,48.7228778,19.6252942
+node/8891912964,Brestovany,halt,Bres,48.3821575,17.6913369
+node/8953202060,Štúrovo,stop,,47.8000381,18.6797163
+node/8962443357,Pribeta,station,Prit,47.9380845,18.316305
+node/8975032451,Bystričany,halt,Byst,48.6589814,18.4895168
+node/9002413957,Trnava,stop,,48.3697776,17.5841757
+node/9021401179,Šenkvice,station,Senk,48.3017487,17.3461693
+node/9024411826,Pezinok,stop,,48.2826583,17.270644
+node/9040800059,Štrba,station,Strb,49.0839252,20.0647852
+node/9053404074,Martinová,halt,Mrtn,48.1986347,18.2800276
+node/9053404089,Dyčka,halt,Dyck,48.2345717,18.2870969
+node/9092658386,Štúrovo,stop,,47.8001492,18.6796289
+node/9109051157,Komárom,stop,,47.7493788,18.1138691
+node/9119576443,Lisková zastávka,stop,,49.0869854,19.3522885
+node/9123204120,Orechová Potôň,stop,,48.0144156,17.5301588
+node/9155980816,Trstená,stop,,49.3609241,19.6193907
+node/9156006185,Liptovský Hrádok,stop,,49.038002,19.7212918
+node/9156014148,Štrba zastávka,stop,,49.062657,20.0823412
+node/9156014258,Poprad-Tatry TEŽ,station,PoTt,49.0608873,20.2953945
+node/9156014259,Poprad-Tatry,station,PoTa,49.0600912,20.2949412
+node/9156047906,Poprad-Spišská Sobota,stop,,49.0576173,20.3095884
+node/9267424993,Nižný Skálnik,stop,,48.4529091,19.9676889
+node/9267425137,Veľké Teriakovce,stop,,48.4372743,19.9733732
+node/9405037123,Komárno zriaďovacia stanica,station,Kozs,47.7855386,18.1731101
+node/9445999443,Veľká Lomnica-Golf,stop,,49.1363088,20.3373342
+node/9445999444,Tatranská Lomnica zastávka,stop,,49.1488168,20.3152002
+node/9456331905,Štrba OŽ,station,,49.0839965,20.0662402
+node/9456331909,Štrbské Pleso OŽ,station,StPl,49.1182187,20.0638012
+node/9456331910,Tatranská Lomnica,station,TaLo,49.1646369,20.2794665
+node/9456331911,Tatranská Lomnica,station,,49.1647034,20.2791581
+node/9460098998,Vlčany,station,Vlca,48.0300646,17.9364627
+node/9460099051,Žihárec zastávka,halt,Zihz,48.0705461,17.895731
+node/9460099132,Žihárec,station,Ziha,48.0790071,17.8814153
+node/9460099192,Tešedíkovo,station,Tese,48.1063617,17.8560129
+node/9471980467,Nitra zastávka,stop,,48.3116711,18.0569238
+node/9495737925,Andač,station,Anda,48.3811131,17.967245
+node/9498387931,Chrabrany,halt,Chra,48.5314398,18.1477935
+node/9501137560,Partizánske,stop,,48.6272982,18.3702601
+node/9507981149,Remäta,stop,,48.753069,18.8051327
+node/9510658634,Ostratice,halt,Ostr,48.6479029,18.2720144
+node/9517090282,Trenčianska Teplá zastávka,halt,TrTZ,48.9298343,18.1290521
+node/9518851443,Horovce,halt,Horo,49.050688,18.257369
+node/9518851444,Dulov,halt,Dulo,49.03441,18.2346829
+node/9518851445,Pruské,station,Prus,49.0210061,18.2113453
+node/9518851447,Sedmerovec,halt,Sedm,49.0089838,18.1881129
+node/9518851450,Bolešov,halt,Blsv,48.9912391,18.1541597
+node/9518851451,Borčice,halt,Borc,48.9812879,18.1339203
+node/9522193977,Lysá pod Makytou,stop,,49.1954052,18.1964429
+node/9522193978,Lysá pod Makytou,stop,,49.1954422,18.1964251
+node/9522194468,Dohňany,stop,,49.145677,18.2872427
+node/9525201405,Skalité pod Poľanou,stop,,49.4956755,18.915906
+node/9527723448,Raková-Zemanov,halt,RaZe,49.4434653,18.7514273
+node/9536994172,Brestovec,halt,Brst,48.7861473,17.5574232
+node/9571335572,Tatranská Lomnica,stop,,49.1647912,20.2791866
+node/9571335577,Tatranská Lomnica,stop,,49.1647728,20.2792302
+node/9571340810,Pod lesom,stop,,49.1259745,20.2450132
+node/9580996576,Mužla,station,Muzl,47.8129623,18.5955288
+node/9627150490,Čierny Balog,stop,,48.7462207,19.6568913
+node/9648125359,Starý Smokovec,station,StSm,49.1390923,20.2226278
+node/9687476143,"Valaská, Obec",station,,48.8052676,19.5690626
+node/9725163341,Hrachovište,halt,Hrch,48.7180411,17.7271684
+node/9758904815,Čadca (Makovské nástupište),station,,49.4431989,18.7879987
+node/9806594721,Rudina,halt,,49.2803155,18.7575446
+node/9861177842,Žilina,stop,,49.2272741,18.7469318
+node/9861177843,Žilina,stop,,49.2271344,18.7468503
+node/9883471641,Kuzmice,stop,,48.5816868,21.5794571
+node/9883471643,Kuzmice,stop,,48.5816855,21.5795826
+node/9883471645,Kuzmice,stop,,48.5816884,21.579393
+node/9910904660,Čadca mesto,stop,,49.4368628,18.793981
+node/9910904661,Čadca mesto,stop,,49.436859,18.7939105
+node/9910904662,Žilina,stop,,49.2270345,18.7467982
+node/9910904663,Žilina,stop,,49.2269155,18.746742
+node/9910904664,Žilina,stop,,49.2269545,18.7467615
+node/9910904665,Žilina,stop,,49.2269949,18.7467818
+node/9910904666,Brodno,halt,Brdn,49.2662469,18.7525176
+node/9910904667,Ochodnica,stop,,49.3475926,18.8067074
+node/9910904668,Ochodnica,halt,Ocho,49.3474048,18.8066781
+node/9910904669,Dunajov,halt,Duna,49.3597939,18.8183512
+node/9919001309,Slanec,stop,,48.6445861,21.4881077
+node/9919001310,Slanec,stop,,48.6445611,21.4880478
+node/10095173586,Plešivec,stop,,48.5534426,20.412728
+node/10095173587,Plešivec,stop,,48.5533996,20.4127431
+node/10095173588,Plešivec,stop,,48.5533576,20.4127583
+node/10095173589,Plešivec,stop,,48.5533161,20.4127733
+node/10095173590,Plešivec,stop,,48.5532352,20.4128026
+node/10095173591,Plešivec,stop,,48.5532741,20.4127885
+node/10096309144,Detva,stop,,48.5338664,19.4058619
+node/10096309145,Kriváň,stop,,48.5284601,19.445637
+node/10096309146,Kriváň,stop,,48.5285562,19.4456095
+node/10096309147,Kriváň,stop,,48.5285058,19.4456239
+node/10096309148,Kriváň,stop,,48.5285987,19.4455973
+node/10096309149,Kriváň,stop,,48.5283736,19.4456618
+node/10096309150,Lučenec,stop,,48.3354428,19.6683724
+node/10096309151,Lučenec,stop,,48.3360702,19.6674145
+node/10096309152,Lučenec,stop,,48.3361016,19.667459
+node/10096309153,Lučenec,stop,,48.3363694,19.6671418
+node/10096309154,Lučenec,stop,,48.3361476,19.6675699
+node/10096309166,Fiľakovo,stop,,48.2662899,19.8324965
+node/10096309167,Fiľakovo,stop,,48.2663055,19.832556
+node/10096309168,Fiľakovo,stop,,48.2663209,19.8326148
+node/10096309169,Fiľakovo,stop,,48.2662738,19.8324352
+node/10096309174,Jesenské,stop,,48.2996955,20.0620668
+node/10096309175,Jesenské,stop,,48.2997285,20.0625507
+node/10096309176,Jesenské,stop,,48.2996089,20.0620641
+node/10096309177,Jesenské,stop,,48.2996519,20.0620667
+node/10096309178,Jesenské,stop,,48.2995676,20.0620625
+node/10096309191,Číž kúpele,stop,,48.3051322,20.2780175
+node/10096309192,Tornaľa,stop,,48.4226137,20.3308274
+node/10096309193,Tornaľa,stop,,48.422605,20.3308926
+node/10096309194,Tornaľa,stop,,48.4226218,20.330764
+node/10096309208,Moldava nad Bodvou,stop,,48.6012919,21.0027938
+node/10096309209,Moldava nad Bodvou,stop,,48.6013131,21.0028684
+node/10096309210,Moldava nad Bodvou,stop,,48.6013425,21.0029388
+node/10096309211,Moldava nad Bodvou,stop,,48.601363,21.0029964
+node/10096309215,Rožňava,stop,,48.635473,20.514293
+node/10096309216,Rožňava,stop,,48.6355437,20.5141723
+node/10096326817,Rožňava,stop,,48.635449,20.5143464
+node/10096326818,Rožňava,stop,,48.6355723,20.5141224
+node/10097782962,Košice,stop,,48.7223602,21.2693762
+node/10097782963,Košice,stop,,48.7217153,21.2685234
+node/10097782964,Košice,stop,,48.7217271,21.2685865
+node/10097782965,Košice,stop,,48.7227255,21.2682147
+node/10097782966,Košice,stop,,48.7227384,21.2682824
+node/10097782967,Košice,stop,,48.7227759,21.2684674
+node/10097782968,Košice,stop,,48.7227921,21.2685314
+node/10097782969,Košice,stop,,48.7220024,21.2690966
+node/10097782970,Košice,stop,,48.7223474,21.2693144
+node/10097782971,Košice,stop,,48.7223218,21.2691946
+node/10097782972,Košice,stop,,48.7223027,21.2691054
+node/10097782973,Košice,stop,,48.7223343,21.2692525
+node/10097782974,Košice,stop,,48.7222885,21.2690393
+node/10105978092,Margecany,stop,,48.8948286,21.0123737
+node/10105978093,Margecany,stop,,48.8948662,21.0123988
+node/10105978094,Margecany,stop,,48.8949059,21.0124274
+node/10105978095,Margecany,stop,,48.8949458,21.0124538
+node/10105978096,Margecany,stop,,48.8949851,21.0124828
+node/10105978097,Margecany,stop,,48.8947898,21.0123469
+node/10106514629,Žakarovce,stop,,48.8693472,20.9638914
+node/10106514633,Gelnica,stop,,48.8583632,20.9474239
+node/10106514638,Gelnica mesto,stop,,48.8506037,20.9350957
+node/10106514642,Prakovce zastávka,stop,,48.8166061,20.896024
+node/10106514644,Prakovce,stop,,48.8201992,20.8857577
+node/10106514653,Helcmanovce,stop,,48.827708,20.8653149
+node/10106514654,Mníšek nad Hnilcom,stop,,48.8116719,20.8150978
+node/10106514657,Švedlár,stop,,48.8054916,20.7232469
+node/10106514658,Stará voda,stop,,48.8125076,20.6707114
+node/10106514663,Nálepkovo,stop,,48.8383763,20.6299719
+node/10106514672,Tretí Hámor,stop,,48.8167904,20.5831611
+node/10106514676,Hnilec,stop,,48.8304175,20.5009555
+node/10106514684,Mlynky,stop,,48.8544836,20.4073133
+node/10106514685,Mlynky,stop,,48.8545245,20.4073
+node/10106514692,Dedinky,stop,,48.8555908,20.3819803
+node/10106514696,Stratená,stop,,48.8694912,20.3414824
+node/10106514697,Dobšinská Ľadová Jaskyňa,stop,,48.8762884,20.2965412
+node/10106514705,Telgárt penzión,stop,,48.8517028,20.1994882
+node/10106514707,Červená Skala,stop,,48.8232712,20.1314758
+node/10106514714,Pohorelá,stop,,48.8517802,20.0142945
+node/10106514715,Heľpa,stop,,48.8563453,19.9592214
+node/10106514716,Heľpa,stop,,48.8563028,19.9592442
+node/10106514719,Závadka nad Hronom obec,stop,,48.848192,19.9141103
+node/10106514730,Polomka,stop,,48.8463261,19.8534892
+node/10106514731,Polomka,stop,,48.8462845,19.8534989
+node/10106514743,Brezno mesto,stop,,48.8042473,19.6472789
+node/10106514750,Brezno,stop,,48.8017131,19.6289858
+node/10106514751,Brezno,stop,,48.8016764,19.628955
+node/10106514752,Brezno,stop,,48.8016386,19.6289225
+node/10106514753,Brezno,stop,,48.8015641,19.6288599
+node/10106514754,Valaská,stop,,48.8118094,19.5735838
+node/10106514757,Chvatimech,stop,,48.803667,19.5594187
+node/10106514762,Podbrezová,stop,,48.8101317,19.5229391
+node/10106514763,Podbrezová,stop,,48.8101703,19.5229108
+node/10106514764,Podbrezová,stop,,48.8102044,19.5228715
+node/10106514782,Predajná,stop,,48.8069294,19.4653015
+node/10106514789,Dubová,stop,,48.8137341,19.4394618
+node/10106514792,Nemecká,stop,,48.8107446,19.4166692
+node/10106514800,Brusno kúpele,stop,,48.791864,19.386331
+node/10106514812,Medzibrod,stop,,48.7913532,19.3575908
+node/10106514822,Lučatín,stop,,48.7814937,19.314014
+node/10106514825,Slovenská Ľupča,stop,,48.7629712,19.2765756
+node/10106514829,Slovenská Ľupča-Príboj,stop,,48.746498,19.2371904
+node/10106514832,Šalková,stop,,48.7413285,19.2191179
+node/10106514836,Banská Bystrica,stop,,48.7349919,19.1634227
+node/10106514837,Banská Bystrica,stop,,48.7349069,19.1634559
+node/10106514838,Banská Bystrica,stop,,48.7348652,19.1634712
+node/10106514839,Banská Bystrica,stop,,48.7347853,19.1635037
+node/10106514840,Banská Bystrica,stop,,48.7350736,19.1633843
+node/10107170548,Barca,stop,,48.6792315,21.2764145
+node/10107170549,Barca,stop,,48.6792115,21.2762895
+node/10107170551,Haniska pri Košiciach,stop,,48.6313471,21.2484387
+node/10107170552,Haniska pri Košiciach,stop,,48.6313882,21.2483857
+node/10107170557,Hutníky,stop,,48.6100246,21.2077077
+node/10107170560,Veľká Ida,stop,,48.5912172,21.1719119
+node/10107170561,Cestice,stop,,48.5863628,21.0972111
+node/10107170562,Cestice,stop,,48.5864022,21.0972104
+node/10107170579,Čečejovce,stop,,48.5864697,21.068721
+node/10107170580,Čečejovce,stop,,48.5863795,21.0687166
+node/10107170581,Mokrance,stop,,48.5909233,21.0219522
+node/10107170584,Moldava nad Bodvou mesto,stop,,48.6080583,21.0032072
+node/10109821265,Kokava nad Rimavicou,stop,,48.5668838,19.8416107
+node/10109821268,Kokava nad Rimavicou - Liešnica,stop,,48.5464521,19.8298967
+node/10109821277,Zlatno,stop,,48.5134501,19.8166761
+node/10109821284,České Brezovo,stop,,48.4771369,19.8017275
+node/10109821287,Slaná Lehota,stop,,48.4551271,19.7937237
+node/10109821290,Poltár,stop,,48.4285719,19.7953759
+node/10109821293,Zelené,stop,,48.4292251,19.7696572
+node/10109821296,Breznička,stop,,48.4232602,19.7398374
+node/10109821297,Breznička,stop,,48.4231675,19.7397969
+node/10109821309,Kalinovo,stop,,48.3951277,19.7054366
+node/10109821312,Veľká Ves,stop,,48.3810492,19.6869049
+node/10111519927,Gortva,stop,,48.3010206,20.0259549
+node/10111519928,Gortva,stop,,48.3010597,20.0259756
+node/10111519937,Hodejov,stop,,48.2963542,19.9798266
+node/10111519940,Blhovce,stop,,48.2771268,19.9551113
+node/10111519950,Hajnáčka,stop,,48.2350824,19.9322511
+node/10111519968,Šíd,stop,,48.2670077,19.8776731
+node/10111519972,Prša,stop,,48.2968893,19.7918865
+node/10111519973,Prša,stop,,48.296934,19.7919039
+node/10111519979,Holiša,stop,,48.3042054,19.742095
+node/10113550443,Levice,station,Levi,48.2113457,18.5926485
+node/10113550448,Žiar nad Hronom,stop,,48.5784054,18.8702579
+node/10113550449,Žiar nad Hronom,stop,,48.5784371,18.8702138
+node/10113550450,Žiar nad Hronom,stop,,48.5784684,18.8701724
+node/10113550454,Banská Bystrica mesto,stop,,48.7315112,19.1462895
+node/10113550455,Sliač kúpele,stop,,48.6144422,19.1496964
+node/10113550456,Sliač kúpele,stop,,48.6144513,19.1496396
+node/10113550457,Sliač kúpele,stop,,48.61446,19.1495738
+node/10113550466,Žarnovica,stop,,48.4858342,18.7280111
+node/10113550468,Žarnovica,stop,,48.4858426,18.7279318
+node/10113550469,Žarnovica,stop,,48.4858262,18.7280929
+node/10113550470,Nová Baňa,stop,,48.4137649,18.6485993
+node/10113550472,Kozárovce,stop,,48.3121519,18.5367161
+node/10113550473,Kozárovce,stop,,48.312136,18.5367777
+node/10113550474,Kozárovce,stop,,48.3121086,18.5369034
+node/10113550475,Kozárovce,stop,,48.3121222,18.5368391
+node/10113550476,Podhájska,stop,,48.1028176,18.3447288
+node/10113550478,Podhájska,stop,,48.1027767,18.3447377
+node/10113550482,Šaľa,stop,,48.1469349,17.8621154
+node/10113550483,Šaľa,stop,,48.1470123,17.8621696
+node/10113550484,Šaľa,stop,,48.1470485,17.8622041
+node/10113550485,Šaľa,stop,,48.1470862,17.8622288
+node/10113550486,Šaľa,stop,,48.1469741,17.8621439
+node/10113550491,Levice,stop,,48.2111016,18.5928925
+node/10113550492,Levice,stop,,48.2110545,18.5927102
+node/10113550493,Levice,stop,,48.2110684,18.5927742
+node/10113550494,Levice,stop,,48.2111161,18.5929526
+node/10113550495,Levice,stop,,48.2110844,18.5928324
+node/10113768941,Rimavská Sobota,stop,,48.385232,20.0285744
+node/10113973499,Brezno-Halny,stop,,48.8177255,19.6651173
+node/10113973504,Brezno-Rohozná,stop,,48.7948918,19.7087583
+node/10113973510,Michalová zastávka,stop,,48.7735706,19.7571242
+node/10113973515,Michalová,stop,,48.7654385,19.7774529
+node/10114015120,Pohronská Polhora,stop,,48.7583198,19.7937079
+node/10114015126,Tisovec-Bánovo,stop,,48.7156395,19.8679056
+node/10114015139,Tisovec,stop,,48.6907387,19.9356198
+node/10114015140,Tisovec,stop,,48.6907831,19.935732
+node/10114015141,Tisovec,stop,,48.6907608,19.9356755
+node/10114015142,Tisovec mesto,stop,,48.6801821,19.9472913
+node/10114015144,Tisovec závody,stop,,48.6695565,19.9461171
+node/10114015192,Rimavská Píla,stop,,48.6503028,19.9476376
+node/10114015197,Hačava,stop,,48.6263688,19.9532519
+node/10114015222,Hnúšťa zastávka,stop,,48.6040943,19.9589204
+node/10114015235,Hnúšťa,stop,,48.5771693,19.957827
+node/10114015238,Likier,stop,,48.5613379,19.963099
+node/10114015241,Rimavské Brezovo,stop,,48.5397473,19.964229
+node/10114015246,Rimavská Baňa,stop,,48.50998,19.9446339
+node/10114015249,Rimavské Zalužany,stop,,48.4999132,19.9403721
+node/10114015256,Kociha,stop,,48.4852708,19.951829
+node/10114015259,Hrachovo,stop,,48.464699,19.9602608
+node/10114015273,Čerenčany,stop,,48.4125472,19.9896545
+node/10114015276,Rimavské Janovce,stop,,48.352607,20.0559475
+node/10114015280,Rimavské Janovce obec,stop,,48.3371891,20.0568608
+node/10114015283,Jesenské zastávka,stop,,48.3051247,20.0770037
+node/10116270992,Zvolen nákladná stanica,stop,,48.5727546,19.1440219
+node/10116270993,Zvolen nákladná stanica,stop,,48.572799,19.1440268
+node/10116271003,Zvolenská Slatina,stop,,48.5588635,19.2607249
+node/10116271015,Vígľaš,stop,,48.5541733,19.2828473
+node/10116271016,Vígľaš,stop,,48.5541275,19.2828426
+node/10116281619,Stožok,stop,,48.5381785,19.3584071
+node/10116281620,Podkriváň,stop,,48.5165401,19.4669073
+node/10116281621,Podkriváň,stop,,48.516531,19.4668504
+node/10116281629,Píla,stop,,48.4824743,19.5149551
+node/10116281630,Píla,stop,,48.4824752,19.5148929
+node/10116281646,Mýtna,stop,,48.4655509,19.5485608
+node/10116281647,Mýtna,stop,,48.4655884,19.5485853
+node/10116281673,Lovinobaňa zastávka,stop,,48.4340831,19.5853972
+node/10116281682,Tomášovce,stop,,48.3693229,19.6268003
+node/10117363222,Vlkanová,stop,,48.6689848,19.1495758
+node/10117363227,Hronsek,stop,,48.6481229,19.1591614
+node/10117363237,Veľká Lúka,stop,,48.6310943,19.1543437
+node/10117448992,Valkovňa,stop,,48.8340432,20.0665068
+node/10117448995,Nová Maša,stop,,48.8363167,20.0517489
+node/10117449001,Pohorelská Maša,stop,,48.8486074,20.0286312
+node/10117449004,Bacúch,stop,,48.8441142,19.8184739
+node/10117449007,Gašparovo,stop,,48.8269387,19.7457611
+node/10117449016,Bujakovo zastávka,stop,,48.8204778,19.688071
+node/10118302462,Vrútky,stop,,49.1149687,18.9244881
+node/10118302463,Vrútky,stop,,49.1150409,18.9245551
+node/10118302464,Vrútky,stop,,49.1151143,18.9246232
+node/10118302471,Martin,stop,,49.0649964,18.9154404
+node/10118302472,Martin,stop,,49.0649886,18.9155047
+node/10118302473,Turčianske Teplice,stop,,48.8627844,18.8537739
+node/10118302474,Turčianske Teplice,stop,,48.8627912,18.853842
+node/10128517256,Horná Štubňa,stop,,48.7927765,18.8816532
+node/10128517257,Turček,stop,,48.7592554,18.9176978
+node/10128517260,Kremnické Bane,stop,,48.7428716,18.9027769
+node/10128517263,Kremnica,stop,,48.6974263,18.9241015
+node/10128517299,Bartošova Lehôtka,stop,,48.6373085,18.9118948
+node/10128517300,Trnavá Hora,stop,,48.5916685,18.9490583
+node/10128517306,Hronská Dúbrava,stop,,48.5763214,18.9898479
+node/10132815263,Prievidza,stop,,48.7749639,18.6169438
+node/10132815264,Prievidza,stop,,48.7749434,18.6169983
+node/10132815265,Prievidza,stop,,48.7749866,18.6168886
+node/10132815266,Chrenovec,stop,,48.7782044,18.7121654
+node/10132815273,Ráztočno,stop,,48.7680775,18.7624701
+node/10132815276,Handlová,stop,,48.7255432,18.7542223
+node/10132815277,Handlová,stop,,48.7255444,18.7541583
+node/10132815278,Handlová,stop,,48.7255412,18.754288
+node/10132815285,Sklené pri Handlovej,stop,,48.7828022,18.8422464
+node/10132815286,Sklené pri Handlovej,stop,,48.7827596,18.8422436
+node/10132815287,Horná Štubňa zastávka,stop,,48.8225916,18.8697817
+node/10132815288,Horná Štubňa zastávka,stop,,48.8226209,18.8698217
+node/10132815297,Vrútky,stop,,49.1145466,18.9254557
+node/10132815298,Košťany nad Turcom,stop,,49.02863,18.9058754
+node/10132815303,Príbovce-Rakovo,stop,,48.9937356,18.8795906
+node/10132815308,Príbovce-Rakovo,stop,,48.9937085,18.8796452
+node/10132815309,Kláštor pod Znievom,stop,,48.9564584,18.8527392
+node/10132815310,Kláštor pod Znievom,stop,,48.956475,18.8526837
+node/10132815311,Jezernica,stop,,48.9280713,18.8344476
+node/10132815312,Jezernica,stop,,48.9280793,18.8345005
+node/10132828717,Malý Čepčín,stop,,48.9046737,18.8434043
+node/10132828722,Diviaky,stop,,48.8761194,18.8505576
+node/10132828723,Diviaky,stop,,48.8761159,18.8504952
+node/10132828730,Horná Štubňa obec,stop,,48.8311176,18.8776738
+node/10132828731,Priekopa,stop,,49.0971746,18.9340729
+node/10132828736,Priekopa,stop,,49.0971614,18.9341274
+node/10159276829,Topoľčany,stop,,48.5625736,18.1695373
+node/10159276830,Topoľčany,stop,,48.5625494,18.1695902
+node/10159276831,Topoľčany,stop,,48.5625268,18.1696456
+node/10169915532,Veľký Slavkov,stop,,49.091279,20.2773989
+node/10169915546,Starý Smokovec,stop,,49.1390456,20.222765
+node/10169915547,Starý Smokovec,stop,,49.1391378,20.2227129
+node/10169915553,Tatranská Polianka,stop,,49.1226763,20.1860905
+node/10170024880,Oravský Podzámok,stop,,49.2610704,19.3638287
+node/10170024883,Trstená,stop,,49.3609527,19.6193427
+node/10170024892,Krásna Hôrka,stop,,49.3213151,19.5446522
+node/10170024896,Podbiel,stop,,49.3039315,19.4784691
+node/10170024897,Podbiel,stop,,49.3039285,19.4784047
+node/10170024903,Krivá,stop,,49.2881188,19.475547
+node/10170024906,Dlhá nad Oravou,stop,,49.264666,19.4468742
+node/10170024907,Dlhá nad Oravou,stop,,49.2646246,19.4468917
+node/10170024912,Sedliacka Dubová,stop,,49.2584105,19.4317003
+node/10170024915,Horná Lehota,stop,,49.2516795,19.399507
+node/10170121819,Oravský Podzámok zastávka,stop,,49.2626374,19.3778142
+node/10170121824,Oravský Podzámok,stop,,49.261082,19.3637688
+node/10170121830,Medzibrodie nad Oravou,stop,,49.2339776,19.345799
+node/10170121831,Medzibrodie nad Oravou,stop,,49.2339587,19.3457405
+node/10170121845,Bziny,stop,,49.2294272,19.3201702
+node/10170121869,Dolný Kubín,stop,,49.2168587,19.2968564
+node/10170121878,Veličná,stop,,49.2019278,19.2506452
+node/10170121906,Párnica,stop,,49.1930357,19.1970299
+node/10170121907,Párnica,stop,,49.1930085,19.197076
+node/10170121917,Kraľovany,stop,,49.1532161,19.1301906
+node/10170121918,Kraľovany,stop,,49.1529988,19.1301846
+node/10171078871,Stará Ľubovňa,stop,,49.3083456,20.6803065
+node/10171078872,Stará Ľubovňa,stop,,49.3082924,20.680327
+node/10171078873,Stará Ľubovňa,stop,,49.3082407,20.6803418
+node/10171078880,Forbasy,stop,,49.2957101,20.6209057
+node/10171078906,Nižné Ružbachy,stop,,49.2763238,20.5787088
+node/10171078912,Podolínec,stop,,49.2552319,20.5265058
+node/10171078913,Podolínec,stop,,49.2552495,20.5264492
+node/10171078914,Podolínec,station,Podc,49.255148,20.5264365
+node/10171101519,Toporec,stop,,49.2460445,20.5087516
+node/10171101522,Podhorany pri Kežmarku,stop,,49.2313694,20.4912399
+node/10171101526,Bušovce,stop,,49.2186001,20.4935026
+node/10171101554,Spišská Belá zastávka,stop,,49.1842707,20.47159
+node/10171101555,Spišská Belá zastávka,stop,,49.1842665,20.4716529
+node/10171101564,Strážky zastávka,stop,,49.171699,20.4600617
+node/10171101565,Kežmarok-Pradiareň,stop,,49.1628518,20.447472
+node/10171101568,Kežmarok zastávka,stop,,49.1501693,20.4298199
+node/10171101571,Kežmarok,stop,,49.139498,20.4234951
+node/10171101572,Kežmarok,stop,,49.1394648,20.4235359
+node/10171101577,Huncovce,stop,,49.1212293,20.3749025
+node/10171101580,Studený Potok,stop,,49.1090547,20.3549571
+node/10171101581,Matejovce pri Poprade,stop,,49.0814854,20.3339718
+node/10171101582,Matejovce pri Poprade,stop,,49.0814756,20.3340321
+node/10171301307,Čierna nad Tisou,stop,,48.4196589,22.0872188
+node/10171301308,Čierna nad Tisou,stop,,48.4197506,22.0871662
+node/10171786028,Kysak,stop,,48.852878,21.2237861
+node/10171786029,Kysak,stop,,48.8529158,21.2243489
+node/10171786030,Kysak,stop,,48.8528873,21.2239444
+node/10171786031,Kysak,stop,,48.8529107,21.224284
+node/10171786032,Kysak,stop,,48.852907,21.2242183
+node/10171786033,Kysak,stop,,48.8529025,21.2241522
+node/10171786034,Kysak,stop,,48.8528929,21.2240087
+node/10171786035,Prešov,stop,,48.9833839,21.2487947
+node/10171786036,Prešov,stop,,48.9833991,21.2489243
+node/10171786037,Prešov,stop,,48.9834275,21.2491136
+node/10171786038,Prešov,stop,,48.9834286,21.2491795
+node/10171786039,Prešov,stop,,48.9834042,21.2489865
+node/10171786041,Veľký Šariš,stop,,49.0446647,21.2030374
+node/10171786046,Šarišské Michaľany,stop,,49.0652916,21.1398166
+node/10171786047,Orkucany,stop,,49.0874189,21.1095215
+node/10171786050,Sabinov,stop,,49.1032356,21.0886202
+node/10171786051,Sabinov,stop,,49.1032729,21.0886543
+node/10171786052,Sabinov,stop,,49.1033093,21.0886875
+node/10171786065,Červenica,stop,,49.1327577,21.0244519
+node/10171786071,Rožkovany,stop,,49.1431416,20.9935621
+node/10171786072,Lipany,stop,,49.1520037,20.9602743
+node/10171786073,Lipany,stop,,49.1519657,20.9602461
+node/10171786074,Lipany,stop,,49.1519271,20.9602113
+node/10173409256,Modra nad Cirochou,stop,,48.9481713,22.0353398
+node/10173409257,Stakčín,stop,,48.9960934,22.2178521
+node/10173409258,Stakčín,stop,,48.9960681,22.2178994
+node/10173409259,Stakčín,stop,,48.9960416,22.2179506
+node/10173409264,Snina,stop,,48.9837769,22.1732796
+node/10173409272,Snina mesto,stop,,48.9898591,22.1566761
+node/10173409273,Snina predmestie,stop,,48.9907254,22.1357482
+node/10173409274,Belá nad Cirochou,stop,,48.9780637,22.1030584
+node/10173409289,Dlhé nad Cirochou,stop,,48.9549185,22.0552371
+node/10173409298,Kamenica nad Cirochou,stop,,48.9339623,21.9907568
+node/10173409312,Hažín nad Cirochou,stop,,48.9321829,21.9581162
+node/10173409313,Humenné mesto,stop,,48.9334708,21.9120901
+node/10173428435,Humenné,stop,,48.9301374,21.901208
+node/10173529253,Medzilaborce mesto,stop,,49.2739928,21.9009298
+node/10173529256,Medzilaborce,stop,,49.2615104,21.9053061
+node/10173529257,Medzilaborce,stop,,49.2614965,21.9052444
+node/10173529262,Krásny Brod,stop,,49.2419823,21.9040938
+node/10173529280,Monastyr,stop,,49.2279683,21.8945215
+node/10173529292,Vyšné Čabiny,stop,,49.1876685,21.8971236
+node/10173529295,Nižné Čabiny,stop,,49.1732224,21.900595
+node/10173529299,Volica,stop,,49.1548258,21.912909
+node/10173535829,Radvaň nad Laborcom,stop,,49.1347968,21.9219683
+node/10173535830,Radvaň nad Laborcom,stop,,49.1347873,21.9219049
+node/10173535845,Hrabovec nad Laborcom,stop,,49.096182,21.9418046
+node/10173535903,Koškovce,stop,,49.0513926,21.9547104
+node/10173535910,Koškovce,stop,,49.0514093,21.9546485
+node/10173535915,Hankovce,stop,,49.0263713,21.947906
+node/10173535920,Ľubiša,stop,,49.0029314,21.9439392
+node/10173535924,Udavské,stop,,48.9656285,21.9471039
+node/10173535932,Kochanovce,stop,,48.9539556,21.9454339
+node/10174248340,Bardejov,stop,,49.296549,21.2829927
+node/10174248343,Kľušov,stop,,49.2613428,21.2507153
+node/10174248346,Šiba,stop,,49.2332497,21.24243
+node/10174248356,Hertník,stop,,49.2159911,21.2665572
+node/10174248370,Bartošovce,stop,,49.1972396,21.2779546
+node/10174248393,Vaniškovce,stop,,49.1650937,21.2901411
+node/10174248399,Raslavice,stop,,49.1493501,21.3143885
+node/10174248406,Demjata obec,stop,,49.1075539,21.3125527
+node/10174248412,Fulianka,stop,,49.0673607,21.3340711
+node/10174248413,Kapušany pri Prešove,stop,,49.0438773,21.3206048
+node/10174248414,Kapušany pri Prešove,stop,,49.0438344,21.3206202
+node/10174249833,Šarišské Lúky,stop,,49.016212,21.2671512
+node/10174249834,Šarišské Lúky,stop,,49.0162172,21.2670869
+node/10174249835,Šarišské Lúky,stop,,49.0162068,21.2672164
+node/10174389851,Brekov,stop,,48.9031721,21.841456
+node/10174389854,Strážske,stop,,48.8675394,21.8248713
+node/10174389861,Nižný Hrabovec,stop,,48.8570603,21.751949
+node/10174389866,Hencovce,stop,,48.8571142,21.7245454
+node/10174389878,Vranovské Dlhé,stop,,48.8695324,21.7050978
+node/10174389889,Vranov nad Topľou,stop,,48.890039,21.6740638
+node/10174389890,Vranov nad Topľou,stop,,48.8900099,21.6740179
+node/10174389895,Komárany,stop,,48.9131539,21.6385182
+node/10174389899,Soľ,stop,,48.932008,21.6004339
+node/10174389902,Hlinné,stop,,48.9528036,21.5842064
+node/10174389903,Čierne nad Topľou,stop,,48.9898669,21.5693834
+node/10174391722,Bystré,stop,,49.003511,21.5418345
+node/10174391725,Hanušovce nad Topľou,stop,,49.018816,21.5198848
+node/10174391730,Hanušovce nad Topľou mesto,stop,,49.0240548,21.5047912
+node/10174391734,Pavlovce,stop,,49.033501,21.459624
+node/10174391759,Lipníky,stop,,49.0490353,21.405504
+node/10174391764,Lada,stop,,49.0473135,21.3590947
+node/10186113484,Čata,stop,,47.9562362,18.6486705
+node/10186113485,Čata,stop,,47.9562457,18.6486116
+node/10186113486,Zalaba,stop,,47.9674467,18.7003966
+node/10186113500,Pastovce,stop,,47.9720209,18.7494468
+node/10186113503,Bielovce,stop,,47.9962438,18.7745122
+node/10186113510,Ipeľský Sokolec,stop,,48.0237291,18.8025146
+node/10186113513,Vyškovce nad Ipľom,stop,,48.0547235,18.8572102
+node/10186137822,Hrkovce,stop,,48.0872832,18.9090004
+node/10186137825,Tupá,stop,,48.1091615,18.8948033
+node/10186137832,Slatina,stop,,48.1465002,18.8902603
+node/10186137835,Dudince,stop,,48.1668811,18.8889074
+node/10186137839,Terany,stop,,48.1783997,18.9013678
+node/10186137869,Hontianske Tesáre,stop,,48.2084133,18.9331455
+node/10186137874,Domaníky,stop,,48.26341,18.9921745
+node/10186137885,Hontianske Nemce,stop,,48.2800569,18.9930229
+node/10186137888,Bzovík,stop,,48.3257509,19.0593788
+node/10186137910,Krupina,stop,,48.3465048,19.0686829
+node/10186137913,Krupina predmestie,stop,,48.3604453,19.0670724
+node/10186137920,Bzovská Lehôtka,stop,,48.4206126,19.1291092
+node/10186137928,Sása-Pliešovce,stop,,48.4276199,19.1368714
+node/10186137933,Dobrá Niva,stop,,48.480705,19.1019875
+node/10186163185,Devínske Jazero,halt,DeJa,48.2504885,16.9610386
+node/10186163186,Mlynárce,halt,Mlnr,48.3251963,18.0398318
+node/10186163187,Úľany nad Žitavou,station,5.594,48.09785,18.2330091
+node/10186163188,Ružomberok-Rybárpole,halt,vlRp,49.0860594,19.281431
+node/10210325515,Štúrovo,stop,,47.8000792,18.6796834
+node/10210325516,Štúrovo,stop,,47.8002678,18.6795379
+node/10210331018,Štúrovo,stop,,47.8001956,18.6795918
+node/10210331023,Kamenný Most nad Hronom,stop,,47.8485085,18.6551275
+node/10210331026,Kamenín,stop,,47.8885645,18.6422845
+node/10210331029,Bíňa,stop,,47.9200402,18.6350417
+node/10210331032,Pohronský Ruskov,stop,,47.9753259,18.6484975
+node/10210331037,Hronovce,stop,,48.0061298,18.6500816
+node/10210331040,Želiezovce,stop,,48.0442505,18.6456977
+node/10210331051,Tekovské Lužany,stop,,48.1002488,18.5634767
+node/10210331054,Tekovský Hrádok,stop,,48.1586499,18.5549517
+node/10210331055,Dolná Seč,stop,,48.1729253,18.5689855
+node/10210551999,Zlaté Moravce,stop,,48.3860098,18.3765064
+node/10210552000,Zlaté Moravce,stop,,48.3859963,18.3765687
+node/10210552002,Zlaté Moravce,stop,,48.3859819,18.3766277
+node/10210552003,Zlaté Moravce,stop,,48.3860246,18.3764485
+node/10210552012,Tesárske Mlyňany,stop,,48.3431856,18.3594778
+node/10210552015,Slepčany,stop,,48.3160661,18.3413786
+node/10210597018,Nová Ves nad Žitavou,stop,,48.2923885,18.3210287
+node/10210597027,Vráble,stop,,48.2545655,18.3006416
+node/10210597028,Vráble,stop,,48.2545646,18.3007042
+node/10210597033,Dyčka,stop,,48.2347502,18.2871157
+node/10210597038,Lúčnica nad Žitavou,stop,,48.2173809,18.2833316
+node/10210597048,Martinová,stop,,48.1987122,18.2799983
+node/10210597053,Michal nad Žitavou,stop,,48.1843996,18.2818088
+node/10210597063,Kmeťovo,stop,,48.1681982,18.2766366
+node/10210597064,Maňa,stop,,48.1558687,18.2706585
+node/10210597069,Maňa zastávka,halt,Manz,48.1464991,18.2641677
+node/10210597071,Malá Maňa,stop,,48.1364369,18.2581703
+node/10210597073,Úľany nad Žitavou,stop,,48.0979004,18.2330089
+node/10210597074,Úľany nad Žitavou,stop,,48.0978327,18.2330882
+node/10210597081,Šurany zastávka,stop,,48.0910112,18.1961676
+node/10210597083,Šurany,stop,,48.0850383,18.1727832
+node/10210597084,Šurany,stop,,48.0850413,18.1728468
+node/10210597087,Šurany,stop,,48.0850335,18.1726534
+node/10210597090,Šurany,station,Sura,48.0852317,18.1727272
+node/10211899342,Nový Krám,halt,,48.7618752,19.6276103
+node/10211899344,Šánske,stop,,48.7687235,19.6167098
+node/10211975367,Jalná,stop,,48.5872745,18.9557457
+node/10211975376,Šášovské Podhradie,stop,,48.5884743,18.907225
+node/10211975382,Žiar nad Hronom zastávka,stop,,48.5688608,18.8515698
+node/10211975387,Hliník nad Hronom,stop,,48.5396375,18.7706398
+node/10211975388,Hliník nad Hronom,stop,,48.5395948,18.7706697
+node/10211975389,Hliník nad Hronom,stop,,48.5395567,18.7706978
+node/10211975413,Bzenica,stop,,48.5294899,18.7384155
+node/10211975416,Dolné Hámre,stop,,48.4748383,18.7186276
+node/10211981519,Voznica,stop,,48.4601149,18.6915816
+node/10211981523,Rudno nad Hronom,stop,,48.4350943,18.6816875
+node/10211981527,Nová Baňa,stop,,48.4137915,18.648554
+node/10211981528,Nová Baňa,stop,,48.4137358,18.6486495
+node/10211981534,Tekovská Breznica,stop,,48.3825101,18.6045197
+node/10211981536,Hronský Beňadik,stop,,48.3443898,18.5616865
+node/10211981537,Hronský Beňadik,stop,,48.3444203,18.5616027
+node/10211981542,Psiare,stop,,48.3292988,18.5515424
+node/10211981558,Tlmače,stop,,48.289912,18.5411172
+node/10211981564,Veľké Kozmálovce,stop,,48.2805553,18.5490949
+node/10211981569,Veľké Kozmálovce,stop,,48.2805748,18.5491491
+node/10211981570,Hronské Kľačany,stop,,48.2468954,18.582206
+node/10212731051,Trenčín,stop,,48.8965255,18.0517535
+node/10212731053,Brezno,station,Brez,48.8015539,19.6288877
+node/10212731056,Nitra,stop,,48.3014768,18.0792734
+node/10212731057,Leopoldov,stop,,48.4416493,17.7589282
+node/10212731058,Žilina,stop,,49.2271775,18.7468722
+node/10212731059,Leopoldov,stop,,48.4416537,17.7588599
+node/10212731060,Leopoldov,stop,,48.4416643,17.7587259
+node/10212731061,Trebišov,stop,,48.6326864,21.7110126
+node/10214421241,Krušovce,stop,,48.5827533,18.2018447
+node/10214421242,Bošany,stop,,48.5930506,18.2422002
+node/10214421243,Bošany,stop,,48.5930837,18.2421662
+node/10214421244,Bošany,station,Bosa,48.5929733,18.2419221
+node/10214421245,Bošany,stop,,48.5931187,18.2421315
+node/10214421252,Chynorany,stop,,48.6080429,18.2753518
+node/10214421257,Žabokreky nad Nitrou,stop,,48.6174885,18.2995483
+node/10214421260,Veľké Bielice,stop,,48.6246811,18.3495614
+node/10214421264,Partizánske zastávka,stop,,48.6270487,18.3937777
+node/10214421269,Oslany,stop,,48.641414,18.4643874
+node/10214421272,Bystričany,stop,,48.6589332,18.4895546
+node/10214421273,Bystričany,stop,,48.6589498,18.4894911
+node/10214421278,Zemianske Kostoľany,stop,,48.6844865,18.51927
+node/10214421283,Nováky,stop,,48.7182179,18.5363547
+node/10214421284,Nováky,stop,,48.718239,18.536301
+node/10214421291,Koš,stop,,48.7487474,18.5741838
+node/10214421292,Topoľčany,stop,,48.5625977,18.1694857
+node/10214912059,Kozelník,stop,,48.5156728,19.0048323
+node/10214912064,Banská Belá,stop,,48.473298,18.9478251
+node/10214912066,Banský Studenec,stop,,48.4550211,18.9369485
+node/10214912075,Banská Štiavnica,stop,,48.4440126,18.9155011
+node/10236273154,Trenčianska Teplá,stop,,48.9401312,18.1161281
+node/10236273156,Trenčianska Teplá,stop,,48.9377112,18.113369
+node/10236273157,Trenčianska Teplá,stop,,48.9376639,18.1134772
+node/10236273158,Trenčianska Teplá,stop,,48.9375919,18.1136396
+node/10236273160,Nemšová,stop,,48.9677008,18.1218439
+node/10236273161,Nemšová,stop,,48.967736,18.1218862
+node/10236273166,Horné Srnie,stop,,48.9974716,18.0994366
+node/10236273173,Horné Srnie,stop,,48.9975035,18.0994751
+node/10236273174,Horné Srnie,stop,,48.997438,18.0993959
+node/10238973386,Ostratice,stop,,48.6477814,18.272115
+node/10238973388,Rybany,stop,,48.6691622,18.2616347
+node/10238973389,Rybany,stop,,48.6691739,18.2617009
+node/10238973390,Rybany,stop,,48.6691857,18.261767
+node/10238973397,Dolné Naštice,stop,,48.6904475,18.24871
+node/10238973400,Bánovce nad Bebravou,stop,,48.7201937,18.251269
+node/10238973401,Bánovce nad Bebravou,stop,,48.720206,18.2513357
+node/10238973408,Horné Ozorovce,stop,,48.7371662,18.2326062
+node/10239040114,Svinná,stop,,48.7809951,18.1723331
+node/10239040115,Svinná,stop,,48.7810301,18.1723725
+node/10239040152,Trenčianske Jastrabie,stop,,48.800943,18.1190426
+node/10239040155,Mníchova Lehota,stop,,48.8130748,18.0875566
+node/10239040156,Mníchova Lehota,stop,,48.8130503,18.0875031
+node/10239040160,Soblahov,stop,,48.852943,18.0622414
+node/10239040215,Trenčianska Turná,stop,,48.8588409,18.019488
+node/10239040226,Trenčín predmestie,stop,,48.8877942,18.028283
+node/10239040228,Trenčín,stop,,48.8967375,18.0517967
+node/10239040229,Trenčín,stop,,48.8964832,18.051744
+node/10239040230,Trenčín,stop,,48.8968219,18.0518119
+node/10240319660,Spišská Nová Ves,stop,,48.9502864,20.5614647
+node/10240319667,Spišská Nová Ves,stop,,48.9503267,20.5614723
+node/10240446097,Malá Lodina,stop,,48.8738205,21.1342229
+node/10240446098,Malá Lodina,stop,,48.8738564,21.1342547
+node/10240446105,Veľká Lodina,stop,,48.8562175,21.1556675
+node/10240446112,Kostoľany nad Hornádom,stop,,48.7958175,21.2460394
+node/10240446113,Kostoľany nad Hornádom,stop,,48.795852,21.24618
+node/10240446117,Ťahanovce,stop,,48.7558936,21.2533019
+node/10240564729,Spišský Štiavnik,stop,,49.0070592,20.3776445
+node/10240564743,Vydrník,stop,,48.9946468,20.408176
+node/10240564744,Vydrník,stop,,48.9946061,20.4081536
+node/10240564745,Vydrník,stop,,48.9945672,20.4081238
+node/10240564784,Spišské Tomášovce,stop,,48.9645423,20.4746866
+node/10240564785,Spišské Tomášovce,stop,,48.9645059,20.4746613
+node/10240564786,Smižany,stop,,48.9532536,20.5226997
+node/10240564787,Smižany,stop,,48.953295,20.5226986
+node/10240564802,Markušovce,stop,,48.9104774,20.6339046
+node/10240564803,Markušovce,stop,,48.9104422,20.6338697
+node/10240565910,Matejovce nad Hornádom,stop,,48.9170535,20.6689029
+node/10240565911,Chrasť nad Hornádom,stop,,48.925628,20.7004161
+node/10240565912,Chrasť nad Hornádom,stop,,48.9256633,20.7003987
+node/10240565920,Olcnava,stop,,48.9262916,20.7484646
+node/10240565921,Olcnava,stop,,48.9262659,20.7485134
+node/10240565930,Spišské Vlachy,stop,,48.935602,20.8038414
+node/10240565931,Spišské Vlachy,stop,,48.9355682,20.8038848
+node/10240565932,Spišské Vlachy,stop,,48.9355348,20.8039278
+node/10240565949,Krompachy,stop,,48.921805,20.8864341
+node/10240565950,Krompachy,stop,,48.9215962,20.8865039
+node/10240565951,Krompachy,stop,,48.9216383,20.886493
+node/10240565952,Krompachy,stop,,48.9216803,20.8864782
+node/10240565953,Richnava,stop,,48.9227389,20.9250552
+node/10240565972,Kluknava,stop,,48.9139661,20.947653
+node/10240639520,Svit,stop,,49.0608358,20.1980157
+node/10240639521,Svit,stop,,49.0610878,20.1992319
+node/10240762180,Stankovany,stop,,49.1439656,19.1728981
+node/10240762181,Stankovany,stop,,49.1439666,19.1729584
+node/10240762197,Ľubochňa,stop,,49.1269118,19.1721609
+node/10240762198,Ľubochňa,stop,,49.1269109,19.1722242
+node/10240762199,Ľubochňa,stop,,49.1269152,19.1720972
+node/10240762200,Švošov,stop,,49.1226441,19.1946677
+node/10240762201,Švošov,stop,,49.1226045,19.1946676
+node/10240762206,Hrboltová,stop,,49.1000796,19.2474527
+node/10240762207,Hrboltová,stop,,49.1001189,19.2474749
+node/10240787316,Ružomberok-Rybárpole,stop,,49.0862453,19.2809452
+node/10240787319,Ružomberok-Rybárpole,stop,,49.0862075,19.2809161
+node/10240787323,Ružomberok,stop,,49.0835475,19.3090167
+node/10240787324,Ružomberok,stop,,49.0835758,19.3090614
+node/10240787328,Lisková zastávka,stop,,49.0870221,19.3522659
+node/10240787335,Liptovská Teplá,stop,,49.099695,19.4167132
+node/10240787336,Liptovská Teplá,stop,,49.0997793,19.4166791
+node/10240787337,Liptovská Teplá,stop,,49.0997369,19.4166971
+node/10240787340,Liptovské Vlachy,stop,,49.0877654,19.4734869
+node/10240787344,Liptovský Mikuláš,stop,,49.0920245,19.6057703
+node/10240787345,Okoličné,stop,,49.0771235,19.6496625
+node/10240787351,Podtureň,stop,,49.0593415,19.6951258
+node/10240787352,Podtureň,stop,,49.058542,19.6958679
+node/10240787355,Liptovský Hrádok,stop,,49.0379595,19.721279
+node/10240787368,Kráľova Lehota,stop,,49.0255584,19.7864992
+node/10240787369,Kráľova Lehota,stop,,49.0255856,19.786552
+node/10240787370,Kráľova Lehota,stop,,49.0256108,19.786602
+node/10240787377,Východná,stop,,49.0503656,19.9164664
+node/10240787378,Východná,stop,,49.0503296,19.9165016
+node/10240787379,Východná,stop,,49.0502929,19.9165382
+node/10240787380,Východná,stop,,49.0502582,19.9165747
+node/10240787390,Važec,stop,,49.0667898,19.9877552
+node/10240787391,Važec,stop,,49.0667691,19.9878088
+node/10240842890,Vrútky nákladná stanica,stop,,49.1089699,18.9465345
+node/10240842891,Vrútky nákladná stanica,stop,,49.1090112,18.9465457
+node/10240842901,Sučany,stop,,49.1037788,18.9880594
+node/10240842902,Sučany,stop,,49.1038192,18.9880763
+node/10240842908,Turany,stop,,49.109761,19.0382112
+node/10240850709,Turany,stop,,49.1098385,19.0381473
+node/10240850710,Turany,stop,,49.1098004,19.0381788
+node/10240850711,Turany,stop,,49.1097234,19.0382423
+node/10240850713,Krpeľany,stop,,49.1262816,19.0835109
+node/10240850724,Šútovo-Ratkovo,stop,,49.1430982,19.090929
+node/10241009180,Žilina,stop,,49.2271915,18.7452077
+node/10241009181,Žilina,stop,,49.2271515,18.7451842
+node/10241009183,Žilina,stop,,49.2271684,18.7444663
+node/10241723288,Fiľakovo zastávka,halt,Filz,48.2736476,19.8276593
+node/10242489173,Čerhov,stop,,48.4607301,21.6446813
+node/10242489174,Čerhov,stop,,48.460709,21.6446262
+node/10242489179,Michaľany,stop,,48.5221735,21.6258633
+node/10242489180,Michaľany,stop,,48.5221917,21.6259211
+node/10242489181,Michaľany,stop,,48.5218663,21.6262612
+node/10242489182,Michaľany,stop,,48.5226194,21.6254347
+node/10242489203,Kalša,stop,,48.6160877,21.5332989
+node/10242490916,Ruskov,stop,,48.6727566,21.4284277
+node/10242490919,Bohdanovce,stop,,48.6516183,21.4011301
+node/10242490920,Bohdanovce,stop,,48.6515842,21.4011622
+node/10242490929,Vyšná Myšľa,stop,,48.6370963,21.3823094
+node/10242490939,Nižná Myšľa,stop,,48.6292536,21.3717525
+node/10242490940,Nižná Myšľa,stop,,48.6292665,21.3718166
+node/10242490947,Krásna nad Hornádom,stop,,48.6700064,21.2958353
+node/10242490948,Krásna nad Hornádom,stop,,48.6700707,21.2959273
+node/10242490949,Krásna nad Hornádom,stop,,48.6700386,21.2958804
+node/10242550888,Čierna nad Tisou zastávka,stop,,48.4164855,22.0706752
+node/10242565710,Biel,stop,,48.4135701,22.0561189
+node/10242565711,Biel,stop,,48.4135297,22.0561424
+node/10242565713,Dobrá,stop,,48.4068876,22.0239748
+node/10242565714,Pribeník,stop,,48.399452,21.9992504
+node/10242565715,Pribeník,stop,,48.399413,21.9992783
+node/10242565723,Veľký Horeš,stop,,48.3903174,21.913798
+node/10242565724,Veľký Horeš,stop,,48.390356,21.9138099
+node/10242565737,Somotor,stop,,48.3896028,21.8087906
+node/10242565738,Streda nad Bodrogom,stop,,48.3904011,21.7577156
+node/10242565739,Streda nad Bodrogom,stop,,48.3903155,21.7577075
+node/10242565740,Streda nad Bodrogom,stop,,48.3903582,21.7577122
+node/10242565747,Borša,stop,,48.3939575,21.7073333
+node/10242565748,Borša,stop,,48.3939208,21.7073429
+node/10247657589,Haniska pri Prešove,stop,,48.9568368,21.2409067
+node/10247657594,Drienovská Nová Ves,stop,,48.9114544,21.2453111
+node/10247657595,Drienovská Nová Ves,stop,,48.9114494,21.245246
+node/10247657602,Drienovská Nová Ves obec,stop,,48.9006554,21.2456308
+node/10247657604,Ličartovce,stop,,48.8750311,21.2409591
+node/10247657605,Ličartovce,stop,,48.8742636,21.2409748
+node/10248390489,Pusté Čemerné,stop,,48.8431763,21.8274144
+node/10248390502,Nacina Ves,stop,,48.8173062,21.8441296
+node/10248390507,Petrovce nad Laborcom,stop,,48.797673,21.860209
+node/10248405211,Michalovce zastávka,stop,,48.7298388,21.8870449
+node/10248405215,Michalovce,stop,,48.7507883,21.8987036
+node/10248405216,Michalovce,stop,,48.7507661,21.8986413
+node/10248405238,Laškovce,stop,,48.6978401,21.8533967
+node/10248405249,Bánovce nad Ondavou,stop,,48.6791239,21.8346101
+node/10248405258,Hrinište,stop,,48.6522102,21.7755155
+node/10248405264,Čeľovce,stop,,48.6132785,21.6286903
+node/10248405267,Trebišov,stop,,48.6325495,21.7110565
+node/10248405285,Úpor,stop,,48.5771521,21.6717103
+node/10248405286,Úpor,stop,,48.57716,21.671646
+node/10267775237,Komárom,stop,,47.7496544,18.113889
+node/10269670187,Kalná nad Hronom,stop,,48.2040063,18.5171154
+node/10269670188,Kalná nad Hronom,stop,,48.2040591,18.5171322
+node/10269670194,Lok,stop,,48.1853268,18.4728422
+node/10269670200,Horný Pial,stop,,48.1596725,18.4494442
+node/10269710915,Jesenské údolie,stop,,48.1607887,18.4181849
+node/10269710923,Beša,stop,,48.1384067,18.4021656
+node/10269710924,Beša,stop,,48.1384274,18.4021076
+node/10269710931,Pozba,stop,,48.1154671,18.3881235
+node/10269710939,Radava,stop,,48.0981197,18.3056801
+node/10269710946,Hul,stop,,48.0985311,18.2666179
+node/10269710947,Hul,stop,,48.0985599,18.2665656
+node/10269710963,Bánov,stop,,48.0455412,18.1674438
+node/10269710966,Nové Zámky,stop,,47.9948711,18.1742247
+node/10269710967,Nové Zámky,stop,,47.994905,18.1742682
+node/10269710968,Nové Zámky,stop,,47.9951792,18.1746134
+node/10269710969,Nové Zámky,stop,,47.9951105,18.1745229
+node/10269710970,Nové Zámky,stop,,47.995077,18.1744813
+node/10269876040,Ludanice,stop,,48.5050904,18.1193705
+node/10269876041,Ludanice,stop,,48.5047139,18.1190726
+node/10269876089,Mýtna Nová Ves,stop,,48.4841879,18.1034141
+node/10269876092,Kamanová,stop,,48.4664179,18.095301
+node/10269884822,Preseľany nad Nitrou zastávka,stop,,48.4484301,18.0934137
+node/10269884823,Koniarovce,stop,,48.429951,18.0903548
+node/10269884824,Koniarovce,stop,,48.4299414,18.090418
+node/10269884836,Výčapy-Opatovce,stop,,48.4130596,18.0801779
+node/10269884846,Jelšovce,stop,,48.3837031,18.0527123
+node/10269884847,Jelšovce,stop,,48.3836737,18.052759
+node/10269884853,Lužianky,stop,,48.3517823,18.0239863
+node/10269884854,Lužianky,stop,,48.3517584,18.0237339
+node/10269884855,Lužianky,stop,,48.3517762,18.0239218
+node/10269884856,Lužianky,stop,,48.351764,18.0237935
+node/10269884886,Nitra,stop,,48.301481,18.0793395
+node/10269884887,Nitra,stop,,48.3014647,18.0790824
+node/10269884888,Nitra,stop,,48.3014689,18.0791485
+node/10269884889,Nitra,stop,,48.3014727,18.0792088
+node/10269884910,Dolné Krškany,stop,,48.2710237,18.093294
+node/10269884913,Ivanka pri Nitre,stop,,48.2443051,18.109694
+node/10269884914,Ivanka pri Nitre,stop,,48.2442878,18.1096296
+node/10269884942,Branč,stop,,48.2072316,18.1372416
+node/10269884946,Veľký Kýr,stop,,48.1833735,18.1507545
+node/10269884954,Komjatice,stop,,48.1509911,18.1636646
+node/10269884955,Komjatice,stop,,48.1509941,18.1635996
+node/10269884960,Ondrochov,stop,,48.1215118,18.1650691
+node/10270285287,Komárno,stop,,47.769149,18.1255996
+node/10270285288,Komárno,stop,,47.7692256,18.1255547
+node/10270285289,Chotín,stop,,47.8088457,18.1898354
+node/10270285294,Hurbanovo,stop,,47.8766158,18.203462
+node/10270285295,Hurbanovo,stop,,47.8766268,18.2033971
+node/10270306909,Bajč,stop,,47.9262916,18.2116033
+node/10297020464,Skanzen,halt,,48.3015326,18.1116709
+node/10297020467,Brána,halt,,48.3079676,18.1045616
+node/10542734245,Gbelce,stop,,47.8499819,18.5059317
+node/10542734246,Gbelce,stop,,47.849126,18.5075752
+node/10542734253,Nová Vieska,stop,,47.8688095,18.4608933
+node/10542734254,Nová Vieska,stop,,47.8684186,18.4618708
+node/10542734266,Strekov,stop,,47.8998689,18.3998891
+node/10542734267,Strekov,stop,,47.8998321,18.399854
+node/10542734275,Pribeta,stop,,47.9377237,18.3171395
+node/10542734276,Pribeta,stop,,47.9376863,18.3171059
+node/10542734282,Dvory nad Žitavou,stop,,47.968445,18.2497973
+node/10542734283,Dvory nad Žitavou,stop,,47.9684102,18.2497613
+node/10566216287,Lučivná,halt,,49.05802,20.144188
+node/10567224261,Čadca,stop,,49.4451332,18.7866231
+node/10567224262,Čadca,stop,,49.4451647,18.7866802
+node/10567224263,Čadca,stop,,49.4452191,18.7867811
+node/10607601001,Turzovka,station,Turz,49.4036302,18.6280332
+node/10607619710,Kuchyňa,station,Kuch,48.4113915,17.1370545
+node/10607628268,Čadca zastávka,halt,Cadz,49.4391059,18.7794327
+node/10607631266,Hrebienok,station,,49.1581046,20.2246023
+node/10607895201,Zvolen nákladná stanica,station,Zvns,48.5727762,19.1441134
+node/10665806769,Starý Smokovec,station,,49.1415616,20.2204254
+node/10736743268,Hronec,station,Hron,48.8004225,19.5751023
+node/10781982193,Kostolná-Záriečie,halt,KosZ,48.8785087,17.976249
+node/10782000024,Melčice,halt,Melc,48.8368119,17.9193231
+node/10797701929,Depo,halt,,49.1136995,19.7969466
+node/10822339238,Stará Voda,halt,StVo,48.8125155,20.6707008
+node/10839964673,Vernár,halt,Vern,48.8821986,20.2368519
+node/10969934566,Vysoká pri Morave,station,VypM,48.333703,16.9139108
+node/10969934569,Pernek pri Zohore,halt,,48.3797149,17.1224905
+node/10969934570,Sološnica,halt,Solo,48.4711552,17.2263496
+node/10969934571,Plavecké Podhradie,station,PlPo,48.4829361,17.2508362
+node/11015380724,Šelpice,stop,,48.4280157,17.5373346
+node/11015380725,Nové Mesto nad Váhom,stop,,48.7516441,17.8360376
+node/11015380726,Nové Mesto nad Váhom,stop,,48.7516137,17.8362208
+node/11015380727,Nové Mesto nad Váhom,stop,,48.7515904,17.836348
+node/11015380730,Šajdíkove Humence,stop,,48.6599244,17.2624652
+node/11015380733,Rajec,stop,,49.0904005,18.6439309
+node/11015380734,Leopoldov,stop,,48.4416844,17.7583893
+node/11015380735,Leopoldov,stop,,48.4416758,17.7585221
+node/11015380737,Lietavská Lúčka,stop,,49.1756507,18.7185107
+node/11015380738,Lietavská Lúčka,stop,,49.1756571,18.718571
+node/11015380740,Jablonica,stop,,48.6065469,17.4084741
+node/11015380742,Jablonica,stop,,48.6065864,17.4084946
+node/11015380743,Boleráz,stop,,48.4702623,17.4984412
+node/11015533312,Trnava predmestie,stop,,48.3891627,17.5667946
+node/11015533313,Bytčica,stop,,49.1882972,18.7307874
+node/11015533314,Bytčica,stop,,49.1882662,18.7308405
+node/11015533315,Kľače,stop,,49.1066441,18.6444995
+node/11015533316,Rajecké Teplice,stop,,49.1294124,18.6787243
+node/11015533317,Cerová-Lieskové,stop,,48.596695,17.4034907
+node/11015533319,Konská pri Rajci,stop,,49.1240938,18.6698629
+node/11015533321,Žilina-Solinky,stop,,49.1991104,18.732939
+node/11015533322,Bíňovce,stop,,48.5014411,17.4725664
+node/11015533327,Klčovany,stop,,48.452268,17.5117292
+node/11015533328,Žilina-Záriečie,stop,,49.218474,18.7310803
+node/11015533329,Porúbka,stop,,49.1498787,18.7283105
+node/11015533330,Kuklov,stop,,48.6493895,17.0696528
+node/11015533331,Poluvsie,stop,,49.1331888,18.703644
+node/11015533332,Borský Mikuláš,stop,,48.6422951,17.1914647
+node/11015533333,Zbyňov,stop,,49.1173561,18.6558368
+node/11077008119,Varín,stop,,49.2017419,18.8473216
+node/11077008120,Varín,stop,,49.2017027,18.8472961
+node/11077008124,Vysoká nad Kysucou,stop,,49.3795163,18.5490219
+node/11077008125,Podvysoká,stop,,49.4137726,18.671568
+node/11077008126,Staškov,stop,,49.4236539,18.6904346
+node/11077008127,Staškov zastávka,stop,,49.4329104,18.7073311
+node/11077008128,Raková,stop,,49.447,18.7377548
+node/11082927585,Jaklovce,halt,,48.8740377,20.9799992
+node/11082970787,Liptovská Teplá,station,LiTe,49.099743,19.4165905
+node/11083379174,Brunovce,halt,Brun,48.6831092,17.8456483
+node/11083402269,Horná Streda,halt,HrSt,48.6513492,17.836176
+node/11083459263,Považany,halt,Pova,48.7031252,17.8421958
+node/11083650047,Považská Bystrica,station,PoBy,49.1232837,18.4302379
+node/11111327845,Skalité-Kudlov,stop,,49.4989338,18.9360721
+node/11111327846,Skalité zastávka,stop,,49.5053487,18.8721631
+node/11111327847,Čierne pri Čadci zastávka,stop,,49.5096739,18.8455808
+node/11111327848,Čierne pri Čadci,stop,,49.4952082,18.8195568
+node/11111327849,Čierne pri Čadci,stop,,49.4952431,18.819493
+node/11127526872,Maťovce ŠRT,station,MaSR,48.5591501,22.1292966
+node/11130574947,Čierna nad Tisou ŠRT,station,CnTS,48.4257615,22.0956714
+node/11153601590,Senica,stop,,48.6652459,17.3353664
+node/11153601599,Šaštín-Stráže,stop,,48.6338135,17.1431126
+node/11249203833,Lučivná,stop,,49.0580162,20.1439664
+node/11346142178,Bratislava-Petržalka,stop,7,48.1216768,17.099908
+node/11346142179,Bratislava-Petržalka,stop,8,48.1214933,17.0991564
+node/11346142180,Bratislava-Petržalka,stop,9,48.1212792,17.0996392
+node/11404338580,Zbehy,stop,,48.3820899,17.9999049
+node/11422318522,Rohožník,station,,48.452466,17.1711333
+node/11434328349,Hlohovec,stop,,48.4332972,17.8071084
+node/11518823777,Výh. Paludza,station,Palu,49.0910138,19.5212889
+node/11518866253,Sereď,stop,,48.2901478,17.727039
+node/11546536870,Púchov,stop,,49.1134375,18.327074
+node/11546536871,Púchov,stop,,49.1134141,18.3272665
+node/11546536872,Považská Bystrica,stop,,49.1229852,18.4312608
+node/11546536873,Považská Bystrica,stop,,49.1228664,18.4311628
+node/11599091133,Žilina-Teplička,station,ZiTe,49.2060191,18.8287016
+node/11761667906,Makov,station,Mako,49.3721341,18.4844484
+node/11765555721,Prievidza,stop,,48.7750268,18.6167736
+node/11765693690,Hlohovec,stop,,48.4332663,17.8070613
+node/11765779656,Zbehy,stop,,48.3821127,17.9999616
+node/11787260006,Čierny Balog,stop,,48.7462217,19.657184
+node/11789400642,Dobroč,stop,,48.7335648,19.6960172
+node/11792059473,Brestovany,stop,,48.3820042,17.6911947
+node/11792059474,Brestovany,stop,,48.3819865,17.6912434
+node/11792395583,Piešťany,stop,,48.5963027,17.8147275
+node/11792395584,Piešťany,stop,,48.5962492,17.8149138
+node/11792775760,Dubnica nad Váhom,stop,,48.9662603,18.1677967
+node/11792777963,Ilava,stop,,49.002046,18.236353
+node/11792777964,Ilava,stop,,49.0021376,18.2361974
+node/11792816372,Púchov,stop,,49.1134534,18.3269459
+node/11792816373,Púchov,stop,,49.1133965,18.3273953
+node/11792827986,Považská Bystrica,stop,,49.1230664,18.4313212
+node/11792913373,Bratislava hl.st.,stop,14,48.1590437,17.1064858
+node/11801355356,Dubnica nad Váhom,stop,,48.9664106,18.1676479
+node/11802348940,Kúty,stop,,48.6623214,17.047838
+node/11926336367,Trenčianske Teplice,station,TrTp,48.9101489,18.1705201
+node/11926336368,Trenčianske Teplice zastávka,halt,TeTz,48.912818,18.1641783
+node/11926340471,Trenčianske Teplice sídlisko,halt,TeTS,48.9151843,18.1572988
+node/11926340488,Kaňová,halt,Kano,48.9215419,18.1446939
+node/11926340504,Trenčianska Teplá obec,halt,TrTO,48.9344485,18.1173917
+node/11926340505,Trenčianska Teplá,halt,Turt,48.9371315,18.113401
+node/11930737140,Púchov závody,stop,,49.1074653,18.3170056
+node/11930737141,Púchov zastávka,stop,,49.1162526,18.3061176
+node/11930737144,Záriečie,halt,Zari,49.1770176,18.2528347
+node/11930737157,Dohňany,halt,Dohn,49.1457472,18.2871438
+node/11930737164,Púchov zastávka,halt,Pchz,49.1164183,18.3061704
+node/11930737169,Púchov závody,halt,Puza,49.1076215,18.3165982
+node/11931081039,Strelenka,stop,,49.1835599,18.1437097
+node/11931081040,Strelenka,stop,,49.1835874,18.143667
+node/11931102878,Lúky pod Makytou,stop,,49.1907932,18.2288303
+node/11931102879,Lúky pod Makytou,stop,,49.190731,18.2293382
+node/11938027007,Čachtice,stop,,48.7215058,17.798763
+node/11940050438,Stará Turá,stop,,48.7729261,17.7005347
+node/11940082670,Vaďovce,stop,,48.7309534,17.7246487
+node/11940082705,Višňové,stop,,48.7249715,17.7521206
+node/11941915354,Poriadie,stop,,48.7762514,17.615547
+node/11942518222,Myjava,stop,,48.7637033,17.5709851
+node/11942518266,Vrbovce,stop,,48.8243252,17.516334
+node/11942518303,Vrbovce zastávka (z),stop,,48.804866,17.5286603
+node/11942518321,Brestovec,stop,,48.7863042,17.5571307
+node/11945803664,Ladce,stop,,49.032381,18.2885884
+node/11945803665,Ladce,stop,,49.0345813,18.2906001
+node/11945813806,Košeca,stop,,49.0147728,18.258065
+node/11945813811,Beluša,stop,,49.0626459,18.3193678
+node/11945813812,Beluša,stop,,49.0626648,18.3193187
+node/11945813821,Dolné Kočkovce,stop,,49.091304,18.3222205
+node/11945813822,Dolné Kočkovce,stop,,49.0912938,18.3221675
+node/11950481209,Trenčín-Zlatovce,stop,,48.900703,18.0227172
+node/11950481210,Trenčín-Zlatovce,stop,,48.9005716,18.0218563
+node/11950481211,Trenčín-Zlatovce,station,Zlto,48.9006446,18.0227447
+node/11950481295,Trenčín-Opatová,stop,,48.9101612,18.0881721
+node/11950481296,Trenčín-Opatová,stop,,48.9101646,18.0881162
+node/11951975009,Trenčianske Bohuslavice,stop,,48.8026672,17.8751938
+node/11951975010,Trenčianske Bohuslavice,stop,,48.8027291,17.8750196
+node/11955661011,Madunice,stop,,48.4767906,17.7641316
+node/11955661012,Madunice,stop,,48.4767933,17.7640757
+node/11955661035,Drahovce zastávka,stop,,48.5264531,17.7901275
+node/11955661036,Drahovce zastávka,stop,,48.5264591,17.7900726
+node/11961058966,Siladice,stop,,48.37278,17.7376898
+node/11961058967,Siladice,stop,,48.3727661,17.7377519
+node/11961062372,Siladice,station,Sila,48.3725511,17.737577
+node/11961062373,Šúrovce,stop,,48.3271474,17.7216841
+node/11961062374,Šúrovce,stop,,48.3276676,17.722102
+node/11975152166,Nemčanka,station,NemN,48.3941007,17.5644958
+node/11978584622,Buková,stop,,48.5522101,17.451127
+node/11978989109,Jablonica,stop,,48.6065052,17.4084519
+node/11990584984,Vysoká pri Morave zastávka,stop,,48.3577638,16.8851129
+node/11990584986,Lábske jazero,stop,,48.3342122,16.9472247
+node/12009870322,Žilina,stop,,49.2270482,18.748466
+node/12009870323,Žilina,stop,,49.2269541,18.7484115
+node/12071571000,Kľačany,stop,,48.3869853,17.8679367
+node/12071571001,Rišňovce,stop,,48.37309,17.8903439
+node/12071571002,Alekšince,stop,,48.3636638,17.9427929
+node/12071571003,Andač,stop,,48.3811434,17.9672448
+node/12071571004,Zbehy obec,stop,,48.3670677,18.0132992
+node/12142350976,Štúrovo tranzitná skupina,station,Stts,47.8013857,18.6504038
+node/12145658336,Žilina,stop,,49.2269168,18.7498406
+node/12168516265,Tvrdošovce,stop,,48.0922189,18.041061
+node/12168516266,Tvrdošovce,stop,,48.0922454,18.0411126
+node/12168516267,Palárikovo,stop,,48.060392,18.0814238
+node/12168516268,Palárikovo,stop,,48.0604198,18.0814749
+node/12168522388,Ľudovítov,stop,,48.0358552,18.1127736
+node/12168522389,Ľudovítov,stop,,48.0358758,18.1128188
+node/12171875282,Trnovec nad Váhom,stop,,48.1525535,17.9291649
+node/12171875283,Trnovec nad Váhom,stop,,48.1525975,17.929179
+node/12171875489,Jatov,stop,,48.1184568,18.0075891
+node/12171875490,Jatov,stop,,48.1184823,18.0076343
+node/12175031941,Topoľnica,stop,,48.1666964,17.7942497
+node/12175031942,Topoľnica,stop,,48.1667355,17.7942723
+node/12182183168,Bodza,stop,,47.8345382,17.8208509
+node/12182183184,Komárno závody,stop,,47.7723504,18.0923221
+node/12182194538,Okoličná na Ostrove,stop,,47.7930786,17.9005085
+node/12182194545,Horná Zlatná,stop,,47.7804948,17.946556
+node/12182194570,Nová Stráž,stop,,47.7643165,18.0493069
+node/12182655953,Kútniky,stop,,47.9827496,17.6530098
+node/12182655986,Dolný Bar,stop,,47.9672137,17.6941661
+node/12182656039,Okoč,stop,,47.8955652,17.7950238
+node/12182656064,Veľký Meder,stop,,47.8612413,17.7819794
+node/12182656065,Veľký Meder,stop,,47.8612223,17.7819215
+node/12184248889,Malá Paka,stop,,48.0441402,17.3876405
+node/12184248891,Veľká Paka,stop,,48.0385364,17.4033717
+node/12184248900,Lehnice,stop,,48.0319008,17.4515915
+node/12184251501,Lehnice,stop,,48.0314401,17.4532385
+node/12184251542,Michal na Ostrove,stop,,48.0183483,17.5039745
+node/12184251551,Orechová Potôň,stop,,48.0141985,17.531905
+node/12184251566,Veľké Blahovo,stop,,48.0064008,17.576038
+node/12184251567,Dunajská Streda,stop,,47.9933193,17.6082255
+node/12184251568,Dunajská Streda,stop,,47.99327,17.608187
+node/12194885592,Podunajské Biskupice,stop,,48.1318316,17.220537
+node/12194885759,Nové Košariská,stop,,48.1002948,17.2759825
+node/12194885925,Kvetoslavov,stop,,48.0559184,17.3586425
+node/12346253729,Svrčinovec zastávka,halt,Svrz,49.4820428,18.788439
+node/12712878325,Chľaba zastávka,station,,47.8248069,18.8283613
+node/12895597868,Poprad-Tatry,stop,,49.0600046,20.2948892
+node/12905611397,Brezová pod Bradlom,stop,,48.6517634,17.530687
+node/12985612487,Ružomberok - Hlavná stanica,station,1,49.0822582,19.3098964
