@@ -7,7 +7,7 @@ from matplotlib.patches import Patch
 import seaborn as sns
 import geopandas as gpd
 from shapely.geometry import Point
-from typing import Tuple, Dict
+from typing import Tuple, Dict 
 
 sns.set_theme(style="whitegrid")
 plt.rcParams.update({

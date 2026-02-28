@@ -7,7 +7,7 @@ from shapely.geometry import Point
 
 import pandas as pd
 from rdflib import Graph, URIRef
-from rdflib.namespace import RDF, Namespace
+from rdflib.namespace import RDF, Namespace 
 
 # =======================================================================================
 #                             Configuration / Flags
