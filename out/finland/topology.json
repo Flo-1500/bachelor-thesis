@@ -1,0 +1,12 @@
+{
+  "nodes": 797,
+  "edges": 835,
+  "weak_components": 2,
+  "isolated_nodes": 1,
+  "ops_without_sols_count": 1,
+  "missing_reverse_edges": 835,
+  "component_sizes": [
+    796,
+    1
+  ]
+}

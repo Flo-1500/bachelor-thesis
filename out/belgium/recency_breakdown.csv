@@ -1,0 +1,3 @@
+type,total,current,expired,unknown,not_yet_valid,current_share_%,expired_share_%,unknown_share_%,not_yet_valid_share_%
+ops,1308,1307,1,0,0,99.92,0.08,0.0,0.0
+sols,1743,1699,44,0,0,97.48,2.52,0.0,0.0

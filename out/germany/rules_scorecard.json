@@ -1,0 +1,25 @@
+{
+  "R1_sols_endpoints_exist_%": 100.0,
+  "R2_min_distance_violations": 0,
+  "R2_zero_distance_pairs": 0,
+  "R3_bbox_violations": 152,
+  "R4_osm_within_threshold_%": 99.0,
+  "R5_osm_type_compatible_%": 86.2,
+  "R6_missing_reverse_edges_%": 94.86,
+  "R7_recency_ops_%": 55.81,
+  "R7_recency_sols_%": 49.99,
+  "R7_ops_expired_%": 0.0,
+  "R7_ops_unknown_%": 0.0,
+  "R7_sols_expired_%": 0.0,
+  "R7_sols_unknown_%": 0.0,
+  "R8_osm_only_count": 5054,
+  "R8_osm_total": 17153,
+  "R8_osm_only_share_%": 29.46,
+  "R8_align_distance_m": 200,
+  "notes": {
+    "country": "germany",
+    "min_op_distance_m": 50,
+    "max_osm_distance_m": 100,
+    "assume_bidirectional": true
+  }
+}

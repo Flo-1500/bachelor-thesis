@@ -1,0 +1,25 @@
+{
+  "R1_sols_endpoints_exist_%": 100.0,
+  "R2_min_distance_violations": 0,
+  "R2_zero_distance_pairs": 0,
+  "R3_bbox_violations": 13,
+  "R4_osm_within_threshold_%": 94.0,
+  "R5_osm_type_compatible_%": 52.8,
+  "R6_missing_reverse_edges_%": 100.0,
+  "R7_recency_ops_%": 0.0,
+  "R7_recency_sols_%": 0.0,
+  "R7_ops_expired_%": 0.0,
+  "R7_ops_unknown_%": 100.0,
+  "R7_sols_expired_%": 0.0,
+  "R7_sols_unknown_%": 100.0,
+  "R8_osm_only_count": 731,
+  "R8_osm_total": 1388,
+  "R8_osm_only_share_%": 52.67,
+  "R8_align_distance_m": 200,
+  "notes": {
+    "country": "sweden",
+    "min_op_distance_m": 50,
+    "max_osm_distance_m": 100,
+    "assume_bidirectional": true
+  }
+}

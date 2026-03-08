@@ -1,0 +1,15 @@
+{
+  "date_predicates": [
+    "http://data.europa.eu/949/validityEndDate",
+    "http://data.europa.eu/949/validityStartDate"
+  ],
+  "total": 2638,
+  "current": 2581,
+  "expired": 0,
+  "unknown": 57,
+  "not_yet_valid": 0,
+  "current_share_%": 97.84,
+  "expired_share_%": 0.0,
+  "unknown_share_%": 2.16,
+  "not_yet_valid_share_%": 0.0
+}
