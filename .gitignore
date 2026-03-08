@@ -1,5 +1,5 @@
 ﻿/data/
-/out/
+# /out/
 /plots/
 /out_old/
 /plots_old/
@@ -7,11 +7,11 @@
 
 # optional extra-sicher:
 data/**
-out/**
+# out/**
 plots/**
 out_old/**
 plots_old/**
 shapes/**
 
 *.zip
-*.csv
+# *.csv
